@@ -1,0 +1,9 @@
+{
+    "name": "advance-automation-site-build",
+    "private": true,
+    "type": "module",
+    "description": "Formatter used by build.py (same settings as webformatter.com/html)",
+    "dependencies": {
+        "prettier": "3.3.3"
+    }
+}

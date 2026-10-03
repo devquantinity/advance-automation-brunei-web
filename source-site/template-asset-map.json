@@ -1,0 +1,3722 @@
+{
+ "source": "https://veltom.webflow.io",
+ "fetchedAt": "2026-09-30T13:04:40.480Z",
+ "files": [
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/css/veltom.webflow.shared.7640c260e.css",
+   "local": "css/veltom.shared.7640c260e.css"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/67120366607c3893602e76cf/6716425838da07791132dbf1_Circle.json",
+   "local": "documents/6716425838da07791132dbf1_Circle.json"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eafb8_Line%20(1)%201.json",
+   "local": "documents/69b2a15200bc2cb1d23eafb8_Line-1-1.json"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23ead89_SourceSansPro-Regular.ttf",
+   "local": "fonts/69b2a15200bc2cb1d23ead89_SourceSansPro-Regular.ttf"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23ead8a_SourceSansPro-Semibold.ttf",
+   "local": "fonts/69b2a15200bc2cb1d23ead8a_SourceSansPro-Semibold.ttf"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69675ea7d8df853713f5db5f%2F6989d5dd88740358beb2339d_13976706_1920_1080_30fps%20%281%29_poster.0000000.jpg",
+   "local": "images/6989d5dd88740358beb2339d_13976706_1920_1080_30fps-1_poster.0000000.jpg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69675ea7d8df853713f5db5f%2F69a91f02b0fbeff251598684_About-two-banner-video_poster.0000000.jpg",
+   "local": "images/69a91f02b0fbeff251598684_About-two-banner-video_poster.0000000.jpg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69675ea7d8df853713f5db5f/69aeb6fc15e2413ac8913358_Open-graph-image.jpg",
+   "local": "images/69aeb6fc15e2413ac8913358_Open-graph-image.jpg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23ead8b_Blog-banner-image-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23ead8b_Blog-banner-image-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23ead8b_Blog-banner-image-p-1600.webp",
+   "local": "images/69b2a15200bc2cb1d23ead8b_Blog-banner-image-p-1600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23ead8b_Blog-banner-image-p-2000.webp",
+   "local": "images/69b2a15200bc2cb1d23ead8b_Blog-banner-image-p-2000.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23ead8b_Blog-banner-image-p-2600.webp",
+   "local": "images/69b2a15200bc2cb1d23ead8b_Blog-banner-image-p-2600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23ead8b_Blog-banner-image-p-3200.webp",
+   "local": "images/69b2a15200bc2cb1d23ead8b_Blog-banner-image-p-3200.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23ead8b_Blog-banner-image-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23ead8b_Blog-banner-image-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23ead8b_Blog-banner-image-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23ead8b_Blog-banner-image-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23ead8b_Blog-banner-image.webp",
+   "local": "images/69b2a15200bc2cb1d23ead8b_Blog-banner-image.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23ead8e_Caleander-blog.svg",
+   "local": "images/69b2a15200bc2cb1d23ead8e_Caleander-blog.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23ead9f_Right-arrow.svg",
+   "local": "images/69b2a15200bc2cb1d23ead9f_Right-arrow.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eada1_Team-banner-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eada1_Team-banner-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eada1_Team-banner-p-1600.webp",
+   "local": "images/69b2a15200bc2cb1d23eada1_Team-banner-p-1600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eada1_Team-banner-p-2000.webp",
+   "local": "images/69b2a15200bc2cb1d23eada1_Team-banner-p-2000.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eada1_Team-banner-p-2600.webp",
+   "local": "images/69b2a15200bc2cb1d23eada1_Team-banner-p-2600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eada1_Team-banner-p-3200.webp",
+   "local": "images/69b2a15200bc2cb1d23eada1_Team-banner-p-3200.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eada1_Team-banner-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eada1_Team-banner-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eada1_Team-banner-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eada1_Team-banner-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eada1_Team-banner.webp",
+   "local": "images/69b2a15200bc2cb1d23eada1_Team-banner.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eada2_Team-details-banner-p-1080.avif",
+   "local": "images/69b2a15200bc2cb1d23eada2_Team-details-banner-p-1080.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eada2_Team-details-banner-p-1600.avif",
+   "local": "images/69b2a15200bc2cb1d23eada2_Team-details-banner-p-1600.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eada2_Team-details-banner-p-500.avif",
+   "local": "images/69b2a15200bc2cb1d23eada2_Team-details-banner-p-500.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eada2_Team-details-banner-p-800.avif",
+   "local": "images/69b2a15200bc2cb1d23eada2_Team-details-banner-p-800.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eada2_Team-details-banner.avif",
+   "local": "images/69b2a15200bc2cb1d23eada2_Team-details-banner.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eada4_Facebook-v1.svg",
+   "local": "images/69b2a15200bc2cb1d23eada4_Facebook-v1.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eada5_Instagram-v1.svg",
+   "local": "images/69b2a15200bc2cb1d23eada5_Instagram-v1.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eada7_Instagram-v2.svg",
+   "local": "images/69b2a15200bc2cb1d23eada7_Instagram-v2.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eada8_In-v2.svg",
+   "local": "images/69b2a15200bc2cb1d23eada8_In-v2.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eada9_Facebook-v2.svg",
+   "local": "images/69b2a15200bc2cb1d23eada9_Facebook-v2.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadaa_Email.svg",
+   "local": "images/69b2a15200bc2cb1d23eadaa_Email.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadab_Call.svg",
+   "local": "images/69b2a15200bc2cb1d23eadab_Call.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadac_Colon.svg",
+   "local": "images/69b2a15200bc2cb1d23eadac_Colon.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadae_Service-3-banner-inner-1-image.webp",
+   "local": "images/69b2a15200bc2cb1d23eadae_Service-3-banner-inner-1-image.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadb7_Service-3-banner-inner-2-image.webp",
+   "local": "images/69b2a15200bc2cb1d23eadb7_Service-3-banner-inner-2-image.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadbf_Time-bound.svg",
+   "local": "images/69b2a15200bc2cb1d23eadbf_Time-bound.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc0_Time-optimized.svg",
+   "local": "images/69b2a15200bc2cb1d23eadc0_Time-optimized.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc1_Safety-focused.svg",
+   "local": "images/69b2a15200bc2cb1d23eadc1_Safety-focused.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc2_Scroll-v1-4.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc2_Scroll-v1-4.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc2_scroll-v1-4-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc2_scroll-v1-4-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc2_scroll-v1-4-p-1600.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc2_scroll-v1-4-p-1600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc2_scroll-v1-4-p-2000.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc2_scroll-v1-4-p-2000.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc2_scroll-v1-4-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc2_scroll-v1-4-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc2_scroll-v1-4-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc2_scroll-v1-4-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc3_Scroll-v1-3.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc3_Scroll-v1-3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc3_scroll-v1-3-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc3_scroll-v1-3-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc3_scroll-v1-3-p-1600.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc3_scroll-v1-3-p-1600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc3_scroll-v1-3-p-2000.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc3_scroll-v1-3-p-2000.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc3_scroll-v1-3-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc3_scroll-v1-3-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc3_scroll-v1-3-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc3_scroll-v1-3-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc4_Scroll-v1-2.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc4_Scroll-v1-2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc4_scroll-v1-2-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc4_scroll-v1-2-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc4_scroll-v1-2-p-1600.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc4_scroll-v1-2-p-1600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc4_scroll-v1-2-p-2000.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc4_scroll-v1-2-p-2000.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc4_scroll-v1-2-p-2600.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc4_scroll-v1-2-p-2600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc4_scroll-v1-2-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc4_scroll-v1-2-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc4_scroll-v1-2-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc4_scroll-v1-2-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc5_Scroll-v1-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc5_Scroll-v1-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc5_scroll-v1-1-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc5_scroll-v1-1-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc5_scroll-v1-1-p-1600.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc5_scroll-v1-1-p-1600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc5_scroll-v1-1-p-2000.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc5_scroll-v1-1-p-2000.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc5_scroll-v1-1-p-2600.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc5_scroll-v1-1-p-2600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc5_scroll-v1-1-p-3200.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc5_scroll-v1-1-p-3200.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc5_scroll-v1-1-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc5_scroll-v1-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc5_scroll-v1-1-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc5_scroll-v1-1-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc6_About-v1-left-image-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc6_About-v1-left-image-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc6_about-v1-left-image-1-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc6_about-v1-left-image-1-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc6_about-v1-left-image-1-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc6_about-v1-left-image-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadc6_about-v1-left-image-1-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eadc6_about-v1-left-image-1-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadce_Client-reviews-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eadce_Client-reviews-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadcf_Client-reviews-3.webp",
+   "local": "images/69b2a15200bc2cb1d23eadcf_Client-reviews-3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadd0_Client-reviews-2.webp",
+   "local": "images/69b2a15200bc2cb1d23eadd0_Client-reviews-2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadd1_Client-reviews-5.webp",
+   "local": "images/69b2a15200bc2cb1d23eadd1_Client-reviews-5.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadd2_Client-reviews-4.webp",
+   "local": "images/69b2a15200bc2cb1d23eadd2_Client-reviews-4.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadd3_Client-Reviews-v2-3-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eadd3_Client-Reviews-v2-3-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadd3_Client-Reviews-v2-3-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eadd3_Client-Reviews-v2-3-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadd3_Client-Reviews-v2-3-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eadd3_Client-Reviews-v2-3-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadd3_Client-reviews-v2-3.webp",
+   "local": "images/69b2a15200bc2cb1d23eadd3_Client-reviews-v2-3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadd4_Client-Reviews-v2-5-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eadd4_Client-Reviews-v2-5-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadd4_Client-Reviews-v2-5-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eadd4_Client-Reviews-v2-5-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadd4_Client-Reviews-v2-5-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eadd4_Client-Reviews-v2-5-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadd4_Client-reviews-v2-5.webp",
+   "local": "images/69b2a15200bc2cb1d23eadd4_Client-reviews-v2-5.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadd5_Client-Reviews-v2-1-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eadd5_Client-Reviews-v2-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadd5_Client-Reviews-v2-1-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eadd5_Client-Reviews-v2-1-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadd5_Client-reviews-v2-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eadd5_Client-reviews-v2-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadd6_Client-Reviews-v2-4-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eadd6_Client-Reviews-v2-4-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadd6_Client-Reviews-v2-4-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eadd6_Client-Reviews-v2-4-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadd6_Client-Reviews-v2-4-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eadd6_Client-Reviews-v2-4-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadd6_Client-reviews-v2-4.webp",
+   "local": "images/69b2a15200bc2cb1d23eadd6_Client-reviews-v2-4.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaddc_Industrial-innovation.svg",
+   "local": "images/69b2a15200bc2cb1d23eaddc_Industrial-innovation.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaddd_Energy-efficiency.svg",
+   "local": "images/69b2a15200bc2cb1d23eaddd_Energy-efficiency.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadde_Plant-engineering.svg",
+   "local": "images/69b2a15200bc2cb1d23eadde_Plant-engineering.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eade5_About-v1-left-image-2.webp",
+   "local": "images/69b2a15200bc2cb1d23eade5_About-v1-left-image-2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eade5_about-v1-left-image-2-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eade5_about-v1-left-image-2-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eade5_about-v1-left-image-2-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eade5_about-v1-left-image-2-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eade5_about-v1-left-image-2-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eade5_about-v1-left-image-2-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eade6_About-v1-left-image-4.webp",
+   "local": "images/69b2a15200bc2cb1d23eade6_About-v1-left-image-4.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eade6_about-v1-left-image-4-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eade6_about-v1-left-image-4-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eade6_about-v1-left-image-4-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eade6_about-v1-left-image-4-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eade6_about-v1-left-image-4-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eade6_about-v1-left-image-4-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eade7_About-v1-left-image-3.webp",
+   "local": "images/69b2a15200bc2cb1d23eade7_About-v1-left-image-3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eade7_about-v1-left-image-3-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eade7_about-v1-left-image-3-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eade7_about-v1-left-image-3-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eade7_about-v1-left-image-3-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eade7_about-v1-left-image-3-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eade7_about-v1-left-image-3-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eade9_Star-service.svg",
+   "local": "images/69b2a15200bc2cb1d23eade9_Star-service.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadeb_Tick-1.svg",
+   "local": "images/69b2a15200bc2cb1d23eadeb_Tick-1.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadec_Passionate-image-v2-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eadec_Passionate-image-v2-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadec_Passionate-image-v2.webp",
+   "local": "images/69b2a15200bc2cb1d23eadec_Passionate-image-v2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadee_CTA-Image-v2-p-500.jpg",
+   "local": "images/69b2a15200bc2cb1d23eadee_CTA-Image-v2-p-500.jpg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadee_CTA-Image-v2.jpg",
+   "local": "images/69b2a15200bc2cb1d23eadee_CTA-Image-v2.jpg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadf3_Time-bound-icon-4.svg",
+   "local": "images/69b2a15200bc2cb1d23eadf3_Time-bound-icon-4.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadf5_Time-bound-icon-2.svg",
+   "local": "images/69b2a15200bc2cb1d23eadf5_Time-bound-icon-2.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadfb_Time-bound-icon-1.svg",
+   "local": "images/69b2a15200bc2cb1d23eadfb_Time-bound-icon-1.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadfc_Integrated-4-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eadfc_Integrated-4-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadfc_Integrated-4-p-1600.webp",
+   "local": "images/69b2a15200bc2cb1d23eadfc_Integrated-4-p-1600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadfc_Integrated-4-p-2000.webp",
+   "local": "images/69b2a15200bc2cb1d23eadfc_Integrated-4-p-2000.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadfc_Integrated-4-p-2600.webp",
+   "local": "images/69b2a15200bc2cb1d23eadfc_Integrated-4-p-2600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadfc_Integrated-4-p-3200.webp",
+   "local": "images/69b2a15200bc2cb1d23eadfc_Integrated-4-p-3200.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadfc_Integrated-4-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eadfc_Integrated-4-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadfc_Integrated-4-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eadfc_Integrated-4-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadfc_Integrated-4.webp",
+   "local": "images/69b2a15200bc2cb1d23eadfc_Integrated-4.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadfd_Integrated-1-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eadfd_Integrated-1-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadfd_Integrated-1-p-1600.webp",
+   "local": "images/69b2a15200bc2cb1d23eadfd_Integrated-1-p-1600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadfd_Integrated-1-p-2000.webp",
+   "local": "images/69b2a15200bc2cb1d23eadfd_Integrated-1-p-2000.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadfd_Integrated-1-p-2600.webp",
+   "local": "images/69b2a15200bc2cb1d23eadfd_Integrated-1-p-2600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadfd_Integrated-1-p-3200.webp",
+   "local": "images/69b2a15200bc2cb1d23eadfd_Integrated-1-p-3200.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadfd_Integrated-1-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eadfd_Integrated-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadfd_Integrated-1-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eadfd_Integrated-1-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadfd_Integrated-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eadfd_Integrated-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadfe_Integrated-2-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eadfe_Integrated-2-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadfe_Integrated-2-p-1600.webp",
+   "local": "images/69b2a15200bc2cb1d23eadfe_Integrated-2-p-1600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadfe_Integrated-2-p-2000.webp",
+   "local": "images/69b2a15200bc2cb1d23eadfe_Integrated-2-p-2000.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadfe_Integrated-2-p-2600.webp",
+   "local": "images/69b2a15200bc2cb1d23eadfe_Integrated-2-p-2600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadfe_Integrated-2-p-3200.webp",
+   "local": "images/69b2a15200bc2cb1d23eadfe_Integrated-2-p-3200.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadfe_Integrated-2-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eadfe_Integrated-2-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadfe_Integrated-2-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eadfe_Integrated-2-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadfe_Integrated-2.webp",
+   "local": "images/69b2a15200bc2cb1d23eadfe_Integrated-2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadff_Integrated-3-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eadff_Integrated-3-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadff_Integrated-3-p-1600.webp",
+   "local": "images/69b2a15200bc2cb1d23eadff_Integrated-3-p-1600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadff_Integrated-3-p-2000.webp",
+   "local": "images/69b2a15200bc2cb1d23eadff_Integrated-3-p-2000.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadff_Integrated-3-p-2600.webp",
+   "local": "images/69b2a15200bc2cb1d23eadff_Integrated-3-p-2600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadff_Integrated-3-p-3200.webp",
+   "local": "images/69b2a15200bc2cb1d23eadff_Integrated-3-p-3200.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadff_Integrated-3-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eadff_Integrated-3-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadff_Integrated-3-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eadff_Integrated-3-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eadff_Integrated-3.webp",
+   "local": "images/69b2a15200bc2cb1d23eadff_Integrated-3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae01_Service-two-workflow-3.webp",
+   "local": "images/69b2a15200bc2cb1d23eae01_Service-two-workflow-3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae01_service-two-workflow-3-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eae01_service-two-workflow-3-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae01_service-two-workflow-3-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eae01_service-two-workflow-3-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae01_service-two-workflow-3-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eae01_service-two-workflow-3-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae04_Services-Advanced-3-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eae04_Services-Advanced-3-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae04_Services-Advanced-3-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eae04_Services-Advanced-3-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae04_Services-Advanced-3-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eae04_Services-Advanced-3-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae04_Services-advanced-3.webp",
+   "local": "images/69b2a15200bc2cb1d23eae04_Services-advanced-3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae06_Service-two-service-a4.webp",
+   "local": "images/69b2a15200bc2cb1d23eae06_Service-two-service-a4.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae07_Service-two-service-a3.webp",
+   "local": "images/69b2a15200bc2cb1d23eae07_Service-two-service-a3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae08_Service-two-service-a1.webp",
+   "local": "images/69b2a15200bc2cb1d23eae08_Service-two-service-a1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae09_Service-two-service-a2.webp",
+   "local": "images/69b2a15200bc2cb1d23eae09_Service-two-service-a2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae0a_Service-two-service-a5.webp",
+   "local": "images/69b2a15200bc2cb1d23eae0a_Service-two-service-a5.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae0b_Service-two-service-b3.webp",
+   "local": "images/69b2a15200bc2cb1d23eae0b_Service-two-service-b3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae0b_service-two-service-b3-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eae0b_service-two-service-b3-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae10_Service-two-service-b4.webp",
+   "local": "images/69b2a15200bc2cb1d23eae10_Service-two-service-b4.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae10_service-two-service-b4-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eae10_service-two-service-b4-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae12_Service-two-service-b1.webp",
+   "local": "images/69b2a15200bc2cb1d23eae12_Service-two-service-b1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae12_service-two-service-b1-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eae12_service-two-service-b1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae13_Service-two-service-b2.webp",
+   "local": "images/69b2a15200bc2cb1d23eae13_Service-two-service-b2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae13_service-two-service-b2-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eae13_service-two-service-b2-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae14_Service-two-service-b5.webp",
+   "local": "images/69b2a15200bc2cb1d23eae14_Service-two-service-b5.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae14_service-two-service-b5-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eae14_service-two-service-b5-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae15_Service-two-service-c1.webp",
+   "local": "images/69b2a15200bc2cb1d23eae15_Service-two-service-c1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae15_service-two-service-c1-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eae15_service-two-service-c1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae15_service-two-service-c1-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eae15_service-two-service-c1-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae16_Service-two-service-c4.webp",
+   "local": "images/69b2a15200bc2cb1d23eae16_Service-two-service-c4.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae16_service-two-service-c4-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eae16_service-two-service-c4-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae16_service-two-service-c4-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eae16_service-two-service-c4-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae17_Service-two-service-c3.webp",
+   "local": "images/69b2a15200bc2cb1d23eae17_Service-two-service-c3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae17_service-two-service-c3-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eae17_service-two-service-c3-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae17_service-two-service-c3-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eae17_service-two-service-c3-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae18_Service-two-service-c2.webp",
+   "local": "images/69b2a15200bc2cb1d23eae18_Service-two-service-c2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae18_service-two-service-c2-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eae18_service-two-service-c2-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae18_service-two-service-c2-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eae18_service-two-service-c2-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae19_Service-two-service-c5.webp",
+   "local": "images/69b2a15200bc2cb1d23eae19_Service-two-service-c5.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae19_service-two-service-c5-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eae19_service-two-service-c5-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae19_service-two-service-c5-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eae19_service-two-service-c5-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae1a_Footer-main-logo.svg",
+   "local": "images/69b2a15200bc2cb1d23eae1a_Footer-main-logo.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eae2b_69731b37b0e1f384594a2fbc_Consultik%2520blog%2520B5.webp",
+   "local": "images/69b2a15200bc2cb1d23eae2b_69731b37b0e1f384594a2fbc_Consultik-blog-B5.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae2e_Service-one-solutions-v2.webp",
+   "local": "images/69b2a15200bc2cb1d23eae2e_Service-one-solutions-v2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae2e_service-one-solutions-v2-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eae2e_service-one-solutions-v2-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae2e_service-one-solutions-v2-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eae2e_service-one-solutions-v2-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae2f_Service-one-solutions-icon-3.svg",
+   "local": "images/69b2a15200bc2cb1d23eae2f_Service-one-solutions-icon-3.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae30_Service-one-solutions-icon-1.svg",
+   "local": "images/69b2a15200bc2cb1d23eae30_Service-one-solutions-icon-1.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae31_Service-one-solutions-icon-2.svg",
+   "local": "images/69b2a15200bc2cb1d23eae31_Service-one-solutions-icon-2.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae33_Service-oner-infrastructure-2.webp",
+   "local": "images/69b2a15200bc2cb1d23eae33_Service-oner-infrastructure-2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae35_Right-arrow-b.svg",
+   "local": "images/69b2a15200bc2cb1d23eae35_Right-arrow-b.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae36_Service-one-process-1-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eae36_Service-one-process-1-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae36_Service-one-process-1-p-1600.webp",
+   "local": "images/69b2a15200bc2cb1d23eae36_Service-one-process-1-p-1600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae36_Service-one-process-1-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eae36_Service-one-process-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae36_Service-one-process-1-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eae36_Service-one-process-1-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae36_Service-one-process-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eae36_Service-one-process-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae37_Service-one-process-2-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eae37_Service-one-process-2-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae37_Service-one-process-2-p-1600.webp",
+   "local": "images/69b2a15200bc2cb1d23eae37_Service-one-process-2-p-1600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae37_Service-one-process-2-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eae37_Service-one-process-2-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae37_Service-one-process-2-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eae37_Service-one-process-2-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae37_Service-one-process-2.webp",
+   "local": "images/69b2a15200bc2cb1d23eae37_Service-one-process-2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae38_Service-one-process-3-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eae38_Service-one-process-3-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae38_Service-one-process-3-p-1600.webp",
+   "local": "images/69b2a15200bc2cb1d23eae38_Service-one-process-3-p-1600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae38_Service-one-process-3-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eae38_Service-one-process-3-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae38_Service-one-process-3-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eae38_Service-one-process-3-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae38_Service-one-process-3.webp",
+   "local": "images/69b2a15200bc2cb1d23eae38_Service-one-process-3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae39_Service-one-industry.webp",
+   "local": "images/69b2a15200bc2cb1d23eae39_Service-one-industry.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae39_service-one-industry-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eae39_service-one-industry-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae39_service-one-industry-p-1600.webp",
+   "local": "images/69b2a15200bc2cb1d23eae39_service-one-industry-p-1600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae39_service-one-industry-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eae39_service-one-industry-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae39_service-one-industry-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eae39_service-one-industry-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae3a_Service-one-provent-3.webp",
+   "local": "images/69b2a15200bc2cb1d23eae3a_Service-one-provent-3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae3a_service-one-provent-3-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eae3a_service-one-provent-3-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae3c_Service-one-provent-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eae3c_Service-one-provent-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae3c_service-one-provent-1-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eae3c_service-one-provent-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eae4b_69731b37b0e1f384594a2fba_Blog%2520author%25205.webp",
+   "local": "images/69b2a15200bc2cb1d23eae4b_69731b37b0e1f384594a2fba_Blog-author-5.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae4c_Faq-image-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eae4c_Faq-image-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae52_FAQ-banner.avif",
+   "local": "images/69b2a15200bc2cb1d23eae52_FAQ-banner.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae52_fAQ-banner-p-1080.avif",
+   "local": "images/69b2a15200bc2cb1d23eae52_fAQ-banner-p-1080.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae52_fAQ-banner-p-1600.avif",
+   "local": "images/69b2a15200bc2cb1d23eae52_fAQ-banner-p-1600.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae52_fAQ-banner-p-500.avif",
+   "local": "images/69b2a15200bc2cb1d23eae52_fAQ-banner-p-500.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae52_fAQ-banner-p-800.avif",
+   "local": "images/69b2a15200bc2cb1d23eae52_fAQ-banner-p-800.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae53_Contact-banner-image.webp",
+   "local": "images/69b2a15200bc2cb1d23eae53_Contact-banner-image.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae53_contact-banner-image-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eae53_contact-banner-image-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae53_contact-banner-image-p-1600.webp",
+   "local": "images/69b2a15200bc2cb1d23eae53_contact-banner-image-p-1600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae53_contact-banner-image-p-2000.webp",
+   "local": "images/69b2a15200bc2cb1d23eae53_contact-banner-image-p-2000.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae53_contact-banner-image-p-2600.webp",
+   "local": "images/69b2a15200bc2cb1d23eae53_contact-banner-image-p-2600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae53_contact-banner-image-p-3200.webp",
+   "local": "images/69b2a15200bc2cb1d23eae53_contact-banner-image-p-3200.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae53_contact-banner-image-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eae53_contact-banner-image-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae53_contact-banner-image-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eae53_contact-banner-image-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae54_Contact-v1-content.webp",
+   "local": "images/69b2a15200bc2cb1d23eae54_Contact-v1-content.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae54_contact-v1-content-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eae54_contact-v1-content-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae54_contact-v1-content-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eae54_contact-v1-content-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae54_contact-v1-content-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eae54_contact-v1-content-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae55_Call-icon.svg",
+   "local": "images/69b2a15200bc2cb1d23eae55_Call-icon.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae56_Facebook.svg",
+   "local": "images/69b2a15200bc2cb1d23eae56_Facebook.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae57_Whatsapp.svg",
+   "local": "images/69b2a15200bc2cb1d23eae57_Whatsapp.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae58_Dribbble.svg",
+   "local": "images/69b2a15200bc2cb1d23eae58_Dribbble.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae59_Instagram.svg",
+   "local": "images/69b2a15200bc2cb1d23eae59_Instagram.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae5a_Email.svg",
+   "local": "images/69b2a15200bc2cb1d23eae5a_Email.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae5b_Location.svg",
+   "local": "images/69b2a15200bc2cb1d23eae5b_Location.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae5c_Pricine-banner.avif",
+   "local": "images/69b2a15200bc2cb1d23eae5c_Pricine-banner.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eae6b_69731b37b0e1f384594a2fd7_Consultik%2520blog%2520A7.webp",
+   "local": "images/69b2a15200bc2cb1d23eae6b_69731b37b0e1f384594a2fd7_Consultik-blog-A7.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae72_Thik.svg",
+   "local": "images/69b2a15200bc2cb1d23eae72_Thik.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae73_Cross-circle.svg",
+   "local": "images/69b2a15200bc2cb1d23eae73_Cross-circle.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae74_Passwords-v2.svg",
+   "local": "images/69b2a15200bc2cb1d23eae74_Passwords-v2.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eae8b_69731b37b0e1f384594a2fd6_Blog%2520author%252011.webp",
+   "local": "images/69b2a15200bc2cb1d23eae8b_69731b37b0e1f384594a2fd6_Blog-author-11.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae91_Nav-icon-3.svg",
+   "local": "images/69b2a15200bc2cb1d23eae91_Nav-icon-3.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae92_Nav-icon-1.svg",
+   "local": "images/69b2a15200bc2cb1d23eae92_Nav-icon-1.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae93_Nav-icon-2.svg",
+   "local": "images/69b2a15200bc2cb1d23eae93_Nav-icon-2.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae94_Black-icon.svg",
+   "local": "images/69b2a15200bc2cb1d23eae94_Black-icon.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae95_404.svg",
+   "local": "images/69b2a15200bc2cb1d23eae95_404.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae9a_About-three-journey-a3.webp",
+   "local": "images/69b2a15200bc2cb1d23eae9a_About-three-journey-a3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae9b_About-three-journey-a1.webp",
+   "local": "images/69b2a15200bc2cb1d23eae9b_About-three-journey-a1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eae9c_About-three-journey-a2.webp",
+   "local": "images/69b2a15200bc2cb1d23eae9c_About-three-journey-a2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaeaa_69731b37b0e1f384594a2ff2_Consultik%2520blog%2520B11.webp",
+   "local": "images/69b2a15200bc2cb1d23eaeaa_69731b37b0e1f384594a2ff2_Consultik-blog-B11.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeab_About-three-journey-b3.webp",
+   "local": "images/69b2a15200bc2cb1d23eaeab_About-three-journey-b3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeab_about-three-Journey-b3-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaeab_about-three-Journey-b3-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeab_about-three-Journey-b3-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaeab_about-three-Journey-b3-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeab_about-three-Journey-b3-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaeab_about-three-Journey-b3-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeac_About-three-journey-b1.webp",
+   "local": "images/69b2a15200bc2cb1d23eaeac_About-three-journey-b1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeac_about-three-Journey-b1-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaeac_about-three-Journey-b1-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeac_about-three-Journey-b1-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaeac_about-three-Journey-b1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeac_about-three-Journey-b1-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaeac_about-three-Journey-b1-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaead_About-three-journey-b2.webp",
+   "local": "images/69b2a15200bc2cb1d23eaead_About-three-journey-b2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaead_about-three-Journey-b2-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaead_about-three-Journey-b2-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaead_about-three-Journey-b2-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaead_about-three-Journey-b2-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaead_about-three-Journey-b2-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaead_about-three-Journey-b2-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeb0_Partner-v3-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaeb0_Partner-v3-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeb0_Partner-v3-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaeb0_Partner-v3-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeb0_Partner-v3-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaeb0_Partner-v3-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeb0_Partner-v3.webp",
+   "local": "images/69b2a15200bc2cb1d23eaeb0_Partner-v3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeb4_About-three-banner.webp",
+   "local": "images/69b2a15200bc2cb1d23eaeb4_About-three-banner.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeb6_9169b1f95bc396ee970c5da5da28ac09_map-p-1080.png",
+   "local": "images/69b2a15200bc2cb1d23eaeb6_9169b1f95bc396ee970c5da5da28ac09_map-p-1080.png"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeb6_9169b1f95bc396ee970c5da5da28ac09_map-p-500.png",
+   "local": "images/69b2a15200bc2cb1d23eaeb6_9169b1f95bc396ee970c5da5da28ac09_map-p-500.png"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeb6_9169b1f95bc396ee970c5da5da28ac09_map-p-800.png",
+   "local": "images/69b2a15200bc2cb1d23eaeb6_9169b1f95bc396ee970c5da5da28ac09_map-p-800.png"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeb6_Map.webp",
+   "local": "images/69b2a15200bc2cb1d23eaeb6_Map.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeb7_Group%25201597891970-p-500.png",
+   "local": "images/69b2a15200bc2cb1d23eaeb7_Group-1597891970-p-500.png"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeb7_Group%201597891970.webp",
+   "local": "images/69b2a15200bc2cb1d23eaeb7_Group-1597891970.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeb8_Message-bg.svg",
+   "local": "images/69b2a15200bc2cb1d23eaeb8_Message-bg.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeb9_Message-bg-v2.svg",
+   "local": "images/69b2a15200bc2cb1d23eaeb9_Message-bg-v2.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaec1_69731b37b0e1f384594a2fee_Blog%2520author%252012.webp",
+   "local": "images/69b2a15200bc2cb1d23eaec1_69731b37b0e1f384594a2fee_Blog-author-12.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaec4_About-two-banner.webp",
+   "local": "images/69b2a15200bc2cb1d23eaec4_About-two-banner.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaec5_Up-right-arrow.svg",
+   "local": "images/69b2a15200bc2cb1d23eaec5_Up-right-arrow.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaec7_About-two-who-we-are-2.webp",
+   "local": "images/69b2a15200bc2cb1d23eaec7_About-two-who-we-are-2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaec7_about-two-who-we-are-2-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaec7_about-two-who-we-are-2-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaecc_Solutions.svg",
+   "local": "images/69b2a15200bc2cb1d23eaecc_Solutions.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaecd_Right-icon.svg",
+   "local": "images/69b2a15200bc2cb1d23eaecd_Right-icon.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaece_Robotic-arm-b.svg",
+   "local": "images/69b2a15200bc2cb1d23eaece_Robotic-arm-b.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaecf_About-two-goals-2.webp",
+   "local": "images/69b2a15200bc2cb1d23eaecf_About-two-goals-2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaecf_about-two-goals-2-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaecf_about-two-goals-2-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaecf_about-two-goals-2-p-1600.webp",
+   "local": "images/69b2a15200bc2cb1d23eaecf_about-two-goals-2-p-1600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaecf_about-two-goals-2-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaecf_about-two-goals-2-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaecf_about-two-goals-2-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaecf_about-two-goals-2-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaed0_About-two-goals-3.webp",
+   "local": "images/69b2a15200bc2cb1d23eaed0_About-two-goals-3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaed0_about-two-goals-3-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaed0_about-two-goals-3-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaed0_about-two-goals-3-p-1600.webp",
+   "local": "images/69b2a15200bc2cb1d23eaed0_about-two-goals-3-p-1600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaed0_about-two-goals-3-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaed0_about-two-goals-3-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaed0_about-two-goals-3-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaed0_about-two-goals-3-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaed1_About-two-goals-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eaed1_About-two-goals-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaed1_about-two-goals-1-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaed1_about-two-goals-1-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaed1_about-two-goals-1-p-1600.webp",
+   "local": "images/69b2a15200bc2cb1d23eaed1_about-two-goals-1-p-1600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaed1_about-two-goals-1-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaed1_about-two-goals-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaed1_about-two-goals-1-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaed1_about-two-goals-1-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaed2_About-two-benefits.webp",
+   "local": "images/69b2a15200bc2cb1d23eaed2_About-two-benefits.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaed2_about-two-Benefits-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaed2_about-two-Benefits-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaed2_about-two-Benefits-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaed2_about-two-Benefits-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaed2_about-two-Benefits-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaed2_about-two-Benefits-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaed6_69731b37b0e1f384594a2f47_Blog%2520author%25202.webp",
+   "local": "images/69b2a15200bc2cb1d23eaed6_69731b37b0e1f384594a2f47_Blog-author-2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaed8_About-v4-image.webp",
+   "local": "images/69b2a15200bc2cb1d23eaed8_About-v4-image.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeda_About-v5.webp",
+   "local": "images/69b2a15200bc2cb1d23eaeda_About-v5.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeda_about-v5-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaeda_about-v5-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeda_about-v5-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaeda_about-v5-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaedb_About-one-history.webp",
+   "local": "images/69b2a15200bc2cb1d23eaedb_About-one-history.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaedb_about-one-history-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaedb_about-one-history-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaedb_about-one-history-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaedb_about-one-history-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaedb_about-one-history-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaedb_about-one-history-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaedc_About-one-history-3.webp",
+   "local": "images/69b2a15200bc2cb1d23eaedc_About-one-history-3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaedc_about-one-history-3-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaedc_about-one-history-3-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaedc_about-one-history-3-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaedc_about-one-history-3-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaedc_about-one-history-3-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaedc_about-one-history-3-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaedd_About-one-history-2.webp",
+   "local": "images/69b2a15200bc2cb1d23eaedd_About-one-history-2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaedd_about-one-history-2-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaedd_about-one-history-2-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaedd_about-one-history-2-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaedd_about-one-history-2-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaedd_about-one-history-2-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaedd_about-one-history-2-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaede_About-one-history-4.webp",
+   "local": "images/69b2a15200bc2cb1d23eaede_About-one-history-4.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaede_about-one-history-4-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaede_about-one-history-4-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaede_about-one-history-4-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaede_about-one-history-4-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaede_about-one-history-4-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaede_about-one-history-4-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaedf_About-one-solutions-b1.webp",
+   "local": "images/69b2a15200bc2cb1d23eaedf_About-one-solutions-b1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaee0_About-one-solutions-b2.webp",
+   "local": "images/69b2a15200bc2cb1d23eaee0_About-one-solutions-b2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaee2_About-one-solutions-a2.webp",
+   "local": "images/69b2a15200bc2cb1d23eaee2_About-one-solutions-a2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaee2_about-one-solutions-a2-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaee2_about-one-solutions-a2-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaee2_about-one-solutions-a2-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaee2_about-one-solutions-a2-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaee2_about-one-solutions-a2-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaee2_about-one-solutions-a2-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaee3_About-one-solution-b2.svg",
+   "local": "images/69b2a15200bc2cb1d23eaee3_About-one-solution-b2.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaee4_About-one-solution-b1.svg",
+   "local": "images/69b2a15200bc2cb1d23eaee4_About-one-solution-b1.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaee5_About-one-solution-a2.svg",
+   "local": "images/69b2a15200bc2cb1d23eaee5_About-one-solution-a2.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaee6_About-one-solution-a1.svg",
+   "local": "images/69b2a15200bc2cb1d23eaee6_About-one-solution-a1.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaeea_69731b37b0e1f384594a2f95_Consultik%2520blog%2520B2.webp",
+   "local": "images/69b2a15200bc2cb1d23eaeea_69731b37b0e1f384594a2f95_Consultik-blog-B2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeeb_Up-right-arrow-black.svg",
+   "local": "images/69b2a15200bc2cb1d23eaeeb_Up-right-arrow-black.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeec_About-choous-v2-b.webp",
+   "local": "images/69b2a15200bc2cb1d23eaeec_About-choous-v2-b.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeed_About-choous-v1-b.webp",
+   "local": "images/69b2a15200bc2cb1d23eaeed_About-choous-v1-b.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeee_About-choous-v3-b.webp",
+   "local": "images/69b2a15200bc2cb1d23eaeee_About-choous-v3-b.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeef_About-choous-v3.webp",
+   "local": "images/69b2a15200bc2cb1d23eaeef_About-choous-v3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeef_about-choous-v3-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaeef_about-choous-v3-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeef_about-choous-v3-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaeef_about-choous-v3-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaeef_about-choous-v3-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaeef_about-choous-v3-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaef0_About-choous-v1.webp",
+   "local": "images/69b2a15200bc2cb1d23eaef0_About-choous-v1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaef0_about-choous-v1-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaef0_about-choous-v1-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaef0_about-choous-v1-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaef0_about-choous-v1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaef0_about-choous-v1-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaef0_about-choous-v1-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaef1_About-choous-v2.webp",
+   "local": "images/69b2a15200bc2cb1d23eaef1_About-choous-v2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaef1_about-choous-v2-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaef1_about-choous-v2-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaef1_about-choous-v2-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaef1_about-choous-v2-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaef1_about-choous-v2-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaef1_about-choous-v2-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaeff_69731b37b0e1f384594a2ff1_Consultik%2520blog%2520B12.webp",
+   "local": "images/69b2a15200bc2cb1d23eaeff_69731b37b0e1f384594a2ff1_Consultik-blog-B12.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf0d_71a8c686b2bb114b679ed3da1073ab15_support-v1-left-image-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf0d_71a8c686b2bb114b679ed3da1073ab15_support-v1-left-image-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf0d_71a8c686b2bb114b679ed3da1073ab15_support-v1-left-image-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf0d_71a8c686b2bb114b679ed3da1073ab15_support-v1-left-image-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf0d_71a8c686b2bb114b679ed3da1073ab15_support-v1-left-image-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf0d_71a8c686b2bb114b679ed3da1073ab15_support-v1-left-image-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf0d_Support-v1-left-image.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf0d_Support-v1-left-image.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf0e_Counter-2.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf0e_Counter-2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf0f_Counter-3.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf0f_Counter-3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf10_Counter-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf10_Counter-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf17_69731b37b0e1f384594a2f94_Consultik%2520blog%2520B3.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf17_69731b37b0e1f384594a2f94_Consultik-blog-B3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf18_Counter-4.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf18_Counter-4.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf19_Map-v1.svg",
+   "local": "images/69b2a15200bc2cb1d23eaf19_Map-v1.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf1d_Thik-2.svg",
+   "local": "images/69b2a15200bc2cb1d23eaf1d_Thik-2.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf1e_Built-home-three-v2-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf1e_Built-home-three-v2-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf1e_Built-home-three-v2.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf1e_Built-home-three-v2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf27_Partnerships-icon-1.svg",
+   "local": "images/69b2a15200bc2cb1d23eaf27_Partnerships-icon-1.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf28_Partnerships-icon-6.svg",
+   "local": "images/69b2a15200bc2cb1d23eaf28_Partnerships-icon-6.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf2e_69731b37b0e1f384594a2f93_Blog%2520author%25203.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf2e_69731b37b0e1f384594a2f93_Blog-author-3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf2f_69731b37b0e1f384594a2fbd_Blog%2520author%25207.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf2f_69731b37b0e1f384594a2fbd_Blog-author-7.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf30_team-author-v1-4-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf30_team-author-v1-4-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf30_team-author-v1-4-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf30_team-author-v1-4-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf30_team-author-v1-4.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf30_team-author-v1-4.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf31_team-author-v2-4-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf31_team-author-v2-4-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf31_team-author-v2-4-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf31_team-author-v2-4-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf31_team-author-v2-4-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf31_team-author-v2-4-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf31_team-author-v2-4.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf31_team-author-v2-4.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf32_team-author-v1-1-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf32_team-author-v1-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf32_team-author-v1-1-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf32_team-author-v1-1-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf32_team-author-v1-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf32_team-author-v1-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf33_team-author-v2-1-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf33_team-author-v2-1-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf33_team-author-v2-1-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf33_team-author-v2-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf33_team-author-v2-1-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf33_team-author-v2-1-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf33_team-author-v2-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf33_team-author-v2-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf34_team-author-v1-3-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf34_team-author-v1-3-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf34_team-author-v1-3-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf34_team-author-v1-3-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf34_team-author-v1-3.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf34_team-author-v1-3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf35_team-author-v2-3-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf35_team-author-v2-3-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf35_team-author-v2-3-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf35_team-author-v2-3-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf35_team-author-v2-3-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf35_team-author-v2-3-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf35_team-author-v2-3.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf35_team-author-v2-3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf36_team-author-v1-2-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf36_team-author-v1-2-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf36_team-author-v1-2-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf36_team-author-v1-2-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf36_team-author-v1-2.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf36_team-author-v1-2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf37_Partnerships-icon-2.svg",
+   "local": "images/69b2a15200bc2cb1d23eaf37_Partnerships-icon-2.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf38_Partnerships-icon-3.svg",
+   "local": "images/69b2a15200bc2cb1d23eaf38_Partnerships-icon-3.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf39_Partnerships-icon-4.svg",
+   "local": "images/69b2a15200bc2cb1d23eaf39_Partnerships-icon-4.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf3a_Partnerships-icon-8.svg",
+   "local": "images/69b2a15200bc2cb1d23eaf3a_Partnerships-icon-8.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf3b_Partnerships-icon-5.svg",
+   "local": "images/69b2a15200bc2cb1d23eaf3b_Partnerships-icon-5.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf3c_Partnerships-icon-7.svg",
+   "local": "images/69b2a15200bc2cb1d23eaf3c_Partnerships-icon-7.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf43_Industry-home-three-6-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf43_Industry-home-three-6-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf43_Industry-home-three-6.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf43_Industry-home-three-6.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf48_team-author-v2-2-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf48_team-author-v2-2-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf48_team-author-v2-2-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf48_team-author-v2-2-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf48_team-author-v2-2-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf48_team-author-v2-2-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf48_team-author-v2-2.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf48_team-author-v2-2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf49_5d42024a0847b5c1262dbc1a86f14ee0_Industrial%2520Worker%2520Focused%25203-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf49_5d42024a0847b5c1262dbc1a86f14ee0_Industrial-Worker-Focused-3-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf49_5d42024a0847b5c1262dbc1a86f14ee0_Industrial%2520Worker%2520Focused%25203-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf49_5d42024a0847b5c1262dbc1a86f14ee0_Industrial-Worker-Focused-3-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf49_5d42024a0847b5c1262dbc1a86f14ee0_Industrial%2520Worker%2520Focused%25203-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf49_5d42024a0847b5c1262dbc1a86f14ee0_Industrial-Worker-Focused-3-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf49_Industrial-worker-focused-3.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf49_Industrial-worker-focused-3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf4a_506ddd876170b15566259aa5d1767983_Industrial%2520Worker%2520Focused%25202-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf4a_506ddd876170b15566259aa5d1767983_Industrial-Worker-Focused-2-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf4a_506ddd876170b15566259aa5d1767983_Industrial%2520Worker%2520Focused%25202-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf4a_506ddd876170b15566259aa5d1767983_Industrial-Worker-Focused-2-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf4a_506ddd876170b15566259aa5d1767983_Industrial%2520Worker%2520Focused%25202-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf4a_506ddd876170b15566259aa5d1767983_Industrial-Worker-Focused-2-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf4a_Industrial-worker-focused-2.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf4a_Industrial-worker-focused-2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf4b_Industrial-worker-focused.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf4b_Industrial-worker-focused.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf4b_d24ba1d3c49990c6a97d5b2325398ffd_Industrial%2520Worker%2520Focused-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf4b_d24ba1d3c49990c6a97d5b2325398ffd_Industrial-Worker-Focused-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf4b_d24ba1d3c49990c6a97d5b2325398ffd_Industrial%2520Worker%2520Focused-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf4b_d24ba1d3c49990c6a97d5b2325398ffd_Industrial-Worker-Focused-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf4b_d24ba1d3c49990c6a97d5b2325398ffd_Industrial%2520Worker%2520Focused-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf4b_d24ba1d3c49990c6a97d5b2325398ffd_Industrial-Worker-Focused-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf51_Project-v1-home-two-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf51_Project-v1-home-two-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf51_project-v1-home-two-1-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf51_project-v1-home-two-1-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf51_project-v1-home-two-1-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf51_project-v1-home-two-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf51_project-v1-home-two-1-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf51_project-v1-home-two-1-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf53_Project-v1-home-two-2.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf53_Project-v1-home-two-2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf53_project-v1-home-two-2-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf53_project-v1-home-two-2-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf53_project-v1-home-two-2-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf53_project-v1-home-two-2-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf53_project-v1-home-two-2-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf53_project-v1-home-two-2-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf59_team-author-v1-5-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf59_team-author-v1-5-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf59_team-author-v1-5-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf59_team-author-v1-5-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf59_team-author-v1-5.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf59_team-author-v1-5.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf62_Pause.svg",
+   "local": "images/69b2a15200bc2cb1d23eaf62_Pause.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf63_Play.svg",
+   "local": "images/69b2a15200bc2cb1d23eaf63_Play.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf64_Home-two-c-3-automation.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf64_Home-two-c-3-automation.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf65_Home-two-c-1-automation.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf65_Home-two-c-1-automation.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf66_Home-two-c-2-automation.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf66_Home-two-c-2-automation.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf67_Home-two-c-4-automation.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf67_Home-two-c-4-automation.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf68_Home-two-b-3-automation.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf68_Home-two-b-3-automation.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf68_home-two-B-3-Automation-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf68_home-two-B-3-Automation-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf68_home-two-B-3-Automation-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf68_home-two-B-3-Automation-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf69_Home-two-b-1-automation.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf69_Home-two-b-1-automation.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf69_home-two-B-1-Automation-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf69_home-two-B-1-Automation-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf69_home-two-B-1-Automation-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf69_home-two-B-1-Automation-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf6a_Home-two-b-4-automation.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf6a_Home-two-b-4-automation.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf6a_home-two-B-4-Automation-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf6a_home-two-B-4-Automation-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf6a_home-two-B-4-Automation-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf6a_home-two-B-4-Automation-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf6b_team-author-v2-5-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf6b_team-author-v2-5-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf6b_team-author-v2-5-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf6b_team-author-v2-5-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf6b_team-author-v2-5-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf6b_team-author-v2-5-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf6b_team-author-v2-5.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf6b_team-author-v2-5.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf6c_Home-two-b-2-automation.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf6c_Home-two-b-2-automation.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf6c_home-two-B-2-Automation-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf6c_home-two-B-2-Automation-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf6c_home-two-B-2-Automation-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf6c_home-two-B-2-Automation-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf6d_Home-two-aa-2-automation.avif",
+   "local": "images/69b2a15200bc2cb1d23eaf6d_Home-two-aa-2-automation.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf6d_home-two-AA-2-Automation%2520(1)-p-1080.avif",
+   "local": "images/69b2a15200bc2cb1d23eaf6d_home-two-AA-2-Automation-1-p-1080.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf6d_home-two-AA-2-Automation%2520(1)-p-1600.avif",
+   "local": "images/69b2a15200bc2cb1d23eaf6d_home-two-AA-2-Automation-1-p-1600.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf6d_home-two-AA-2-Automation%2520(1)-p-2000.avif",
+   "local": "images/69b2a15200bc2cb1d23eaf6d_home-two-AA-2-Automation-1-p-2000.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf6d_home-two-AA-2-Automation%2520(1)-p-500.avif",
+   "local": "images/69b2a15200bc2cb1d23eaf6d_home-two-AA-2-Automation-1-p-500.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf6d_home-two-AA-2-Automation%2520(1)-p-800.avif",
+   "local": "images/69b2a15200bc2cb1d23eaf6d_home-two-AA-2-Automation-1-p-800.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf6e_Home-two-aa-4-automation%20.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf6e_Home-two-aa-4-automation.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf6e_home-two-AA-4-Automation%2520(1)-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf6e_home-two-AA-4-Automation-1-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf6e_home-two-AA-4-Automation%2520(1)-p-1600.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf6e_home-two-AA-4-Automation-1-p-1600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf6e_home-two-AA-4-Automation%2520(1)-p-2000.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf6e_home-two-AA-4-Automation-1-p-2000.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf6e_home-two-AA-4-Automation%2520(1)-p-2600.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf6e_home-two-AA-4-Automation-1-p-2600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf6e_home-two-AA-4-Automation%2520(1)-p-3200.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf6e_home-two-AA-4-Automation-1-p-3200.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf6e_home-two-AA-4-Automation%2520(1)-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf6e_home-two-AA-4-Automation-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf6e_home-two-AA-4-Automation%2520(1)-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf6e_home-two-AA-4-Automation-1-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf6f_Home-two-aa-1automation.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf6f_Home-two-aa-1automation.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf6f_home-two-AA-1-Automation%2520(1)-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf6f_home-two-AA-1-Automation-1-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf6f_home-two-AA-1-Automation%2520(1)-p-1600.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf6f_home-two-AA-1-Automation-1-p-1600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf6f_home-two-AA-1-Automation%2520(1)-p-2000.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf6f_home-two-AA-1-Automation-1-p-2000.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf6f_home-two-AA-1-Automation%2520(1)-p-2600.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf6f_home-two-AA-1-Automation-1-p-2600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf6f_home-two-AA-1-Automation%2520(1)-p-3200.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf6f_home-two-AA-1-Automation-1-p-3200.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf6f_home-two-AA-1-Automation%2520(1)-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf6f_home-two-AA-1-Automation-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf6f_home-two-AA-1-Automation%2520(1)-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf6f_home-two-AA-1-Automation-1-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf70_Home-two-aa-3-automation.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf70_Home-two-aa-3-automation.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf70_home-two-AA-3-Automation%2520(1)-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf70_home-two-AA-3-Automation-1-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf70_home-two-AA-3-Automation%2520(1)-p-1600.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf70_home-two-AA-3-Automation-1-p-1600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf70_home-two-AA-3-Automation%2520(1)-p-2000.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf70_home-two-AA-3-Automation-1-p-2000.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf70_home-two-AA-3-Automation%2520(1)-p-2600.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf70_home-two-AA-3-Automation-1-p-2600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf70_home-two-AA-3-Automation%2520(1)-p-3200.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf70_home-two-AA-3-Automation-1-p-3200.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf70_home-two-AA-3-Automation%2520(1)-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf70_home-two-AA-3-Automation-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf70_home-two-AA-3-Automation%2520(1)-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf70_home-two-AA-3-Automation-1-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf76_Arrow-left.svg",
+   "local": "images/69b2a15200bc2cb1d23eaf76_Arrow-left.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf77_Arrow-right.svg",
+   "local": "images/69b2a15200bc2cb1d23eaf77_Arrow-right.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf78_Execution-home-one-2.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf78_Execution-home-one-2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf79_Execution-home-one-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf79_Execution-home-one-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf7a_Location-b.svg",
+   "local": "images/69b2a15200bc2cb1d23eaf7a_Location-b.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf7b_Home-one-map.svg",
+   "local": "images/69b2a15200bc2cb1d23eaf7b_Home-one-map.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf7c_Home-one-solutions-3.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf7c_Home-one-solutions-3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf7d_team-author-v1-6-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf7d_team-author-v1-6-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf7d_team-author-v1-6-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf7d_team-author-v1-6-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf7d_team-author-v1-6.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf7d_team-author-v1-6.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf7e_team-author-v2-6-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf7e_team-author-v2-6-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf7e_team-author-v2-6-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf7e_team-author-v2-6-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf7e_team-author-v2-6-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf7e_team-author-v2-6-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf7e_team-author-v2-6.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf7e_team-author-v2-6.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf7f_blog-A1-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf7f_blog-A1-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf7f_blog-A1-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf7f_blog-A1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf7f_blog-A1-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf7f_blog-A1-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf7f_blog-A1.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf7f_blog-A1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf80_BLOG-ex-1-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf80_BLOG-ex-1-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf80_BLOG-ex-1-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf80_BLOG-ex-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf80_BLOG-ex-1-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf80_BLOG-ex-1-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf80_BLOG-ex-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf80_BLOG-ex-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf81_BLOG-ex-2-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf81_BLOG-ex-2-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf81_BLOG-ex-2-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf81_BLOG-ex-2-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf81_BLOG-ex-2-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf81_BLOG-ex-2-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf81_BLOG-ex-2.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf81_BLOG-ex-2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf82_blog-A2-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf82_blog-A2-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf82_blog-A2-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf82_blog-A2-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf82_blog-A2-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf82_blog-A2-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf82_blog-A2.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf82_blog-A2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf83_BLOG-ex-3-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf83_BLOG-ex-3-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf83_BLOG-ex-3-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf83_BLOG-ex-3-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf83_BLOG-ex-3-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf83_BLOG-ex-3-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf83_BLOG-ex-3.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf83_BLOG-ex-3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf84_blog-A3-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf84_blog-A3-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf84_blog-A3-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf84_blog-A3-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf84_blog-A3-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf84_blog-A3-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf84_blog-A3.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf84_blog-A3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf85_blog-A4-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf85_blog-A4-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf85_blog-A4-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf85_blog-A4-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf85_blog-A4-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf85_blog-A4-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf85_blog-A4.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf85_blog-A4.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf8b_Arrow-gray.svg",
+   "local": "images/69b2a15200bc2cb1d23eaf8b_Arrow-gray.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf97_blog-A5-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf97_blog-A5-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf97_blog-A5-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf97_blog-A5-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf97_blog-A5-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf97_blog-A5-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf97_blog-A5.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf97_blog-A5.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf98_blog-A6-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf98_blog-A6-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf98_blog-A6-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf98_blog-A6-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf98_blog-A6-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf98_blog-A6-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7f/69b2a15200bc2cb1d23eaf98_blog-A6.webp",
+   "local": "images/69b2a15200bc2cb1d23eaf98_blog-A6.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf9e_14a71eaaf1c93d1b2c7e12c0b5caa70f_Home-one-banner-image-A2%2520%25281%2529-p-1080.avif",
+   "local": "images/69b2a15200bc2cb1d23eaf9e_14a71eaaf1c93d1b2c7e12c0b5caa70f_Home-one-banner-image-A2-1-p-1080.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf9e_14a71eaaf1c93d1b2c7e12c0b5caa70f_Home-one-banner-image-A2%2520%25281%2529-p-1600.avif",
+   "local": "images/69b2a15200bc2cb1d23eaf9e_14a71eaaf1c93d1b2c7e12c0b5caa70f_Home-one-banner-image-A2-1-p-1600.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf9e_14a71eaaf1c93d1b2c7e12c0b5caa70f_Home-one-banner-image-A2%2520%25281%2529-p-2000.avif",
+   "local": "images/69b2a15200bc2cb1d23eaf9e_14a71eaaf1c93d1b2c7e12c0b5caa70f_Home-one-banner-image-A2-1-p-2000.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf9e_14a71eaaf1c93d1b2c7e12c0b5caa70f_Home-one-banner-image-A2%2520%25281%2529-p-500.avif",
+   "local": "images/69b2a15200bc2cb1d23eaf9e_14a71eaaf1c93d1b2c7e12c0b5caa70f_Home-one-banner-image-A2-1-p-500.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf9e_14a71eaaf1c93d1b2c7e12c0b5caa70f_Home-one-banner-image-A2%2520%25281%2529-p-800.avif",
+   "local": "images/69b2a15200bc2cb1d23eaf9e_14a71eaaf1c93d1b2c7e12c0b5caa70f_Home-one-banner-image-A2-1-p-800.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf9e_Home-one-banner-image-a2-b.avif",
+   "local": "images/69b2a15200bc2cb1d23eaf9e_Home-one-banner-image-a2-b.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf9f_Home-one-banner-image-A1-b.avif",
+   "local": "images/69b2a15200bc2cb1d23eaf9f_Home-one-banner-image-A1-b.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eafa7_Home-one-banner-image-b2.webp",
+   "local": "images/69b2a15200bc2cb1d23eafa7_Home-one-banner-image-b2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eafa8_Home-one-banner-image-b1.webp",
+   "local": "images/69b2a15200bc2cb1d23eafa8_Home-one-banner-image-b1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eafa9_Veltom-banner.webp",
+   "local": "images/69b2a15200bc2cb1d23eafa9_Veltom-banner.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eafb2_Home-three-arrow.svg",
+   "local": "images/69b2a15200bc2cb1d23eafb2_Home-three-arrow.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eafb9_Tick-2.svg",
+   "local": "images/69b2a15200bc2cb1d23eafb9_Tick-2.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaff9_Icon-button.svg",
+   "local": "images/69b2a15200bc2cb1d23eaff9_Icon-button.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb00b_Small-Icon-16.svg",
+   "local": "images/69b2a15200bc2cb1d23eb00b_Small-Icon-16.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb00d_Veltom-tt.svg",
+   "local": "images/69b2a15200bc2cb1d23eb00d_Veltom-tt.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb00e_Veltom-frame.svg",
+   "local": "images/69b2a15200bc2cb1d23eb00e_Veltom-frame.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb00f_Style-guide-logo.svg",
+   "local": "images/69b2a15200bc2cb1d23eb00f_Style-guide-logo.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb010_Buttons-2.svg",
+   "local": "images/69b2a15200bc2cb1d23eb010_Buttons-2.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb012_Veltom-rich-text.svg",
+   "local": "images/69b2a15200bc2cb1d23eb012_Veltom-rich-text.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb013_Avatar-outline.svg",
+   "local": "images/69b2a15200bc2cb1d23eb013_Avatar-outline.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb014_Veltom-placeholder-icon.svg",
+   "local": "images/69b2a15200bc2cb1d23eb014_Veltom-placeholder-icon.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb015_List.svg",
+   "local": "images/69b2a15200bc2cb1d23eb015_List.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb016_Veltom-shadow.svg",
+   "local": "images/69b2a15200bc2cb1d23eb016_Veltom-shadow.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb026_Video-white-play-icon.svg",
+   "local": "images/69b2a15200bc2cb1d23eb026_Video-white-play-icon.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb029_Video-white-pause-icon.svg",
+   "local": "images/69b2a15200bc2cb1d23eb029_Video-white-pause-icon.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb038_Favi-icon-small.svg",
+   "local": "images/69b2a15200bc2cb1d23eb038_Favi-icon-small.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb039_Favi-icon-big.svg",
+   "local": "images/69b2a15200bc2cb1d23eb039_Favi-icon-big.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb03c_Passwords-bg.webp",
+   "local": "images/69b2a15200bc2cb1d23eb03c_Passwords-bg.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb03c_Passwords-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb03c_Passwords-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb03c_Passwords-p-1600.webp",
+   "local": "images/69b2a15200bc2cb1d23eb03c_Passwords-p-1600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb03c_Passwords-p-2000.webp",
+   "local": "images/69b2a15200bc2cb1d23eb03c_Passwords-p-2000.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb03c_Passwords-p-2600.webp",
+   "local": "images/69b2a15200bc2cb1d23eb03c_Passwords-p-2600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb03c_Passwords-p-3200.webp",
+   "local": "images/69b2a15200bc2cb1d23eb03c_Passwords-p-3200.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb03c_Passwords-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb03c_Passwords-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb03c_Passwords-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb03c_Passwords-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb03d_Password-v1.svg",
+   "local": "images/69b2a15200bc2cb1d23eb03d_Password-v1.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb043_Slider-4.svg",
+   "local": "images/69b2a15200bc2cb1d23eb043_Slider-4.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb044_Slider-3.svg",
+   "local": "images/69b2a15200bc2cb1d23eb044_Slider-3.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb045_Slider-5.svg",
+   "local": "images/69b2a15200bc2cb1d23eb045_Slider-5.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb046_Slider-1.svg",
+   "local": "images/69b2a15200bc2cb1d23eb046_Slider-1.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb047_Slider-2.svg",
+   "local": "images/69b2a15200bc2cb1d23eb047_Slider-2.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb048_Service-three-banner-2.avif",
+   "local": "images/69b2a15200bc2cb1d23eb048_Service-three-banner-2.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb048_service-three-banner-2%2520(1)-p-1080.avif",
+   "local": "images/69b2a15200bc2cb1d23eb048_service-three-banner-2-1-p-1080.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb048_service-three-banner-2%2520(1)-p-1600.avif",
+   "local": "images/69b2a15200bc2cb1d23eb048_service-three-banner-2-1-p-1600.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb048_service-three-banner-2%2520(1)-p-500.avif",
+   "local": "images/69b2a15200bc2cb1d23eb048_service-three-banner-2-1-p-500.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb048_service-three-banner-2%2520(1)-p-800.avif",
+   "local": "images/69b2a15200bc2cb1d23eb048_service-three-banner-2-1-p-800.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb049_Service-three-banner-1%20.webp",
+   "local": "images/69b2a15200bc2cb1d23eb049_Service-three-banner-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb049_service-three-banner-1%2520(1)-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb049_service-three-banner-1-1-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb049_service-three-banner-1%2520(1)-p-1600.webp",
+   "local": "images/69b2a15200bc2cb1d23eb049_service-three-banner-1-1-p-1600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb049_service-three-banner-1%2520(1)-p-2000.webp",
+   "local": "images/69b2a15200bc2cb1d23eb049_service-three-banner-1-1-p-2000.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb049_service-three-banner-1%2520(1)-p-2600.webp",
+   "local": "images/69b2a15200bc2cb1d23eb049_service-three-banner-1-1-p-2600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb049_service-three-banner-1%2520(1)-p-3200.webp",
+   "local": "images/69b2a15200bc2cb1d23eb049_service-three-banner-1-1-p-3200.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb049_service-three-banner-1%2520(1)-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb049_service-three-banner-1-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb049_service-three-banner-1%2520(1)-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb049_service-three-banner-1-1-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb04b_About-three-logo-2.svg",
+   "local": "images/69b2a15200bc2cb1d23eb04b_About-three-logo-2.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb04c_About-three-logo-1.svg",
+   "local": "images/69b2a15200bc2cb1d23eb04c_About-three-logo-1.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb04d_About-three-logo-5.svg",
+   "local": "images/69b2a15200bc2cb1d23eb04d_About-three-logo-5.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb04e_About-three-logo-3.svg",
+   "local": "images/69b2a15200bc2cb1d23eb04e_About-three-logo-3.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb04f_About-three-logo-4.svg",
+   "local": "images/69b2a15200bc2cb1d23eb04f_About-three-logo-4.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb050_Service-three-banner-3-buttom.webp",
+   "local": "images/69b2a15200bc2cb1d23eb050_Service-three-banner-3-buttom.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb051_Slaider-3.webp",
+   "local": "images/69b2a15200bc2cb1d23eb051_Slaider-3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb051_slaider-3-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb051_slaider-3-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb051_slaider-3-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb051_slaider-3-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb051_slaider-3-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb051_slaider-3-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb071_Map-location-image-3.webp",
+   "local": "images/69b2a15200bc2cb1d23eb071_Map-location-image-3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb072_Map-location-image-2.webp",
+   "local": "images/69b2a15200bc2cb1d23eb072_Map-location-image-2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb073_Map-location-image-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eb073_Map-location-image-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb077_Technology.gif",
+   "local": "images/69b2a15200bc2cb1d23eb077_Technology.gif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb078_Icon-3.svg",
+   "local": "images/69b2a15200bc2cb1d23eb078_Icon-3.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb079_Crane.gif",
+   "local": "images/69b2a15200bc2cb1d23eb079_Crane.gif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb07a_Industrial-robot.gif",
+   "local": "images/69b2a15200bc2cb1d23eb07a_Industrial-robot.gif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb07b_Robot-arm.gif",
+   "local": "images/69b2a15200bc2cb1d23eb07b_Robot-arm.gif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb087_Star-v2.svg",
+   "local": "images/69b2a15200bc2cb1d23eb087_Star-v2.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb088_Shipping-container.webp",
+   "local": "images/69b2a15200bc2cb1d23eb088_Shipping-container.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb088_shipping-container-being-loaded-onto-truck-sunset_422337301.htm-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb088_shipping-container-being-loaded-onto-truck-sunset_422337301.htm-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb088_shipping-container-being-loaded-onto-truck-sunset_422337301.htm-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb088_shipping-container-being-loaded-onto-truck-sunset_422337301.htm-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb089_Service-one-reliable-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eb089_Service-one-reliable-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb089_sd-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb089_sd-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb089_sd-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb089_sd-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb08a_Icon-4.svg",
+   "local": "images/69b2a15200bc2cb1d23eb08a_Icon-4.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb092_Home-one-card-2.webp",
+   "local": "images/69b2a15200bc2cb1d23eb092_Home-one-card-2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb092_home-one-card-2-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb092_home-one-card-2-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb093_Home-one-card-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eb093_Home-one-card-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb093_home-one-card-1-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb093_home-one-card-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb094_Home-one-card-3.webp",
+   "local": "images/69b2a15200bc2cb1d23eb094_Home-one-card-3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb094_home-one-card-3-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb094_home-one-card-3-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb097_Home-one-card-4.webp",
+   "local": "images/69b2a15200bc2cb1d23eb097_Home-one-card-4.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb097_home-one-card-4-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb097_home-one-card-4-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb098_Home-one-industrial-3-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb098_Home-one-industrial-3-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb098_Home-one-industrial-3-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb098_Home-one-industrial-3-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb098_Home-one-industrial-3-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb098_Home-one-industrial-3-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb098_Home-one-industrial-3.webp",
+   "local": "images/69b2a15200bc2cb1d23eb098_Home-one-industrial-3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb099_Home-one-industrial-2-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb099_Home-one-industrial-2-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb099_Home-one-industrial-2-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb099_Home-one-industrial-2-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb099_Home-one-industrial-2-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb099_Home-one-industrial-2-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb099_Home-one-industrial-2.webp",
+   "local": "images/69b2a15200bc2cb1d23eb099_Home-one-industrial-2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb09a_Home-one-industrial-1-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb09a_Home-one-industrial-1-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb09a_Home-one-industrial-1-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb09a_Home-one-industrial-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb09a_Home-one-industrial-1-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb09a_Home-one-industrial-1-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb09a_Home-one-industrial-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eb09a_Home-one-industrial-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb09b_Home-one-industrial-4-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb09b_Home-one-industrial-4-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb09b_Home-one-industrial-4-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb09b_Home-one-industrial-4-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb09b_Home-one-industrial-4-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb09b_Home-one-industrial-4-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb09b_Home-one-industrial-4.webp",
+   "local": "images/69b2a15200bc2cb1d23eb09b_Home-one-industrial-4.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb09c_Home-one-experts-v3-right.webp",
+   "local": "images/69b2a15200bc2cb1d23eb09c_Home-one-experts-v3-right.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb09c_home-one-experts-v3-right-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb09c_home-one-experts-v3-right-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb09c_home-one-experts-v3-right-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb09c_home-one-experts-v3-right-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb09c_home-one-experts-v3-right-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb09c_home-one-experts-v3-right-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb09e_Home-one-secure.svg",
+   "local": "images/69b2a15200bc2cb1d23eb09e_Home-one-secure.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb09f_Home-one-awards.svg",
+   "local": "images/69b2a15200bc2cb1d23eb09f_Home-one-awards.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0a0_Home-one-strong-b.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0a0_Home-one-strong-b.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0a0_home-one-strong%2520(1)-p-1080.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0a0_home-one-strong-1-p-1080.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0a0_home-one-strong%2520(1)-p-1600.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0a0_home-one-strong-1-p-1600.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0a0_home-one-strong%2520(1)-p-2000.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0a0_home-one-strong-1-p-2000.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0a0_home-one-strong%2520(1)-p-2600.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0a0_home-one-strong-1-p-2600.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0a0_home-one-strong%2520(1)-p-3200.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0a0_home-one-strong-1-p-3200.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0a0_home-one-strong%2520(1)-p-500.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0a0_home-one-strong-1-p-500.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0a0_home-one-strong%2520(1)-p-800.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0a0_home-one-strong-1-p-800.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0a1_Featured-right-arrow.svg",
+   "local": "images/69b2a15200bc2cb1d23eb0a1_Featured-right-arrow.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0a2_Featured-right-arrow-2.svg",
+   "local": "images/69b2a15200bc2cb1d23eb0a2_Featured-right-arrow-2.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0a3_home-one-execution-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0a3_home-one-execution-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0a3_home-one-execution-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0a3_home-one-execution-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0a3_home-one-execution-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0a3_home-one-execution-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0a3_home-one-execution.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0a3_home-one-execution.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0a4_Home-two-icon-1.svg",
+   "local": "images/69b2a15200bc2cb1d23eb0a4_Home-two-icon-1.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0a5_Home-two-icon-3.svg",
+   "local": "images/69b2a15200bc2cb1d23eb0a5_Home-two-icon-3.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0a6_Home-two-icon2.svg",
+   "local": "images/69b2a15200bc2cb1d23eb0a6_Home-two-icon2.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ac_Home-two-quality-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0ac_Home-two-quality-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ac_home-two-Quality-1-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0ac_home-two-Quality-1-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ac_home-two-Quality-1-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0ac_home-two-Quality-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ac_home-two-Quality-1-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0ac_home-two-Quality-1-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ad_Faster-icon-1.svg",
+   "local": "images/69b2a15200bc2cb1d23eb0ad_Faster-icon-1.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ae_Faster-icon.svg",
+   "local": "images/69b2a15200bc2cb1d23eb0ae_Faster-icon.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0af_Home-two-service-2%20(1).webp",
+   "local": "images/69b2a15200bc2cb1d23eb0af_Home-two-service-2-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0af_home-two-service-2%2520(1)-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0af_home-two-service-2-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0b0_Home-two-service-1%20(1).webp",
+   "local": "images/69b2a15200bc2cb1d23eb0b0_Home-two-service-1-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0b0_home-two-service-1%2520(1)-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0b0_home-two-service-1-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0b1_Home-two-service-3%20(1).webp",
+   "local": "images/69b2a15200bc2cb1d23eb0b1_Home-two-service-3-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0b1_home-two-service-3%2520(1)-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0b1_home-two-service-3-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0b3_Home-three-built.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0b3_Home-three-built.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0b3_home-three-Built-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0b3_home-three-Built-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0b3_home-three-Built-p-1600.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0b3_home-three-Built-p-1600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0b3_home-three-Built-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0b3_home-three-Built-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0b3_home-three-Built-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0b3_home-three-Built-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0b4_Home-three-business.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0b4_Home-three-business.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0b4_home-three-Business-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0b4_home-three-Business-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0b4_home-three-Business-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0b4_home-three-Business-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0b4_home-three-Business-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0b4_home-three-Business-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0b5_Home-two-project-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0b5_Home-two-project-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0b5_home-two-project-1-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0b5_home-two-project-1-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0b5_home-two-project-1-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0b5_home-two-project-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0b5_home-two-project-1-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0b5_home-two-project-1-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0b6_Cta-main-image.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0b6_Cta-main-image.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0b7_Cta-icon.svg",
+   "local": "images/69b2a15200bc2cb1d23eb0b7_Cta-icon.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0b8_Home-three-banner-v2.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0b8_Home-three-banner-v2.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0b8_home-three-banner-v2-p-1080.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0b8_home-three-banner-v2-p-1080.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0b8_home-three-banner-v2-p-500.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0b8_home-three-banner-v2-p-500.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0b8_home-three-banner-v2-p-800.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0b8_home-three-banner-v2-p-800.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0b9_Home-three-banner-v1.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0b9_Home-three-banner-v1.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0b9_home-three-banner-v1-p-1080.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0b9_home-three-banner-v1-p-1080.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0b9_home-three-banner-v1-p-1600.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0b9_home-three-banner-v1-p-1600.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0b9_home-three-banner-v1-p-500.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0b9_home-three-banner-v1-p-500.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0b9_home-three-banner-v1-p-800.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0b9_home-three-banner-v1-p-800.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ba_Home-three-banner-v3.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0ba_Home-three-banner-v3.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ba_home-three-banner-v3-p-1080.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0ba_home-three-banner-v3-p-1080.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ba_home-three-banner-v3-p-1600.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0ba_home-three-banner-v3-p-1600.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ba_home-three-banner-v3-p-500.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0ba_home-three-banner-v3-p-500.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ba_home-three-banner-v3-p-800.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0ba_home-three-banner-v3-p-800.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0bb_Home-three-banner-v1-2.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0bb_Home-three-banner-v1-2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0bc_Home-three-banner-v1-3.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0bc_Home-three-banner-v1-3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0bd_Home-three-banner-v1-1.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0bd_Home-three-banner-v1-1.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0be_Home-three-industry-5.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0be_Home-three-industry-5.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0be_home-three-industry-5-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0be_home-three-industry-5-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0bf_Home-three-industry-2.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0bf_Home-three-industry-2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0bf_home-three-industry-2-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0bf_home-three-industry-2-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0c0_Home-three-industry-3.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0c0_Home-three-industry-3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0c0_home-three-industry-3-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0c0_home-three-industry-3-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0c1_Home-three-industry-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0c1_Home-three-industry-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0c1_home-three-industry-1-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0c1_home-three-industry-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0c2_Home-three-industry-4.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0c2_Home-three-industry-4.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0c2_home-three-industry-4-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0c2_home-three-industry-4-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0c3_About-one-company-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0c3_About-one-company-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0c3_about-one-company-1-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0c3_about-one-company-1-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0c3_about-one-company-1-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0c3_about-one-company-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0c3_about-one-company-1-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0c3_about-one-company-1-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0c4_About-one-solutions-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0c4_About-one-solutions-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0c4_about-one-solutions-1-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0c4_about-one-solutions-1-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0c4_about-one-solutions-1-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0c4_about-one-solutions-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0c4_about-one-solutions-1-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0c4_about-one-solutions-1-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0c5_About-two-section-2.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0c5_About-two-section-2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0c5_about-two-section-2-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0c5_about-two-section-2-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0c5_about-two-section-2-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0c5_about-two-section-2-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0c5_about-two-section-2-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0c5_about-two-section-2-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0c6_Value-icon-1.svg",
+   "local": "images/69b2a15200bc2cb1d23eb0c6_Value-icon-1.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0c7_Value-icon-3.svg",
+   "local": "images/69b2a15200bc2cb1d23eb0c7_Value-icon-3.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0c8_Value-icon-2.svg",
+   "local": "images/69b2a15200bc2cb1d23eb0c8_Value-icon-2.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0c9_About-one-values-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0c9_About-one-values-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0c9_about-one-values-1-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0c9_about-one-values-1-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0c9_about-one-values-1-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0c9_about-one-values-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0c9_about-one-values-1-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0c9_about-one-values-1-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ca_About-one-values-2.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0ca_About-one-values-2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ca_about-one-values-2-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0ca_about-one-values-2-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ca_about-one-values-2-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0ca_about-one-values-2-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ca_about-one-values-2-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0ca_about-one-values-2-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0cb_About-one-values-3.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0cb_About-one-values-3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0cb_about-one-values-3-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0cb_about-one-values-3-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0cb_about-one-values-3-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0cb_about-one-values-3-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0cb_about-one-values-3-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0cb_about-one-values-3-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0cf_Plant-engineering-white.svg",
+   "local": "images/69b2a15200bc2cb1d23eb0cf_Plant-engineering-white.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0d0_Project-about-two-bg-2.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0d0_Project-about-two-bg-2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0d1_Expert-v3.svg",
+   "local": "images/69b2a15200bc2cb1d23eb0d1_Expert-v3.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0d2_Expert-v2.svg",
+   "local": "images/69b2a15200bc2cb1d23eb0d2_Expert-v2.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0d3_Expert-v1.svg",
+   "local": "images/69b2a15200bc2cb1d23eb0d3_Expert-v1.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0d4_About-two-fda-process-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0d4_About-two-fda-process-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0d4_about-two-fda-process-1-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0d4_about-two-fda-process-1-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0d4_about-two-fda-process-1-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0d4_about-two-fda-process-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0d4_about-two-fda-process-1-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0d4_about-two-fda-process-1-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0d5_427edc003a8b19f067a7debf7b1a48b4_About-three-veltom-p-1080.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0d5_427edc003a8b19f067a7debf7b1a48b4_About-three-veltom-p-1080.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0d5_427edc003a8b19f067a7debf7b1a48b4_About-three-veltom-p-1600.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0d5_427edc003a8b19f067a7debf7b1a48b4_About-three-veltom-p-1600.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0d5_427edc003a8b19f067a7debf7b1a48b4_About-three-veltom-p-500.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0d5_427edc003a8b19f067a7debf7b1a48b4_About-three-veltom-p-500.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0d5_427edc003a8b19f067a7debf7b1a48b4_About-three-veltom-p-800.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0d5_427edc003a8b19f067a7debf7b1a48b4_About-three-veltom-p-800.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0d5_About-three-veltom.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0d5_About-three-veltom.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0d6_About-three-support-v1.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0d6_About-three-support-v1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0d6_about-three-support-v1-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0d6_about-three-support-v1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0d6_about-three-support-v1-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0d6_about-three-support-v1-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0d7_About-three-support-v3.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0d7_About-three-support-v3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0d9_About-three-support-v2.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0d9_About-three-support-v2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0db_V-stroke.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0db_V-stroke.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0dc_About-three-facade-2.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0dc_About-three-facade-2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0dd_About-three-facade-3.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0dd_About-three-facade-3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0de_About-three-facade-4.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0de_About-three-facade-4.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0df_About-three-facade-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0df_About-three-facade-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0df_about-three-facade-1-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0df_about-three-facade-1-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0df_about-three-facade-1-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0df_about-three-facade-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0df_about-three-facade-1-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0df_about-three-facade-1-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0e0_About-three-about-3.svg",
+   "local": "images/69b2a15200bc2cb1d23eb0e0_About-three-about-3.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0e1_About-three-about-2.svg",
+   "local": "images/69b2a15200bc2cb1d23eb0e1_About-three-about-2.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0e2_About-three-about-1-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0e2_About-three-about-1-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0e2_About-three-about-1-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0e2_About-three-about-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0e2_About-three-about-1-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0e2_About-three-about-1-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0e2_About-three-about-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0e2_About-three-about-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0e3_Proven-image-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0e3_Proven-image-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0e3_Proven-image.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0e3_Proven-image.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0e4_Service-one-solution.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0e4_Service-one-solution.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0e6_Service-one-infrastructure-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0e6_Service-one-infrastructure-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0e7_Service-two-banner-image.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0e7_Service-two-banner-image.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0e7_service-two-banner-image-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0e7_service-two-banner-image-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0e7_service-two-banner-image-p-1600.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0e7_service-two-banner-image-p-1600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0e7_service-two-banner-image-p-2000.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0e7_service-two-banner-image-p-2000.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0e7_service-two-banner-image-p-2600.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0e7_service-two-banner-image-p-2600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0e7_service-two-banner-image-p-3200.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0e7_service-two-banner-image-p-3200.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0e7_service-two-banner-image-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0e7_service-two-banner-image-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0e7_service-two-banner-image-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0e7_service-two-banner-image-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0e8_Seevice-two-passionate-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0e8_Seevice-two-passionate-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0e8_seevice-two-passionate-1-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0e8_seevice-two-passionate-1-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0e8_seevice-two-passionate-1-p-1600.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0e8_seevice-two-passionate-1-p-1600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0e8_seevice-two-passionate-1-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0e8_seevice-two-passionate-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0e8_seevice-two-passionate-1-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0e8_seevice-two-passionate-1-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0e9_Service-two-processes-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0e9_Service-two-processes-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0e9_service-two-Processes-1-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0e9_service-two-Processes-1-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0e9_service-two-Processes-1-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0e9_service-two-Processes-1-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0e9_service-two-Processes-1-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0e9_service-two-Processes-1-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ea_Service-two-processes-2.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0ea_Service-two-processes-2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ea_service-two-Processes-2-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0ea_service-two-Processes-2-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ea_service-two-Processes-2-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0ea_service-two-Processes-2-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ea_service-two-Processes-2-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0ea_service-two-Processes-2-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0eb_Service-one-automation-3-b.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0eb_Service-one-automation-3-b.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0eb_service-one-automation-3%2520(1)-p-1080.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0eb_service-one-automation-3-1-p-1080.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0eb_service-one-automation-3%2520(1)-p-1600.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0eb_service-one-automation-3-1-p-1600.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0eb_service-one-automation-3%2520(1)-p-500.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0eb_service-one-automation-3-1-p-500.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0eb_service-one-automation-3%2520(1)-p-800.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0eb_service-one-automation-3-1-p-800.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ec_Service-one-automation-2-b.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0ec_Service-one-automation-2-b.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ec_service-one-automation-2%2520(1)-p-1080.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0ec_service-one-automation-2-1-p-1080.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ec_service-one-automation-2%2520(1)-p-1600.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0ec_service-one-automation-2-1-p-1600.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ec_service-one-automation-2%2520(1)-p-2000.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0ec_service-one-automation-2-1-p-2000.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ec_service-one-automation-2%2520(1)-p-500.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0ec_service-one-automation-2-1-p-500.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ec_service-one-automation-2%2520(1)-p-800.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0ec_service-one-automation-2-1-p-800.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ee_Service-one-automation-4-2.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0ee_Service-one-automation-4-2.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ee_service-one-automation-4%2520(1)-p-1080.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0ee_service-one-automation-4-1-p-1080.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ee_service-one-automation-4%2520(1)-p-1600.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0ee_service-one-automation-4-1-p-1600.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ee_service-one-automation-4%2520(1)-p-2000.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0ee_service-one-automation-4-1-p-2000.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ee_service-one-automation-4%2520(1)-p-2600.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0ee_service-one-automation-4-1-p-2600.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ee_service-one-automation-4%2520(1)-p-3200.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0ee_service-one-automation-4-1-p-3200.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ee_service-one-automation-4%2520(1)-p-500.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0ee_service-one-automation-4-1-p-500.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ee_service-one-automation-4%2520(1)-p-800.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0ee_service-one-automation-4-1-p-800.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ef_Service-one-banner-a1.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0ef_Service-one-banner-a1.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f0_Service-one-banner-b1.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f0_Service-one-banner-b1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f1_Service-one-banner-2b.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f1_Service-one-banner-2b.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f2_Service-one-banner-2a.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f2_Service-one-banner-2a.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f2_service-one-banner-2a-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f2_service-one-banner-2a-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f2_service-one-banner-2a-p-1600.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f2_service-one-banner-2a-p-1600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f2_service-one-banner-2a-p-2000.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f2_service-one-banner-2a-p-2000.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f2_service-one-banner-2a-p-2600.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f2_service-one-banner-2a-p-2600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f2_service-one-banner-2a-p-3200.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f2_service-one-banner-2a-p-3200.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f2_service-one-banner-2a-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f2_service-one-banner-2a-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f2_service-one-banner-2a-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f2_service-one-banner-2a-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f3_Service-three-sustainable.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f3_Service-three-sustainable.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f3_service-three-Sustainable-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f3_service-three-Sustainable-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f3_service-three-Sustainable-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f3_service-three-Sustainable-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f3_service-three-Sustainable-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f3_service-three-Sustainable-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f4_Optimized-service-three-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f4_Optimized-service-three-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f4_Optimized-service-three-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f4_Optimized-service-three-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f4_Optimized-service-three-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f4_Optimized-service-three-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f4_Optimized-service-three.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f4_Optimized-service-three.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f5_Readiness-service-three-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f5_Readiness-service-three-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f5_Readiness-service-three-p-1600.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f5_Readiness-service-three-p-1600.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f5_Readiness-service-three-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f5_Readiness-service-three-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f5_Readiness-service-three-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f5_Readiness-service-three-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f5_Readiness-service-three.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f5_Readiness-service-three.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f6_About-one-banner-main-p-1080.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0f6_About-one-banner-main-p-1080.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f6_About-one-banner-main-p-1600.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0f6_About-one-banner-main-p-1600.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f6_About-one-banner-main-p-2000.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0f6_About-one-banner-main-p-2000.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f6_About-one-banner-main-p-500.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0f6_About-one-banner-main-p-500.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f6_About-one-banner-main-p-800.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0f6_About-one-banner-main-p-800.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f6_About-one-banner-main.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0f6_About-one-banner-main.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f7_Home-two-economic.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f7_Home-two-economic.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f7_home-two-Economic-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f7_home-two-Economic-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f7_home-two-Economic-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f7_home-two-Economic-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f7_home-two-Economic-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f7_home-two-Economic-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f8_Home-two-banner-small.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f8_Home-two-banner-small.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f9_Home-two-construction.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f9_Home-two-construction.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f9_home-two-Construction-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f9_home-two-Construction-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0f9_home-two-Construction-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0f9_home-two-Construction-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0fa_About-three-slaider-A1-p-1080.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0fa_About-three-slaider-A1-p-1080.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0fa_About-three-slaider-A1-p-1600.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0fa_About-three-slaider-A1-p-1600.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0fa_About-three-slaider-A1-p-2000.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0fa_About-three-slaider-A1-p-2000.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0fa_About-three-slaider-A1-p-500.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0fa_About-three-slaider-A1-p-500.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0fa_About-three-slaider-A1-p-800.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0fa_About-three-slaider-A1-p-800.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0fa_About-three-slaider-a1.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0fa_About-three-slaider-a1.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0fb_About-three-slaider-A3-p-1080.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0fb_About-three-slaider-A3-p-1080.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0fb_About-three-slaider-A3-p-1600.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0fb_About-three-slaider-A3-p-1600.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0fb_About-three-slaider-A3-p-500.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0fb_About-three-slaider-A3-p-500.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0fb_About-three-slaider-A3-p-800.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0fb_About-three-slaider-A3-p-800.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0fb_About-three-slaider-a3.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0fb_About-three-slaider-a3.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0fc_About-three-slaider-A2-p-1080.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0fc_About-three-slaider-A2-p-1080.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0fc_About-three-slaider-A2-p-1600.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0fc_About-three-slaider-A2-p-1600.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0fc_About-three-slaider-A2-p-2000.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0fc_About-three-slaider-A2-p-2000.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0fc_About-three-slaider-A2-p-500.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0fc_About-three-slaider-A2-p-500.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0fc_About-three-slaider-A2-p-800.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0fc_About-three-slaider-A2-p-800.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0fc_About-three-slaider-a2.avif",
+   "local": "images/69b2a15200bc2cb1d23eb0fc_About-three-slaider-a2.avif"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0fd_About-three-slaider-b1.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0fd_About-three-slaider-b1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0fe_About-three-slaider-B2.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0fe_About-three-slaider-B2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0ff_About-three-slaider-b3.webp",
+   "local": "images/69b2a15200bc2cb1d23eb0ff_About-three-slaider-b3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb101_Right-arrow-v1.svg",
+   "local": "images/69b2a15200bc2cb1d23eb101_Right-arrow-v1.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb107_Author-v2.webp",
+   "local": "images/69b2a15200bc2cb1d23eb107_Author-v2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb108_Author-v3.webp",
+   "local": "images/69b2a15200bc2cb1d23eb108_Author-v3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb109_Author-v1.webp",
+   "local": "images/69b2a15200bc2cb1d23eb109_Author-v1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb10a_Author-v4.webp",
+   "local": "images/69b2a15200bc2cb1d23eb10a_Author-v4.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb10b_Home-two-banner-small.webp",
+   "local": "images/69b2a15200bc2cb1d23eb10b_Home-two-banner-small.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb10c_Author-gray-plus.webp",
+   "local": "images/69b2a15200bc2cb1d23eb10c_Author-gray-plus.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb10d_Author-black-v3.webp",
+   "local": "images/69b2a15200bc2cb1d23eb10d_Author-black-v3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb10e_Author-black-v2.webp",
+   "local": "images/69b2a15200bc2cb1d23eb10e_Author-black-v2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb10f_Author-black-v1.webp",
+   "local": "images/69b2a15200bc2cb1d23eb10f_Author-black-v1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb110_Author-black-plus.webp",
+   "local": "images/69b2a15200bc2cb1d23eb110_Author-black-plus.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb136_Home-two-section-2.webp",
+   "local": "images/69b2a15200bc2cb1d23eb136_Home-two-section-2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb137_Home-three-roted.webp",
+   "local": "images/69b2a15200bc2cb1d23eb137_Home-three-roted.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb138_Small-author-4.webp",
+   "local": "images/69b2a15200bc2cb1d23eb138_Small-author-4.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb139_Small-author-2.webp",
+   "local": "images/69b2a15200bc2cb1d23eb139_Small-author-2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb13a_Small-author-1.webp",
+   "local": "images/69b2a15200bc2cb1d23eb13a_Small-author-1.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb13b_Small-author-3.webp",
+   "local": "images/69b2a15200bc2cb1d23eb13b_Small-author-3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb13c_%20Home-two-buttom-3.webp",
+   "local": "images/69b2a15200bc2cb1d23eb13c_-Home-two-buttom-3.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb13c_home-two-buttom-3-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb13c_home-two-buttom-3-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb13c_home-two-buttom-3-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb13c_home-two-buttom-3-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb13c_home-two-buttom-3-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb13c_home-two-buttom-3-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb13e_Home-two-buttom-2.webp",
+   "local": "images/69b2a15200bc2cb1d23eb13e_Home-two-buttom-2.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb13e_home-two-buttom-2-p-1080.webp",
+   "local": "images/69b2a15200bc2cb1d23eb13e_home-two-buttom-2-p-1080.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb13e_home-two-buttom-2-p-500.webp",
+   "local": "images/69b2a15200bc2cb1d23eb13e_home-two-buttom-2-p-500.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb13e_home-two-buttom-2-p-800.webp",
+   "local": "images/69b2a15200bc2cb1d23eb13e_home-two-buttom-2-p-800.webp"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb140_Buttom-arrow.svg",
+   "local": "images/69b2a15200bc2cb1d23eb140_Buttom-arrow.svg"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb141_Style-author.webp",
+   "local": "images/69b2a15200bc2cb1d23eb141_Style-author.webp"
+  },
+  {
+   "url": "https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-icon-d2.89e12c322e.svg",
+   "local": "images/webflow-badge-icon-d2.89e12c322e.svg"
+  },
+  {
+   "url": "https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-text-d2.c82cec3b78.svg",
+   "local": "images/webflow-badge-text-d2.c82cec3b78.svg"
+  },
+  {
+   "url": "https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=69b2a15200bc2cb1d23ead7e",
+   "local": "js/jquery-3.5.1.min.dc5e7f18c8.js"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/js/webflow.19f039a5.7eb409ed3c628be4.js",
+   "local": "js/site.19f039a5.7eb409ed3c628be4.js"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/js/webflow.1fbe7f95.675551bb4a8eac2f.js",
+   "local": "js/site.1fbe7f95.675551bb4a8eac2f.js"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/js/webflow.5cf30428.626258d0ccb0826f.js",
+   "local": "js/site.5cf30428.626258d0ccb0826f.js"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/js/webflow.bc1050cb.20fb869f3418002f.js",
+   "local": "js/site.bc1050cb.20fb869f3418002f.js"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/js/webflow.schunk.36b8fb49256177c8.js",
+   "local": "js/site.schunk.36b8fb49256177c8.js"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/js/webflow.schunk.c42549641b7d4501.js",
+   "local": "js/site.schunk.c42549641b7d4501.js"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/js/webflow.schunk.ef3d838b12b5ed87.js",
+   "local": "js/site.schunk.ef3d838b12b5ed87.js"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf5e_13976706_1920_1080_30fps%20(1)_mp4.mp4",
+   "local": "videos/69b2a15200bc2cb1d23eaf5e_13976706_1920_1080_30fps-1_mp4.mp4"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eaf5e_13976706_1920_1080_30fps%20(1)_webm.webm",
+   "local": "videos/69b2a15200bc2cb1d23eaf5e_13976706_1920_1080_30fps-1_webm.webm"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb100_About-two-banner-video_mp4.mp4",
+   "local": "videos/69b2a15200bc2cb1d23eb100_About-two-banner-video_mp4.mp4"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb100_About-two-banner-video_webm.webm",
+   "local": "videos/69b2a15200bc2cb1d23eb100_About-two-banner-video_webm.webm"
+  },
+  {
+   "url": "https://cdn.prod.website-files.com/69b2a15200bc2cb1d23ead7e/69b2a15200bc2cb1d23eb0b2_Home-three-industrial%20(1).webp",
+   "local": "images/69b2a15200bc2cb1d23eb0b2_Home-three-industrial-1.webp"
+  }
+ ]
+}

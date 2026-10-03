@@ -1,0 +1,3711 @@
+{
+  "site": "https://advanceautomationbrunei.com",
+  "scrapedAt": "2026-09-30T12:58:26.861Z",
+  "pages": [
+    {
+      "url": "https://advanceautomationbrunei.com/",
+      "title": "Home - Advance Automation Sdn Bhd",
+      "file": "pages/index.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/about-us",
+      "title": "About us - Advance Automation Sdn Bhd",
+      "file": "pages/about-us.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/products-and-services",
+      "title": "Products and Services - Advance Automation Sdn Bhd",
+      "file": "pages/products-and-services.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/products-and-services/custom-made/gaskets-and-washers",
+      "title": "Gaskets and Washers - Advance Automation Sdn Bhd",
+      "file": "pages/products-and-services/custom-made/gaskets-and-washers.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/products-and-services/custom-made",
+      "title": "Custom Made - Advance Automation Sdn Bhd",
+      "file": "pages/products-and-services/custom-made.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/products-and-services/custom-made/stud-bolts",
+      "title": "Stud Bolts - Advance Automation Sdn Bhd",
+      "file": "pages/products-and-services/custom-made/stud-bolts.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/products-and-services/custom-made/rope-and-sling",
+      "title": "Rope and Sling - Advance Automation Sdn Bhd",
+      "file": "pages/products-and-services/custom-made/rope-and-sling.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/products-and-services/custom-made/polymer-taggings",
+      "title": "Polymer Taggings - Advance Automation Sdn Bhd",
+      "file": "pages/products-and-services/custom-made/polymer-taggings.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/products-and-services/calibration-certification-services",
+      "title": "Calibration & Certification - Advance Automation Sdn Bhd",
+      "file": "pages/products-and-services/calibration-certification-services.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/products-and-services/safety-products",
+      "title": "Safety Product - Advance Automation Sdn Bhd",
+      "file": "pages/products-and-services/safety-products.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/products-and-services/safety-products/personal-safety",
+      "title": "Personal Safety - Advance Automation Sdn Bhd",
+      "file": "pages/products-and-services/safety-products/personal-safety.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/products-and-services/safety-products/safety-equipments",
+      "title": "Safety Equipments - Advance Automation Sdn Bhd",
+      "file": "pages/products-and-services/safety-products/safety-equipments.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/products-and-services/control-and-instrument-valves",
+      "title": "Control & Instrument Valves - Advance Automation Sdn Bhd",
+      "file": "pages/products-and-services/control-and-instrument-valves.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/products-and-services/capabilities",
+      "title": "Capabilities - Advance Automation Sdn Bhd",
+      "file": "pages/products-and-services/capabilities.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/products-and-services/capabilities/electrical-and-instruments",
+      "title": "Electrical and Instruments - Advance Automation Sdn Bhd",
+      "file": "pages/products-and-services/capabilities/electrical-and-instruments.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/products-and-services/capabilities/temperatures-devices",
+      "title": "Temperatures Devices - Advance Automation Sdn Bhd",
+      "file": "pages/products-and-services/capabilities/temperatures-devices.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/products-and-services/engineering-and-services",
+      "title": "Engineering And Services - Advance Automation Sdn Bhd",
+      "file": "pages/products-and-services/engineering-and-services.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/products-and-services/capabilities/dimension-measurement",
+      "title": "Dimension Measurement - Advance Automation Sdn Bhd",
+      "file": "pages/products-and-services/capabilities/dimension-measurement.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/products-and-services/engineering-and-services/engines-overhaul",
+      "title": "Engines Overhaul - Advance Automation Sdn Bhd",
+      "file": "pages/products-and-services/engineering-and-services/engines-overhaul.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/products-and-services/engineering-and-services/heat-exchangers",
+      "title": "Heat Exchangers - Advance Automation Sdn Bhd",
+      "file": "pages/products-and-services/engineering-and-services/heat-exchangers.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/products-and-services/engineering-and-services/lab-equipment-repairs",
+      "title": "Lab Equipment Repairs - Advance Automation Sdn Bhd",
+      "file": "pages/products-and-services/engineering-and-services/lab-equipment-repairs.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/products-and-services/engineering-and-services/motor-repairs",
+      "title": "Motor Repairs - Advance Automation Sdn Bhd",
+      "file": "pages/products-and-services/engineering-and-services/motor-repairs.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/products-and-services/engineering-and-services/pump-testing",
+      "title": "Pump Testing - Advance Automation Sdn Bhd",
+      "file": "pages/products-and-services/engineering-and-services/pump-testing.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/products-and-services/engineering-and-services/pump-repairs",
+      "title": "Pump Repairs - Advance Automation Sdn Bhd",
+      "file": "pages/products-and-services/engineering-and-services/pump-repairs.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/products-and-services/engineering-and-services/valve-actuators-repairs",
+      "title": "Valve Actuators Repairs - Advance Automation Sdn Bhd",
+      "file": "pages/products-and-services/engineering-and-services/valve-actuators-repairs.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/products-and-services/engineering-and-services/valve-repairs",
+      "title": "Valve Repairs - Advance Automation Sdn Bhd",
+      "file": "pages/products-and-services/engineering-and-services/valve-repairs.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/clients",
+      "title": "Clients - Advance Automation Sdn Bhd",
+      "file": "pages/clients.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/news-n-events",
+      "title": "News and Events - Advance Automation Sdn Bhd",
+      "file": "pages/news-n-events.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/news-n-events/item/25-awarded-aiti-license",
+      "title": "Advance Automation Sdn Bhd awarded AITI License - Advance Automation Sdn Bhd",
+      "file": "pages/news-n-events/item/25-awarded-aiti-license.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/contact",
+      "title": "Contact - Advance Automation Sdn Bhd",
+      "file": "pages/contact.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/news-n-events/item/24-mou-with-mewah-raya-sdn-bhd",
+      "title": "MOU signing with Mewah Raya Sdn Bhd - Advance Automation Sdn Bhd",
+      "file": "pages/news-n-events/item/24-mou-with-mewah-raya-sdn-bhd.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/news-n-events/item/23-mou-with-ramacon-corporation",
+      "title": "MOU with Ramacon Corporation Sdn Bhd - Advance Automation Sdn Bhd",
+      "file": "pages/news-n-events/item/23-mou-with-ramacon-corporation.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/news-n-events/item/11-first-purchase-order",
+      "title": "First Purchase Order - Advance Automation Sdn Bhd",
+      "file": "pages/news-n-events/item/11-first-purchase-order.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/products-and-services/control-and-instrument-valves/itemlist/category/7-services",
+      "title": "Services - Advance Automation Sdn Bhd",
+      "file": "pages/products-and-services/control-and-instrument-valves/itemlist/category/7-services.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/products-and-services/calibration-certification-services/itemlist/category/7-services",
+      "title": "Services - Advance Automation Sdn Bhd",
+      "file": "pages/products-and-services/calibration-certification-services/itemlist/category/7-services.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/news-n-events/item/14-multiple-distributorships-awards",
+      "title": "Multiple Distributorships Awards - Advance Automation Sdn Bhd",
+      "file": "pages/news-n-events/item/14-multiple-distributorships-awards.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/news-n-events/item/13-gerbaru-jaya-distributorship",
+      "title": "Gerbaru Jaya Sdn Bhd Distributorship - Advance Automation Sdn Bhd",
+      "file": "pages/news-n-events/item/13-gerbaru-jaya-distributorship.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/news-n-events?start=6",
+      "title": "News and Events - Advance Automation Sdn Bhd",
+      "file": "pages/news-n-events__start-6.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/products-and-services/control-and-instrument-valves/itemlist/category/7-services?start=10",
+      "title": "Services - Advance Automation Sdn Bhd",
+      "file": "pages/products-and-services/control-and-instrument-valves/itemlist/category/7-services__start-10.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/products-and-services/calibration-certification-services/itemlist/category/7-services?start=10",
+      "title": "Services - Advance Automation Sdn Bhd",
+      "file": "pages/products-and-services/calibration-certification-services/itemlist/category/7-services__start-10.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/news-n-events/item/16-north-java-sea-group-distributorship",
+      "title": "North Java Sea Group Distributorship - Advance Automation Sdn Bhd",
+      "file": "pages/news-n-events/item/16-north-java-sea-group-distributorship.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/news-n-events/item/12-advance-automation-officially-launch",
+      "title": "Advance Automation Officially Launch - Advance Automation Sdn Bhd",
+      "file": "pages/news-n-events/item/12-advance-automation-officially-launch.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/news-n-events?start=0",
+      "title": "News and Events - Advance Automation Sdn Bhd",
+      "file": "pages/news-n-events__start-0.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/products-and-services/calibration-certification-services/itemlist/category/7-services?start=0",
+      "title": "Services - Advance Automation Sdn Bhd",
+      "file": "pages/products-and-services/calibration-certification-services/itemlist/category/7-services__start-0.html"
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/products-and-services/control-and-instrument-valves/itemlist/category/7-services?start=0",
+      "title": "Services - Advance Automation Sdn Bhd",
+      "file": "pages/products-and-services/control-and-instrument-valves/itemlist/category/7-services__start-0.html"
+    }
+  ],
+  "files": [
+    {
+      "file": "images/_site-ui/external/static.joomlart.com/images/jat3v3-documents/logo-complete/t3logo-big-color.png",
+      "bytes": 5552,
+      "sourceUrls": [
+        "https://static.joomlart.com/images/jat3v3-documents/logo-complete/t3logo-big-color.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/external/static.joomlart.com/images/jat3v3-documents/logo-complete/t3logo-big-dark.png",
+      "bytes": 5503,
+      "sourceUrls": [
+        "https://static.joomlart.com/images/jat3v3-documents/logo-complete/t3logo-big-dark.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/external/static.joomlart.com/images/jat3v3-documents/logo-complete/t3logo-big-light.png",
+      "bytes": 5032,
+      "sourceUrls": [
+        "https://static.joomlart.com/images/jat3v3-documents/logo-complete/t3logo-big-light.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/external/static.joomlart.com/images/jat3v3-documents/logo-complete/t3logo-small-color.png",
+      "bytes": 3837,
+      "sourceUrls": [
+        "https://static.joomlart.com/images/jat3v3-documents/logo-complete/t3logo-small-color.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/external/static.joomlart.com/images/jat3v3-documents/logo-complete/t3logo-small-dark.png",
+      "bytes": 3702,
+      "sourceUrls": [
+        "https://static.joomlart.com/images/jat3v3-documents/logo-complete/t3logo-small-dark.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/external/static.joomlart.com/images/jat3v3-documents/logo-complete/t3logo-small-light.png",
+      "bytes": 3540,
+      "sourceUrls": [
+        "https://static.joomlart.com/images/jat3v3-documents/logo-complete/t3logo-small-light.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_rsform/css/frameworks/bootstrap3/fonts/glyphicons-halflings-regular.svg",
+      "bytes": 108738,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_rsform/css/frameworks/bootstrap3/fonts/glyphicons-halflings-regular.svg"
+      ],
+      "usedOn": [
+        "/contact (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/assets/arrow_left.png",
+      "bytes": 807,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/assets/arrow_left.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/assets/arrow_left2.png",
+      "bytes": 348,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/assets/arrow_left2.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/assets/arrow_right.png",
+      "bytes": 820,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/assets/arrow_right.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/assets/arrow_right2.png",
+      "bytes": 343,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/assets/arrow_right2.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/assets/arrowleft.png",
+      "bytes": 43543,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/assets/arrowleft.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/assets/arrowright.png",
+      "bytes": 43719,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/assets/arrowright.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/assets/boxed_bgtile.png",
+      "bytes": 2746,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/assets/boxed_bgtile.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/assets/bullet.png",
+      "bytes": 2254,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/assets/bullet.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/assets/bullet_boxed.png",
+      "bytes": 924,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/assets/bullet_boxed.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/assets/bullets.png",
+      "bytes": 1153,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/assets/bullets.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/assets/bullets2.png",
+      "bytes": 278,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/assets/bullets2.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/assets/coloredbg.png",
+      "bytes": 184,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/assets/coloredbg.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/assets/gridtile.png",
+      "bytes": 933,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/assets/gridtile.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/assets/gridtile_3x3.png",
+      "bytes": 938,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/assets/gridtile_3x3.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/assets/gridtile_3x3_white.png",
+      "bytes": 935,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/assets/gridtile_3x3_white.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/assets/gridtile_white.png",
+      "bytes": 931,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/assets/gridtile_white.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/assets/large_left.png",
+      "bytes": 1517,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/assets/large_left.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/assets/large_right.png",
+      "bytes": 1561,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/assets/large_right.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/assets/loader.gif",
+      "bytes": 2545,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/assets/loader.gif"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/assets/navigdots.png",
+      "bytes": 743,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/assets/navigdots.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/assets/navigdots_bgtile.png",
+      "bytes": 149,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/assets/navigdots_bgtile.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/assets/shadow1.png",
+      "bytes": 4289,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/assets/shadow1.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/assets/shadow2.png",
+      "bytes": 5661,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/assets/shadow2.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/assets/shadow3.png",
+      "bytes": 6428,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/assets/shadow3.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/assets/small_left.png",
+      "bytes": 670,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/assets/small_left.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/assets/small_left_boxed.png",
+      "bytes": 846,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/assets/small_left_boxed.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/assets/small_right.png",
+      "bytes": 668,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/assets/small_right.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/assets/small_right_boxed.png",
+      "bytes": 807,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/assets/small_right_boxed.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/font/revicons.svg",
+      "bytes": 13585,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/font/revicons.svg"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/images/gradient/g30.png",
+      "bytes": 42935,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/images/gradient/g30.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/com_uniterevolution2/assets/rs-plugin/images/gradient/g40.png",
+      "bytes": 42464,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/com_uniterevolution2/assets/rs-plugin/images/gradient/g40.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/system/images/notice-alert.png",
+      "bytes": 862,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/system/images/notice-alert.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/system/images/notice-info.png",
+      "bytes": 1106,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/system/images/notice-info.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/system/images/notice-note.png",
+      "bytes": 771,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/system/images/notice-note.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/media/system/images/pdf_button.png",
+      "bytes": 386,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/system/images/pdf_button.png"
+      ],
+      "usedOn": [
+        "/products-and-services (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/plugins/system/t3/base-bs3/bootstrap/fonts/glyphicons-halflings-regular.svg",
+      "bytes": 108738,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/plugins/system/t3/base-bs3/bootstrap/fonts/glyphicons-halflings-regular.svg"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/templates/too_fac3heat/fonts/et-line/fonts/et-line.svg",
+      "bytes": 175537,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/templates/too_fac3heat/fonts/et-line/fonts/et-line.svg"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/templates/too_fac3heat/fonts/font-awesome/fonts/fontawesome-webfont.svg",
+      "bytes": 365616,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/templates/too_fac3heat/fonts/font-awesome/fonts/fontawesome-webfont.svg"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/templates/too_fac3heat/fonts/font-icons/fonts/Simple-Line-Icons.svg",
+      "bytes": 179404,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/templates/too_fac3heat/fonts/font-icons/fonts/Simple-Line-Icons.svg"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/templates/too_fac3heat/fonts/font-icons/fonts/font-icons.svg",
+      "bytes": 556829,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/templates/too_fac3heat/fonts/font-icons/fonts/font-icons.svg"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/_site-ui/templates/too_fac3heat/fonts/font-icons/fonts/lined-icons.svg",
+      "bytes": 92532,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/templates/too_fac3heat/fonts/font-icons/fonts/lined-icons.svg"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/about_us/about_us.jpg",
+      "bytes": 166116,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/about_us/about_us.jpg"
+      ],
+      "usedOn": [
+        "/about-us"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/about_us/about_us2.jpg",
+      "bytes": 60463,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/about_us/about_us2.jpg"
+      ],
+      "usedOn": [
+        "/about-us"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/about_us/about_us3.jpg",
+      "bytes": 169251,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/about_us/about_us3.jpg"
+      ],
+      "usedOn": [
+        "/about-us"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/bg-img.jpg",
+      "bytes": 304027,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/bg-img.jpg"
+      ],
+      "usedOn": [
+        "/about-us"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/cert/ISO_9001_ISO_14001_ISO_45001_ANAB.png",
+      "bytes": 91330,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/cert/ISO_9001_ISO_14001_ISO_45001_ANAB.png"
+      ],
+      "usedOn": [
+        "/"
+      ],
+      "alt": [
+        "ISO 9001 ISO 14001 ISO 45001 ANAB"
+      ]
+    },
+    {
+      "file": "images/cert/SCR-20240702-jcmj.png",
+      "bytes": 200048,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/cert/SCR-20240702-jcmj.png"
+      ],
+      "usedOn": [
+        "/"
+      ],
+      "alt": [
+        "SCR 20240702 jcmj"
+      ]
+    },
+    {
+      "file": "images/cert/SCR-20240702-jcrn.png",
+      "bytes": 227859,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/cert/SCR-20240702-jcrn.png"
+      ],
+      "usedOn": [
+        "/"
+      ],
+      "alt": [
+        "SCR 20240702 jcrn"
+      ]
+    },
+    {
+      "file": "images/cert/SCR-20240702-jcuu.png",
+      "bytes": 213763,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/cert/SCR-20240702-jcuu.png"
+      ],
+      "usedOn": [
+        "/"
+      ],
+      "alt": [
+        "SCR 20240702 jcuu"
+      ]
+    },
+    {
+      "file": "images/clients/BINA_logo.png",
+      "bytes": 4845,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/clients/BINA_logo.png"
+      ],
+      "usedOn": [
+        "/clients"
+      ],
+      "alt": [
+        "BINA logo"
+      ]
+    },
+    {
+      "file": "images/clients/BSP_logo.png",
+      "bytes": 3285,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/clients/BSP_logo.png"
+      ],
+      "usedOn": [
+        "/clients"
+      ],
+      "alt": [
+        "BSP logo"
+      ]
+    },
+    {
+      "file": "images/clients/Brunei_LNG_logo.png",
+      "bytes": 4641,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/clients/Brunei_LNG_logo.png"
+      ],
+      "usedOn": [
+        "/clients"
+      ],
+      "alt": [
+        "Brunei LNG logo"
+      ]
+    },
+    {
+      "file": "images/clients/Halliburton-Sperry-Drilling_1.png",
+      "bytes": 2076,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/clients/Halliburton-Sperry-Drilling_1.png"
+      ],
+      "usedOn": [
+        "/clients"
+      ],
+      "alt": [
+        "Halliburton Sperry Drilling 1"
+      ]
+    },
+    {
+      "file": "images/clients/KMST_Logo.jpg",
+      "bytes": 12548,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/clients/KMST_Logo.jpg"
+      ],
+      "usedOn": [
+        "/clients"
+      ],
+      "alt": [
+        "KMST Logo"
+      ]
+    },
+    {
+      "file": "images/clients/LANDMARK_Group_logo.png",
+      "bytes": 15244,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/clients/LANDMARK_Group_logo.png"
+      ],
+      "usedOn": [
+        "/clients"
+      ],
+      "alt": [
+        "LANDMARK Group logo"
+      ]
+    },
+    {
+      "file": "images/clients/Zetta_group_logo.png",
+      "bytes": 1730,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/clients/Zetta_group_logo.png"
+      ],
+      "usedOn": [
+        "/clients"
+      ],
+      "alt": [
+        "Zetta group logo"
+      ]
+    },
+    {
+      "file": "images/clients/brunei-metanol.jpg",
+      "bytes": 5410,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/clients/brunei-metanol.jpg"
+      ],
+      "usedOn": [
+        "/clients"
+      ],
+      "alt": [
+        "brunei metanol"
+      ]
+    },
+    {
+      "file": "images/clients/gerbaru_jaya_logo.png",
+      "bytes": 5031,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/clients/gerbaru_jaya_logo.png"
+      ],
+      "usedOn": [
+        "/clients"
+      ],
+      "alt": [
+        "gerbaru jaya logo"
+      ]
+    },
+    {
+      "file": "images/clients/north_jaya_logo.png",
+      "bytes": 6727,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/clients/north_jaya_logo.png"
+      ],
+      "usedOn": [
+        "/clients"
+      ],
+      "alt": [
+        "north jaya logo"
+      ]
+    },
+    {
+      "file": "images/clients/swago_logo.png",
+      "bytes": 6753,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/clients/swago_logo.png"
+      ],
+      "usedOn": [
+        "/clients"
+      ],
+      "alt": [
+        "swago logo"
+      ]
+    },
+    {
+      "file": "images/download.jpg",
+      "bytes": 41252,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/download.jpg"
+      ],
+      "usedOn": [
+        "/"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/featured/11-first-purchase-order.jpg",
+      "bytes": 573329,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/k2/items/cache/c82cc4e14a1d2c8c8ffff9840d24b558_Generic.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/c82cc4e14a1d2c8c8ffff9840d24b558_L.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/c82cc4e14a1d2c8c8ffff9840d24b558_M.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/c82cc4e14a1d2c8c8ffff9840d24b558_S.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/c82cc4e14a1d2c8c8ffff9840d24b558_XL.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/c82cc4e14a1d2c8c8ffff9840d24b558_XS.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/src/c82cc4e14a1d2c8c8ffff9840d24b558.jpg"
+      ],
+      "usedOn": [
+        "/clients",
+        "/news-n-events",
+        "/news-n-events/item/11-first-purchase-order",
+        "/news-n-events/item/12-advance-automation-officially-launch",
+        "/news-n-events/item/13-gerbaru-jaya-distributorship",
+        "/news-n-events/item/14-multiple-distributorships-awards",
+        "/news-n-events/item/16-north-java-sea-group-distributorship",
+        "/news-n-events/item/23-mou-with-ramacon-corporation",
+        "/news-n-events/item/24-mou-with-mewah-raya-sdn-bhd",
+        "/news-n-events/item/25-awarded-aiti-license"
+      ],
+      "alt": [
+        "First Purchase Order",
+        "og:image"
+      ]
+    },
+    {
+      "file": "images/featured/12-advance-automation-officially-launch.jpg",
+      "bytes": 675351,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/k2/items/cache/3899dfe821816fbcb3db3e3b23f81585_Generic.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/3899dfe821816fbcb3db3e3b23f81585_L.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/3899dfe821816fbcb3db3e3b23f81585_M.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/3899dfe821816fbcb3db3e3b23f81585_S.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/3899dfe821816fbcb3db3e3b23f81585_XL.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/3899dfe821816fbcb3db3e3b23f81585_XS.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/src/3899dfe821816fbcb3db3e3b23f81585.jpg"
+      ],
+      "usedOn": [
+        "/news-n-events",
+        "/news-n-events/item/12-advance-automation-officially-launch"
+      ],
+      "alt": [
+        "Advance Automation Officially Launch",
+        "og:image"
+      ]
+    },
+    {
+      "file": "images/featured/13-gerbaru-jaya-distributorship.jpg",
+      "bytes": 503635,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/k2/items/cache/48ee1e8a0a8f50dce4f8cb9ab418e211_Generic.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/48ee1e8a0a8f50dce4f8cb9ab418e211_L.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/48ee1e8a0a8f50dce4f8cb9ab418e211_M.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/48ee1e8a0a8f50dce4f8cb9ab418e211_S.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/48ee1e8a0a8f50dce4f8cb9ab418e211_XL.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/48ee1e8a0a8f50dce4f8cb9ab418e211_XS.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/src/48ee1e8a0a8f50dce4f8cb9ab418e211.jpg"
+      ],
+      "usedOn": [
+        "/clients",
+        "/news-n-events",
+        "/news-n-events/item/11-first-purchase-order",
+        "/news-n-events/item/12-advance-automation-officially-launch",
+        "/news-n-events/item/13-gerbaru-jaya-distributorship",
+        "/news-n-events/item/14-multiple-distributorships-awards",
+        "/news-n-events/item/16-north-java-sea-group-distributorship",
+        "/news-n-events/item/23-mou-with-ramacon-corporation",
+        "/news-n-events/item/24-mou-with-mewah-raya-sdn-bhd",
+        "/news-n-events/item/25-awarded-aiti-license"
+      ],
+      "alt": [
+        "Gerbaru Jaya Sdn Bhd Distributorship",
+        "og:image"
+      ]
+    },
+    {
+      "file": "images/featured/14-multiple-distributorships-awards.jpg",
+      "bytes": 426715,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/k2/items/cache/fd8b0f77d767f1f6640afba6916ff67c_Generic.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/fd8b0f77d767f1f6640afba6916ff67c_L.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/fd8b0f77d767f1f6640afba6916ff67c_M.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/fd8b0f77d767f1f6640afba6916ff67c_S.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/fd8b0f77d767f1f6640afba6916ff67c_XL.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/fd8b0f77d767f1f6640afba6916ff67c_XS.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/src/fd8b0f77d767f1f6640afba6916ff67c.jpg"
+      ],
+      "usedOn": [
+        "/clients",
+        "/news-n-events",
+        "/news-n-events/item/11-first-purchase-order",
+        "/news-n-events/item/12-advance-automation-officially-launch",
+        "/news-n-events/item/13-gerbaru-jaya-distributorship",
+        "/news-n-events/item/14-multiple-distributorships-awards",
+        "/news-n-events/item/16-north-java-sea-group-distributorship",
+        "/news-n-events/item/23-mou-with-ramacon-corporation",
+        "/news-n-events/item/24-mou-with-mewah-raya-sdn-bhd",
+        "/news-n-events/item/25-awarded-aiti-license"
+      ],
+      "alt": [
+        "Multiple Distributorships Awards",
+        "og:image"
+      ]
+    },
+    {
+      "file": "images/featured/16-north-java-sea-group-distributorship.jpg",
+      "bytes": 176434,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/k2/items/cache/c9b002fe1bb0320831a8ae78670fdb6f_Generic.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/c9b002fe1bb0320831a8ae78670fdb6f_L.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/c9b002fe1bb0320831a8ae78670fdb6f_M.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/c9b002fe1bb0320831a8ae78670fdb6f_S.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/c9b002fe1bb0320831a8ae78670fdb6f_XL.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/c9b002fe1bb0320831a8ae78670fdb6f_XS.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/src/c9b002fe1bb0320831a8ae78670fdb6f.jpg"
+      ],
+      "usedOn": [
+        "/news-n-events",
+        "/news-n-events/item/16-north-java-sea-group-distributorship"
+      ],
+      "alt": [
+        "North Java Sea Group Distributorship",
+        "og:image"
+      ]
+    },
+    {
+      "file": "images/featured/23-mou-with-ramacon-corporation.jpg",
+      "bytes": 481319,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/k2/items/cache/e2bf3b11df0b872112757f1c2fee6e32_Generic.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/e2bf3b11df0b872112757f1c2fee6e32_L.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/e2bf3b11df0b872112757f1c2fee6e32_M.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/e2bf3b11df0b872112757f1c2fee6e32_S.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/e2bf3b11df0b872112757f1c2fee6e32_XL.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/e2bf3b11df0b872112757f1c2fee6e32_XS.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/src/e2bf3b11df0b872112757f1c2fee6e32.jpg"
+      ],
+      "usedOn": [
+        "/",
+        "/clients",
+        "/news-n-events",
+        "/news-n-events/item/11-first-purchase-order",
+        "/news-n-events/item/12-advance-automation-officially-launch",
+        "/news-n-events/item/13-gerbaru-jaya-distributorship",
+        "/news-n-events/item/14-multiple-distributorships-awards",
+        "/news-n-events/item/16-north-java-sea-group-distributorship",
+        "/news-n-events/item/23-mou-with-ramacon-corporation",
+        "/news-n-events/item/24-mou-with-mewah-raya-sdn-bhd",
+        "/news-n-events/item/25-awarded-aiti-license"
+      ],
+      "alt": [
+        "MOU with Ramacon Corporation Sdn Bhd",
+        "og:image"
+      ]
+    },
+    {
+      "file": "images/featured/24-mou-with-mewah-raya-sdn-bhd.jpg",
+      "bytes": 466674,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/k2/items/cache/233826a67be66a810b23a263230da62e_Generic.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/233826a67be66a810b23a263230da62e_L.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/233826a67be66a810b23a263230da62e_M.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/233826a67be66a810b23a263230da62e_S.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/233826a67be66a810b23a263230da62e_XL.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/233826a67be66a810b23a263230da62e_XS.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/src/233826a67be66a810b23a263230da62e.jpg"
+      ],
+      "usedOn": [
+        "/",
+        "/clients",
+        "/news-n-events",
+        "/news-n-events/item/11-first-purchase-order",
+        "/news-n-events/item/12-advance-automation-officially-launch",
+        "/news-n-events/item/13-gerbaru-jaya-distributorship",
+        "/news-n-events/item/14-multiple-distributorships-awards",
+        "/news-n-events/item/16-north-java-sea-group-distributorship",
+        "/news-n-events/item/23-mou-with-ramacon-corporation",
+        "/news-n-events/item/24-mou-with-mewah-raya-sdn-bhd",
+        "/news-n-events/item/25-awarded-aiti-license"
+      ],
+      "alt": [
+        "MOU signing with Mewah Raya Sdn Bhd",
+        "og:image"
+      ]
+    },
+    {
+      "file": "images/featured/25-awarded-aiti-license.jpg",
+      "bytes": 199103,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/k2/items/cache/af2ef6a0e2c9c528b09655df79f3b312_Generic.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/af2ef6a0e2c9c528b09655df79f3b312_L.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/af2ef6a0e2c9c528b09655df79f3b312_M.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/af2ef6a0e2c9c528b09655df79f3b312_S.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/af2ef6a0e2c9c528b09655df79f3b312_XL.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/af2ef6a0e2c9c528b09655df79f3b312_XS.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/src/af2ef6a0e2c9c528b09655df79f3b312.jpg"
+      ],
+      "usedOn": [
+        "/",
+        "/clients",
+        "/news-n-events",
+        "/news-n-events/item/11-first-purchase-order",
+        "/news-n-events/item/12-advance-automation-officially-launch",
+        "/news-n-events/item/13-gerbaru-jaya-distributorship",
+        "/news-n-events/item/14-multiple-distributorships-awards",
+        "/news-n-events/item/16-north-java-sea-group-distributorship",
+        "/news-n-events/item/23-mou-with-ramacon-corporation",
+        "/news-n-events/item/24-mou-with-mewah-raya-sdn-bhd",
+        "/news-n-events/item/25-awarded-aiti-license"
+      ],
+      "alt": [
+        "Advance Automation Sdn Bhd awarded AITI License",
+        "og:image"
+      ]
+    },
+    {
+      "file": "images/featured/calibration-certification-services.jpg",
+      "bytes": 222372,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/k2/items/cache/feb4274796d93ff716e9650163a77fb8_Generic.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/feb4274796d93ff716e9650163a77fb8_L.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/feb4274796d93ff716e9650163a77fb8_M.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/feb4274796d93ff716e9650163a77fb8_S.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/feb4274796d93ff716e9650163a77fb8_XL.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/feb4274796d93ff716e9650163a77fb8_XS.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/src/feb4274796d93ff716e9650163a77fb8.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/calibration-certification-services"
+      ],
+      "alt": [
+        "Calibration &amp; Certification and Services",
+        "og:image"
+      ]
+    },
+    {
+      "file": "images/featured/control-and-instrument-valves.jpg",
+      "bytes": 433111,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/k2/items/cache/e31ace2a15a7c70645ad83df9ecd43b0_Generic.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/e31ace2a15a7c70645ad83df9ecd43b0_L.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/e31ace2a15a7c70645ad83df9ecd43b0_M.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/e31ace2a15a7c70645ad83df9ecd43b0_S.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/e31ace2a15a7c70645ad83df9ecd43b0_XL.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/e31ace2a15a7c70645ad83df9ecd43b0_XS.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/src/e31ace2a15a7c70645ad83df9ecd43b0.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/control-and-instrument-valves"
+      ],
+      "alt": [
+        "Control &amp; Instrument Valve",
+        "og:image"
+      ]
+    },
+    {
+      "file": "images/featured/dimension-measurement.jpg",
+      "bytes": 379181,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/k2/items/cache/9caa2793658f3cc387f216157300b1ce_Generic.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/9caa2793658f3cc387f216157300b1ce_L.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/9caa2793658f3cc387f216157300b1ce_M.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/9caa2793658f3cc387f216157300b1ce_S.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/9caa2793658f3cc387f216157300b1ce_XL.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/9caa2793658f3cc387f216157300b1ce_XS.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/src/9caa2793658f3cc387f216157300b1ce.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/capabilities/dimension-measurement"
+      ],
+      "alt": [
+        "Length Dimension Measurement",
+        "og:image"
+      ]
+    },
+    {
+      "file": "images/featured/electrical-and-instruments.jpg",
+      "bytes": 379181,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/k2/items/cache/184b7cb84d7b456c96a0bdfbbeaa5f14_Generic.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/184b7cb84d7b456c96a0bdfbbeaa5f14_L.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/184b7cb84d7b456c96a0bdfbbeaa5f14_M.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/184b7cb84d7b456c96a0bdfbbeaa5f14_S.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/184b7cb84d7b456c96a0bdfbbeaa5f14_XL.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/184b7cb84d7b456c96a0bdfbbeaa5f14_XS.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/src/184b7cb84d7b456c96a0bdfbbeaa5f14.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/capabilities/electrical-and-instruments"
+      ],
+      "alt": [
+        "Electrical and Instruments",
+        "og:image"
+      ]
+    },
+    {
+      "file": "images/featured/engines-overhaul.jpg",
+      "bytes": 484982,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/k2/items/cache/ffee2447b152494b43d9816faaea83c8_Generic.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/ffee2447b152494b43d9816faaea83c8_L.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/ffee2447b152494b43d9816faaea83c8_M.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/ffee2447b152494b43d9816faaea83c8_S.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/ffee2447b152494b43d9816faaea83c8_XL.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/ffee2447b152494b43d9816faaea83c8_XS.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/src/ffee2447b152494b43d9816faaea83c8.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/engines-overhaul"
+      ],
+      "alt": [
+        "Engines Overhaul",
+        "og:image"
+      ]
+    },
+    {
+      "file": "images/featured/gaskets-and-washers.jpg",
+      "bytes": 394529,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/k2/items/cache/f710044bf79a4b1f5d8b085e5e5d9711_Generic.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/f710044bf79a4b1f5d8b085e5e5d9711_L.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/f710044bf79a4b1f5d8b085e5e5d9711_M.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/f710044bf79a4b1f5d8b085e5e5d9711_S.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/f710044bf79a4b1f5d8b085e5e5d9711_XL.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/f710044bf79a4b1f5d8b085e5e5d9711_XS.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/src/f710044bf79a4b1f5d8b085e5e5d9711.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/gaskets-and-washers"
+      ],
+      "alt": [
+        "Gaskets and Washers",
+        "og:image"
+      ]
+    },
+    {
+      "file": "images/featured/heat-exchangers.jpg",
+      "bytes": 484982,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/k2/items/cache/ada9a09acea936d776a6f55c82778c43_Generic.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/ada9a09acea936d776a6f55c82778c43_L.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/ada9a09acea936d776a6f55c82778c43_M.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/ada9a09acea936d776a6f55c82778c43_S.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/ada9a09acea936d776a6f55c82778c43_XL.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/ada9a09acea936d776a6f55c82778c43_XS.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/src/ada9a09acea936d776a6f55c82778c43.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/heat-exchangers"
+      ],
+      "alt": [
+        "Heat Exchangers Repairs",
+        "og:image"
+      ]
+    },
+    {
+      "file": "images/featured/lab-equipment-repairs.jpg",
+      "bytes": 484982,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/k2/items/cache/2ff2ba0051687eef5ca0459cf942940c_Generic.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/2ff2ba0051687eef5ca0459cf942940c_L.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/2ff2ba0051687eef5ca0459cf942940c_M.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/2ff2ba0051687eef5ca0459cf942940c_S.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/2ff2ba0051687eef5ca0459cf942940c_XL.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/2ff2ba0051687eef5ca0459cf942940c_XS.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/src/2ff2ba0051687eef5ca0459cf942940c.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/lab-equipment-repairs"
+      ],
+      "alt": [
+        "Laboratory Equipment Repairs",
+        "og:image"
+      ]
+    },
+    {
+      "file": "images/featured/motor-repairs.jpg",
+      "bytes": 484982,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/k2/items/cache/94d43e327d9303539cb1e2aac7032668_Generic.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/94d43e327d9303539cb1e2aac7032668_L.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/94d43e327d9303539cb1e2aac7032668_M.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/94d43e327d9303539cb1e2aac7032668_S.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/94d43e327d9303539cb1e2aac7032668_XL.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/94d43e327d9303539cb1e2aac7032668_XS.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/src/94d43e327d9303539cb1e2aac7032668.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/motor-repairs"
+      ],
+      "alt": [
+        "Motor Repairs and Services",
+        "og:image"
+      ]
+    },
+    {
+      "file": "images/featured/personal-safety.jpg",
+      "bytes": 353769,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/k2/items/cache/fc34f61d23b74be53ee07d469bd32064_Generic.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/fc34f61d23b74be53ee07d469bd32064_L.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/fc34f61d23b74be53ee07d469bd32064_M.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/fc34f61d23b74be53ee07d469bd32064_S.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/fc34f61d23b74be53ee07d469bd32064_XL.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/fc34f61d23b74be53ee07d469bd32064_XS.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/src/fc34f61d23b74be53ee07d469bd32064.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/safety-products/personal-safety"
+      ],
+      "alt": [
+        "Personal Safety",
+        "og:image"
+      ]
+    },
+    {
+      "file": "images/featured/polymer-taggings.jpg",
+      "bytes": 394529,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/k2/items/cache/1c0ae2205709722b62e843abc0471a55_Generic.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/1c0ae2205709722b62e843abc0471a55_L.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/1c0ae2205709722b62e843abc0471a55_M.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/1c0ae2205709722b62e843abc0471a55_S.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/1c0ae2205709722b62e843abc0471a55_XL.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/1c0ae2205709722b62e843abc0471a55_XS.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/src/1c0ae2205709722b62e843abc0471a55.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/polymer-taggings"
+      ],
+      "alt": [
+        "Safety Isolations Polymer Taggings",
+        "og:image"
+      ]
+    },
+    {
+      "file": "images/featured/pump-repairs.jpg",
+      "bytes": 484982,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/k2/items/cache/0b1ad7a7b79268a1f4558db78e092446_Generic.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/0b1ad7a7b79268a1f4558db78e092446_L.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/0b1ad7a7b79268a1f4558db78e092446_M.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/0b1ad7a7b79268a1f4558db78e092446_S.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/0b1ad7a7b79268a1f4558db78e092446_XL.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/0b1ad7a7b79268a1f4558db78e092446_XS.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/src/0b1ad7a7b79268a1f4558db78e092446.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/pump-repairs"
+      ],
+      "alt": [
+        "Pump Repairs and Services",
+        "og:image"
+      ]
+    },
+    {
+      "file": "images/featured/pump-testing.jpg",
+      "bytes": 484982,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/k2/items/cache/e0a70f72bdae9885bfc32d7cd19a26a1_Generic.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/e0a70f72bdae9885bfc32d7cd19a26a1_L.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/e0a70f72bdae9885bfc32d7cd19a26a1_M.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/e0a70f72bdae9885bfc32d7cd19a26a1_S.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/e0a70f72bdae9885bfc32d7cd19a26a1_XL.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/e0a70f72bdae9885bfc32d7cd19a26a1_XS.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/src/e0a70f72bdae9885bfc32d7cd19a26a1.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/pump-testing"
+      ],
+      "alt": [
+        "Pump Performance Testing Facility",
+        "og:image"
+      ]
+    },
+    {
+      "file": "images/featured/rope-and-sling.jpg",
+      "bytes": 394529,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/k2/items/cache/867519228d1d5325856fc61d710ded0e_Generic.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/867519228d1d5325856fc61d710ded0e_L.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/867519228d1d5325856fc61d710ded0e_M.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/867519228d1d5325856fc61d710ded0e_S.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/867519228d1d5325856fc61d710ded0e_XL.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/867519228d1d5325856fc61d710ded0e_XS.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/src/867519228d1d5325856fc61d710ded0e.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/rope-and-sling"
+      ],
+      "alt": [
+        "Rope and Sling",
+        "og:image"
+      ]
+    },
+    {
+      "file": "images/featured/safety-equipments.jpg",
+      "bytes": 353769,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/k2/items/cache/01f1a05053c6242fcfa23075e5b963c1_Generic.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/01f1a05053c6242fcfa23075e5b963c1_L.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/01f1a05053c6242fcfa23075e5b963c1_M.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/01f1a05053c6242fcfa23075e5b963c1_S.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/01f1a05053c6242fcfa23075e5b963c1_XL.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/01f1a05053c6242fcfa23075e5b963c1_XS.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/src/01f1a05053c6242fcfa23075e5b963c1.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/safety-products/safety-equipments"
+      ],
+      "alt": [
+        "Safety Equipments",
+        "og:image"
+      ]
+    },
+    {
+      "file": "images/featured/stud-bolts.jpg",
+      "bytes": 394529,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/k2/items/cache/fa55c8bad0e242eb7986dc1135b50adb_Generic.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/fa55c8bad0e242eb7986dc1135b50adb_L.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/fa55c8bad0e242eb7986dc1135b50adb_M.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/fa55c8bad0e242eb7986dc1135b50adb_S.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/fa55c8bad0e242eb7986dc1135b50adb_XL.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/fa55c8bad0e242eb7986dc1135b50adb_XS.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/src/fa55c8bad0e242eb7986dc1135b50adb.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/stud-bolts"
+      ],
+      "alt": [
+        "Stainless Steel Stud Bolts",
+        "og:image"
+      ]
+    },
+    {
+      "file": "images/featured/temperatures-devices.jpg",
+      "bytes": 379181,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/k2/items/cache/d61d44254608dd06ccdd2ff02982d14d_Generic.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/d61d44254608dd06ccdd2ff02982d14d_L.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/d61d44254608dd06ccdd2ff02982d14d_M.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/d61d44254608dd06ccdd2ff02982d14d_S.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/d61d44254608dd06ccdd2ff02982d14d_XL.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/d61d44254608dd06ccdd2ff02982d14d_XS.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/src/d61d44254608dd06ccdd2ff02982d14d.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/capabilities/temperatures-devices"
+      ],
+      "alt": [
+        "Temperatures Devices",
+        "og:image"
+      ]
+    },
+    {
+      "file": "images/featured/valve-actuators-repairs.jpg",
+      "bytes": 484982,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/k2/items/cache/9ecd376e5371efaef9aad9bc9143aed8_Generic.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/9ecd376e5371efaef9aad9bc9143aed8_L.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/9ecd376e5371efaef9aad9bc9143aed8_M.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/9ecd376e5371efaef9aad9bc9143aed8_S.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/9ecd376e5371efaef9aad9bc9143aed8_XL.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/9ecd376e5371efaef9aad9bc9143aed8_XS.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/src/9ecd376e5371efaef9aad9bc9143aed8.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/valve-actuators-repairs"
+      ],
+      "alt": [
+        "Valve Actuators Repairs &amp; Services",
+        "og:image"
+      ]
+    },
+    {
+      "file": "images/featured/valve-repairs.jpg",
+      "bytes": 484982,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/media/k2/items/cache/39eee751af30032eeece2f48de2de4ba_Generic.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/39eee751af30032eeece2f48de2de4ba_L.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/39eee751af30032eeece2f48de2de4ba_M.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/39eee751af30032eeece2f48de2de4ba_S.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/39eee751af30032eeece2f48de2de4ba_XL.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/cache/39eee751af30032eeece2f48de2de4ba_XS.jpg",
+        "https://advanceautomationbrunei.com/media/k2/items/src/39eee751af30032eeece2f48de2de4ba.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/valve-repairs"
+      ],
+      "alt": [
+        "Valve Repairs and Services",
+        "og:image"
+      ]
+    },
+    {
+      "file": "images/logos/Advance-Automation-Brunei-Logo-Small.png",
+      "bytes": 11217,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/logos/Advance-Automation-Brunei-Logo-Small.png"
+      ],
+      "usedOn": [
+        "/",
+        "/about-us",
+        "/clients",
+        "/contact",
+        "/news-n-events",
+        "/news-n-events/item/11-first-purchase-order",
+        "/news-n-events/item/12-advance-automation-officially-launch",
+        "/news-n-events/item/13-gerbaru-jaya-distributorship",
+        "/news-n-events/item/14-multiple-distributorships-awards",
+        "/news-n-events/item/16-north-java-sea-group-distributorship",
+        "/news-n-events/item/23-mou-with-ramacon-corporation",
+        "/news-n-events/item/24-mou-with-mewah-raya-sdn-bhd",
+        "/news-n-events/item/25-awarded-aiti-license",
+        "/products-and-services",
+        "/products-and-services/calibration-certification-services",
+        "/products-and-services/calibration-certification-services/itemlist/category/7-services",
+        "/products-and-services/capabilities",
+        "/products-and-services/capabilities/dimension-measurement",
+        "/products-and-services/capabilities/electrical-and-instruments",
+        "/products-and-services/capabilities/temperatures-devices",
+        "/products-and-services/control-and-instrument-valves",
+        "/products-and-services/control-and-instrument-valves/itemlist/category/7-services",
+        "/products-and-services/custom-made",
+        "/products-and-services/custom-made/gaskets-and-washers",
+        "/products-and-services/custom-made/polymer-taggings",
+        "/products-and-services/custom-made/rope-and-sling",
+        "/products-and-services/custom-made/stud-bolts",
+        "/products-and-services/engineering-and-services",
+        "/products-and-services/engineering-and-services/engines-overhaul",
+        "/products-and-services/engineering-and-services/heat-exchangers",
+        "/products-and-services/engineering-and-services/lab-equipment-repairs",
+        "/products-and-services/engineering-and-services/motor-repairs",
+        "/products-and-services/engineering-and-services/pump-repairs",
+        "/products-and-services/engineering-and-services/pump-testing",
+        "/products-and-services/engineering-and-services/valve-actuators-repairs",
+        "/products-and-services/engineering-and-services/valve-repairs",
+        "/products-and-services/safety-products",
+        "/products-and-services/safety-products/personal-safety",
+        "/products-and-services/safety-products/safety-equipments"
+      ],
+      "alt": [
+        "Advance Automation Brunei",
+        "Advance Automation Sdn Bhd",
+        "Fac3heat"
+      ]
+    },
+    {
+      "file": "images/logos/Advance-Automation-Brunei-Logo.png",
+      "bytes": 26296,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/logos/Advance-Automation-Brunei-Logo.png"
+      ],
+      "usedOn": [
+        "/",
+        "/about-us",
+        "/clients",
+        "/contact",
+        "/news-n-events",
+        "/news-n-events/item/11-first-purchase-order",
+        "/news-n-events/item/12-advance-automation-officially-launch",
+        "/news-n-events/item/13-gerbaru-jaya-distributorship",
+        "/news-n-events/item/14-multiple-distributorships-awards",
+        "/news-n-events/item/16-north-java-sea-group-distributorship",
+        "/news-n-events/item/23-mou-with-ramacon-corporation",
+        "/news-n-events/item/24-mou-with-mewah-raya-sdn-bhd",
+        "/news-n-events/item/25-awarded-aiti-license",
+        "/products-and-services",
+        "/products-and-services/calibration-certification-services",
+        "/products-and-services/calibration-certification-services/itemlist/category/7-services",
+        "/products-and-services/capabilities",
+        "/products-and-services/capabilities/dimension-measurement",
+        "/products-and-services/capabilities/electrical-and-instruments",
+        "/products-and-services/capabilities/temperatures-devices",
+        "/products-and-services/control-and-instrument-valves",
+        "/products-and-services/control-and-instrument-valves/itemlist/category/7-services",
+        "/products-and-services/custom-made",
+        "/products-and-services/custom-made/gaskets-and-washers",
+        "/products-and-services/custom-made/polymer-taggings",
+        "/products-and-services/custom-made/rope-and-sling",
+        "/products-and-services/custom-made/stud-bolts",
+        "/products-and-services/engineering-and-services",
+        "/products-and-services/engineering-and-services/engines-overhaul",
+        "/products-and-services/engineering-and-services/heat-exchangers",
+        "/products-and-services/engineering-and-services/lab-equipment-repairs",
+        "/products-and-services/engineering-and-services/motor-repairs",
+        "/products-and-services/engineering-and-services/pump-repairs",
+        "/products-and-services/engineering-and-services/pump-testing",
+        "/products-and-services/engineering-and-services/valve-actuators-repairs",
+        "/products-and-services/engineering-and-services/valve-repairs",
+        "/products-and-services/safety-products",
+        "/products-and-services/safety-products/personal-safety",
+        "/products-and-services/safety-products/safety-equipments"
+      ],
+      "alt": [
+        "Advance Automation Brunei",
+        "Advance Automation Sdn Bhd",
+        "Fac3heat"
+      ]
+    },
+    {
+      "file": "images/news_events/01/AAB-Official-Launch.jpg",
+      "bytes": 113121,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/news_events/01/AAB-Official-Launch.jpg"
+      ],
+      "usedOn": [
+        "/news-n-events/item/12-advance-automation-officially-launch"
+      ],
+      "alt": [
+        "AAB Official Launch"
+      ]
+    },
+    {
+      "file": "images/news_events/01/AAB-Official-Launch2.jpg",
+      "bytes": 99134,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/news_events/01/AAB-Official-Launch2.jpg"
+      ],
+      "usedOn": [
+        "/news-n-events/item/12-advance-automation-officially-launch"
+      ],
+      "alt": [
+        "AAB Official Launch"
+      ]
+    },
+    {
+      "file": "images/news_events/1/ANZIC_LOGO.jpg",
+      "bytes": 4253,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/news_events/1/ANZIC_LOGO.jpg"
+      ],
+      "usedOn": [
+        "/news-n-events/item/16-north-java-sea-group-distributorship"
+      ],
+      "alt": [
+        "ANZIC LOGO"
+      ]
+    },
+    {
+      "file": "images/news_events/1/Shackles-Hooks-1.jpg",
+      "bytes": 54083,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/news_events/1/Shackles-Hooks-1.jpg"
+      ],
+      "usedOn": [
+        "/news-n-events/item/16-north-java-sea-group-distributorship"
+      ],
+      "alt": [
+        "Anzic Shackles Hooks 1"
+      ]
+    },
+    {
+      "file": "images/news_events/1/Shackles-Hooks-2.jpg",
+      "bytes": 17522,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/news_events/1/Shackles-Hooks-2.jpg"
+      ],
+      "usedOn": [
+        "/news-n-events/item/16-north-java-sea-group-distributorship"
+      ],
+      "alt": [
+        "Anzic Shackles Hooks 2"
+      ]
+    },
+    {
+      "file": "images/news_events/1/ladders-1.jpg",
+      "bytes": 13138,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/news_events/1/ladders-1.jpg"
+      ],
+      "usedOn": [
+        "/news-n-events/item/16-north-java-sea-group-distributorship"
+      ],
+      "alt": [
+        "Anzic ladders"
+      ]
+    },
+    {
+      "file": "images/news_events/2/EPG.jpg",
+      "bytes": 3786,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/news_events/2/EPG.jpg"
+      ],
+      "usedOn": [
+        "/news-n-events/item/14-multiple-distributorships-awards"
+      ],
+      "alt": [
+        "EPG"
+      ]
+    },
+    {
+      "file": "images/news_events/2/LANDMARK_Group_logo.png",
+      "bytes": 15244,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/news_events/2/LANDMARK_Group_logo.png"
+      ],
+      "usedOn": [
+        "/news-n-events/item/14-multiple-distributorships-awards"
+      ],
+      "alt": [
+        "LANDMARK_Group_logo"
+      ]
+    },
+    {
+      "file": "images/news_events/2/Salam-Jaya-Lestari.jpg",
+      "bytes": 6164,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/news_events/2/Salam-Jaya-Lestari.jpg"
+      ],
+      "usedOn": [
+        "/news-n-events/item/14-multiple-distributorships-awards"
+      ],
+      "alt": [
+        "Salam Jaya Lestari"
+      ]
+    },
+    {
+      "file": "images/news_events/2/Steady--Pakaging-Products.jpg",
+      "bytes": 7847,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/news_events/2/Steady--Pakaging-Products.jpg"
+      ],
+      "usedOn": [
+        "/news-n-events/item/14-multiple-distributorships-awards"
+      ],
+      "alt": [
+        "Steady--Pakaging-Products"
+      ]
+    },
+    {
+      "file": "images/news_events/2/swago_logo.png",
+      "bytes": 6753,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/news_events/2/swago_logo.png"
+      ],
+      "usedOn": [
+        "/news-n-events/item/14-multiple-distributorships-awards"
+      ],
+      "alt": [
+        "swago logo"
+      ]
+    },
+    {
+      "file": "images/news_events/4/HSE.jpg",
+      "bytes": 65218,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/news_events/4/HSE.jpg"
+      ],
+      "usedOn": [
+        "/news-n-events/item/11-first-purchase-order"
+      ],
+      "alt": [
+        "HSE"
+      ]
+    },
+    {
+      "file": "images/news_events/4/Soft-Opening.jpg",
+      "bytes": 68782,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/news_events/4/Soft-Opening.jpg"
+      ],
+      "usedOn": [
+        "/news-n-events/item/11-first-purchase-order"
+      ],
+      "alt": [
+        "Soft Opening"
+      ]
+    },
+    {
+      "file": "images/news_events/4/Soft-Opening2.jpg",
+      "bytes": 64747,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/news_events/4/Soft-Opening2.jpg"
+      ],
+      "usedOn": [
+        "/news-n-events/item/11-first-purchase-order"
+      ],
+      "alt": [
+        "Soft Opening"
+      ]
+    },
+    {
+      "file": "images/news_events/5/MOU-Signing-Ramacon-Corporation.jpg",
+      "bytes": 84336,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/news_events/5/MOU-Signing-Ramacon-Corporation.jpg"
+      ],
+      "usedOn": [
+        "/news-n-events/item/23-mou-with-ramacon-corporation"
+      ],
+      "alt": [
+        "MOU Signing Ramacon Corporation"
+      ]
+    },
+    {
+      "file": "images/news_events/5/MOU-Signing-Ramacon-Corporation2.jpg",
+      "bytes": 76119,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/news_events/5/MOU-Signing-Ramacon-Corporation2.jpg"
+      ],
+      "usedOn": [
+        "/news-n-events/item/23-mou-with-ramacon-corporation"
+      ],
+      "alt": [
+        "MOU Signing Ramacon Corporation"
+      ]
+    },
+    {
+      "file": "images/news_events/5/MOU-Signing-Ramacon-Corporation3.jpg",
+      "bytes": 87584,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/news_events/5/MOU-Signing-Ramacon-Corporation3.jpg"
+      ],
+      "usedOn": [
+        "/news-n-events/item/23-mou-with-ramacon-corporation"
+      ],
+      "alt": [
+        "MOU Signing Ramacon Corporation"
+      ]
+    },
+    {
+      "file": "images/news_events/5/MOU-Signing-Ramacon-Corporation4.jpg",
+      "bytes": 74991,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/news_events/5/MOU-Signing-Ramacon-Corporation4.jpg"
+      ],
+      "usedOn": [
+        "/news-n-events/item/23-mou-with-ramacon-corporation"
+      ],
+      "alt": [
+        "MOU Signing Ramacon Corporation"
+      ]
+    },
+    {
+      "file": "images/news_events/5/MOU-Signing-Ramacon-Corporation5.jpg",
+      "bytes": 69319,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/news_events/5/MOU-Signing-Ramacon-Corporation5.jpg"
+      ],
+      "usedOn": [
+        "/news-n-events/item/23-mou-with-ramacon-corporation"
+      ],
+      "alt": [
+        "MOU Signing Ramacon Corporation"
+      ]
+    },
+    {
+      "file": "images/news_events/5/MOU-Signing-Ramacon-Corporation6.jpg",
+      "bytes": 76260,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/news_events/5/MOU-Signing-Ramacon-Corporation6.jpg"
+      ],
+      "usedOn": [
+        "/news-n-events/item/23-mou-with-ramacon-corporation"
+      ],
+      "alt": [
+        "MOU Signing Ramacon Corporation"
+      ]
+    },
+    {
+      "file": "images/news_events/6/MOU-Signing-with-Mewah-Raya2.jpg",
+      "bytes": 73661,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/news_events/6/MOU-Signing-with-Mewah-Raya2.jpg"
+      ],
+      "usedOn": [
+        "/news-n-events/item/24-mou-with-mewah-raya-sdn-bhd"
+      ],
+      "alt": [
+        "MOU Signing with Mewah Raya2"
+      ]
+    },
+    {
+      "file": "images/news_events/7/AITI-Certificate.jpg",
+      "bytes": 87694,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/news_events/7/AITI-Certificate.jpg"
+      ],
+      "usedOn": [
+        "/news-n-events/item/25-awarded-aiti-license"
+      ],
+      "alt": [
+        "AITI Certificate"
+      ]
+    },
+    {
+      "file": "images/news_events/7/AITI-Logo-with-License.jpg",
+      "bytes": 57656,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/news_events/7/AITI-Logo-with-License.jpg"
+      ],
+      "usedOn": [
+        "/news-n-events/item/25-awarded-aiti-license"
+      ],
+      "alt": [
+        "AITI Logo with License"
+      ]
+    },
+    {
+      "file": "images/news_events/7/MOD_Logo_with_license.jpg",
+      "bytes": 121878,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/news_events/7/MOD_Logo_with_license.jpg"
+      ],
+      "usedOn": [
+        "/news-n-events/item/25-awarded-aiti-license"
+      ],
+      "alt": [
+        "MOD Logo with license"
+      ]
+    },
+    {
+      "file": "images/products-services/Calibration/demensional.jpg",
+      "bytes": 10830,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Calibration/demensional.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/calibration-certification-services"
+      ],
+      "alt": [
+        "demensional"
+      ]
+    },
+    {
+      "file": "images/products-services/Calibration/electrical_electronic.png",
+      "bytes": 166931,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Calibration/electrical_electronic.png"
+      ],
+      "usedOn": [
+        "/products-and-services/calibration-certification-services"
+      ],
+      "alt": [
+        "electrical_electronic"
+      ]
+    },
+    {
+      "file": "images/products-services/Calibration/gas_monitoring_detection2.jpg",
+      "bytes": 12648,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Calibration/gas_monitoring_detection2.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/calibration-certification-services"
+      ],
+      "alt": [
+        "gas_monitoring_detection2"
+      ]
+    },
+    {
+      "file": "images/products-services/Calibration/laboratory2.jpg",
+      "bytes": 6440,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Calibration/laboratory2.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/calibration-certification-services"
+      ],
+      "alt": [
+        "laboratory2"
+      ]
+    },
+    {
+      "file": "images/products-services/Calibration/onsite_calibration_service.jpg",
+      "bytes": 74792,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Calibration/onsite_calibration_service.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/calibration-certification-services"
+      ],
+      "alt": [
+        "onsite_calibration_service"
+      ]
+    },
+    {
+      "file": "images/products-services/Calibration/pressure.jpg",
+      "bytes": 11139,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Calibration/pressure.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/calibration-certification-services"
+      ],
+      "alt": [
+        "pressure"
+      ]
+    },
+    {
+      "file": "images/products-services/Calibration/telecommunication_networking.jpg",
+      "bytes": 40217,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Calibration/telecommunication_networking.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/calibration-certification-services"
+      ],
+      "alt": [
+        "telecommunication_networking"
+      ]
+    },
+    {
+      "file": "images/products-services/Calibration/torque_calibration_services2.jpg",
+      "bytes": 14883,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Calibration/torque_calibration_services2.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/calibration-certification-services"
+      ],
+      "alt": [
+        "torque_calibration_services2"
+      ]
+    },
+    {
+      "file": "images/products-services/Calibration/weighning_loadcell_scale2.jpg",
+      "bytes": 13514,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Calibration/weighning_loadcell_scale2.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/calibration-certification-services"
+      ],
+      "alt": [
+        "weighning_loadcell_scale2"
+      ]
+    },
+    {
+      "file": "images/products-services/Capabilities/Electrical-Instruments.jpg",
+      "bytes": 14039,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Capabilities/Electrical-Instruments.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/capabilities/electrical-and-instruments"
+      ],
+      "alt": [
+        "Electrical Instruments"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Gaskets/Exhaust-System-Gasket.png",
+      "bytes": 8720,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Gaskets/Exhaust-System-Gasket.png"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/gaskets-and-washers"
+      ],
+      "alt": [
+        "Exhaust-System-Gasket"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Gaskets/General-Assembled-Mechanical-Seal.png",
+      "bytes": 6247,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Gaskets/General-Assembled-Mechanical-Seal.png"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/gaskets-and-washers"
+      ],
+      "alt": [
+        "General-Assembled-Mechanical-Seal"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Gaskets/Graphite-Cut-Gasket.png",
+      "bytes": 7971,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Gaskets/Graphite-Cut-Gasket.png"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/gaskets-and-washers"
+      ],
+      "alt": [
+        "Graphite-Cut-Gasket"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Gaskets/Graphite-Packing.png",
+      "bytes": 3649,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Gaskets/Graphite-Packing.png"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/gaskets-and-washers"
+      ],
+      "alt": [
+        "Graphite-Packing"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Gaskets/High-Pressure-gaskets.png",
+      "bytes": 7884,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Gaskets/High-Pressure-gaskets.png"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/gaskets-and-washers"
+      ],
+      "alt": [
+        "High-Pressure-gaskets"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Gaskets/Non-Asbestos-Gasket.png",
+      "bytes": 7483,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Gaskets/Non-Asbestos-Gasket.png"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/gaskets-and-washers"
+      ],
+      "alt": [
+        "Non-Asbestos-Gasket"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Gaskets/Packing-Tool.png",
+      "bytes": 7621,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Gaskets/Packing-Tool.png"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/gaskets-and-washers"
+      ],
+      "alt": [
+        "Packing-Tool"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Gaskets/Solid-Metal-Gasket.png",
+      "bytes": 7475,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Gaskets/Solid-Metal-Gasket.png"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/gaskets-and-washers"
+      ],
+      "alt": [
+        "Solid-Metal-Gasket"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Gaskets/Spiral-Wound-Gasket.png",
+      "bytes": 8263,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Gaskets/Spiral-Wound-Gasket.png"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/gaskets-and-washers"
+      ],
+      "alt": [
+        "Spiral-Wound-Gasket"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Gaskets/gasket-seals-custom-seals.jpg",
+      "bytes": 12210,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Gaskets/gasket-seals-custom-seals.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/gaskets-and-washers"
+      ],
+      "alt": [
+        "gasket-seals-custom-seals"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Gaskets/gasket-seals-rubber-coated.jpg",
+      "bytes": 13984,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Gaskets/gasket-seals-rubber-coated.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/gaskets-and-washers"
+      ],
+      "alt": [
+        "gasket-seals-rubber-coated"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Gaskets/gasket-seals-style-bx.jpg",
+      "bytes": 11394,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Gaskets/gasket-seals-style-bx.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/gaskets-and-washers"
+      ],
+      "alt": [
+        "gasket-seals-style-bx"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Gaskets/gasket-seals-style-r.jpg",
+      "bytes": 12887,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Gaskets/gasket-seals-style-r.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/gaskets-and-washers"
+      ],
+      "alt": [
+        "gasket-seals-style-r"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Gaskets/gasket-seals-style-rx.jpg",
+      "bytes": 12552,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Gaskets/gasket-seals-style-rx.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/gaskets-and-washers"
+      ],
+      "alt": [
+        "gasket-seals-style-rx"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Gaskets/shield-sealing-tape.png",
+      "bytes": 7953,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Gaskets/shield-sealing-tape.png"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/gaskets-and-washers"
+      ],
+      "alt": [
+        "shield-sealing-tape"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_RopeSling/Sling-Lashings.jpg",
+      "bytes": 11172,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_RopeSling/Sling-Lashings.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/rope-and-sling"
+      ],
+      "alt": [
+        "Sling Lashings"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Stud-Bolts/Stud-Bolts-1.jpg",
+      "bytes": 12165,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Stud-Bolts/Stud-Bolts-1.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/stud-bolts"
+      ],
+      "alt": [
+        "Stud-Bolts-1"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Stud-Bolts/Stud-Bolts-2.jpg",
+      "bytes": 11841,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Stud-Bolts/Stud-Bolts-2.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/stud-bolts"
+      ],
+      "alt": [
+        "Stud-Bolts-2"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Stud-Bolts/Stud-Bolts-3.jpg",
+      "bytes": 32639,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Stud-Bolts/Stud-Bolts-3.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/stud-bolts"
+      ],
+      "alt": [
+        "Stud-Bolts-3"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Stud-Bolts/Stud-Bolts-4.jpg",
+      "bytes": 40853,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Stud-Bolts/Stud-Bolts-4.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/stud-bolts"
+      ],
+      "alt": [
+        "Stud Bolts 4"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Stud-Bolts/Stud-Bolts-5.jpg",
+      "bytes": 15029,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Stud-Bolts/Stud-Bolts-5.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/stud-bolts"
+      ],
+      "alt": [
+        "Stud-Bolts-5"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Stud-Bolts/Stud-Bolts-6.jpg",
+      "bytes": 16372,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Stud-Bolts/Stud-Bolts-6.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/stud-bolts"
+      ],
+      "alt": [
+        "Stud-Bolts-6"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Tagging/entry-exit-t-1.jpg",
+      "bytes": 8311,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Tagging/entry-exit-t-1.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/polymer-taggings"
+      ],
+      "alt": [
+        "entry-exit-t-1"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Tagging/entry-exit-t-2.jpg",
+      "bytes": 4700,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Tagging/entry-exit-t-2.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/polymer-taggings"
+      ],
+      "alt": [
+        "entry-exit-t-2"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Tagging/entry-exit-t-3.jpg",
+      "bytes": 18170,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Tagging/entry-exit-t-3.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/polymer-taggings"
+      ],
+      "alt": [
+        "entry-exit-t-3"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Tagging/equipment-tag-1.jpg",
+      "bytes": 27618,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Tagging/equipment-tag-1.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/polymer-taggings"
+      ],
+      "alt": [
+        "equipment-tag-1"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Tagging/equipment-tag-2.jpg",
+      "bytes": 31750,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Tagging/equipment-tag-2.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/polymer-taggings"
+      ],
+      "alt": [
+        "equipment-tag-2"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Tagging/fire-action-1.jpg",
+      "bytes": 31922,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Tagging/fire-action-1.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/polymer-taggings"
+      ],
+      "alt": [
+        "fire-action-1"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Tagging/fire-action-2.jpg",
+      "bytes": 30636,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Tagging/fire-action-2.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/polymer-taggings"
+      ],
+      "alt": [
+        "fire-action-2"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Tagging/fire-action-3.jpg",
+      "bytes": 22886,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Tagging/fire-action-3.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/polymer-taggings"
+      ],
+      "alt": [
+        "fire-action-3"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Tagging/no-entry-1.jpg",
+      "bytes": 19816,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Tagging/no-entry-1.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/polymer-taggings"
+      ],
+      "alt": [
+        "no-entry-1"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Tagging/no-entry-2.jpg",
+      "bytes": 13549,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Tagging/no-entry-2.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/polymer-taggings"
+      ],
+      "alt": [
+        "no-entry-2"
+      ]
+    },
+    {
+      "file": "images/products-services/Custom-made_Tagging/zip-lock-bag.jpg",
+      "bytes": 11044,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Custom-made_Tagging/zip-lock-bag.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/custom-made/polymer-taggings"
+      ],
+      "alt": [
+        "zip-lock-bag"
+      ]
+    },
+    {
+      "file": "images/products-services/Engineering/Motor_repair_1.jpg",
+      "bytes": 41923,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Engineering/Motor_repair_1.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/motor-repairs"
+      ],
+      "alt": [
+        "Motor_repair_1"
+      ]
+    },
+    {
+      "file": "images/products-services/Engineering/collection.png",
+      "bytes": 11471,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Engineering/collection.png"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/pump-repairs"
+      ],
+      "alt": [
+        "collection"
+      ]
+    },
+    {
+      "file": "images/products-services/Engineering/diesel-engine-service.jpg",
+      "bytes": 21030,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Engineering/diesel-engine-service.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/engines-overhaul"
+      ],
+      "alt": [
+        "diesel-engine-service"
+      ]
+    },
+    {
+      "file": "images/products-services/Engineering/heat-exchanger-1.png",
+      "bytes": 51428,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Engineering/heat-exchanger-1.png"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/heat-exchangers"
+      ],
+      "alt": [
+        "heat-exchanger-1"
+      ]
+    },
+    {
+      "file": "images/products-services/Engineering/heat-exchanger-2.png",
+      "bytes": 42056,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Engineering/heat-exchanger-2.png"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/heat-exchangers"
+      ],
+      "alt": [
+        "heat-exchanger-2"
+      ]
+    },
+    {
+      "file": "images/products-services/Engineering/heat-exchanger-3.png",
+      "bytes": 91346,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Engineering/heat-exchanger-3.png"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/heat-exchangers"
+      ],
+      "alt": [
+        "heat-exchanger-3"
+      ]
+    },
+    {
+      "file": "images/products-services/Engineering/industrial_engine_service.jpg",
+      "bytes": 15742,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Engineering/industrial_engine_service.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/engines-overhaul"
+      ],
+      "alt": [
+        "industrial_engine_service"
+      ]
+    },
+    {
+      "file": "images/products-services/Engineering/laboratory_new_1.jpg",
+      "bytes": 26131,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Engineering/laboratory_new_1.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/lab-equipment-repairs"
+      ],
+      "alt": [
+        "laboratory new 1"
+      ]
+    },
+    {
+      "file": "images/products-services/Engineering/marine_engine_servie.jpg",
+      "bytes": 19727,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Engineering/marine_engine_servie.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/engines-overhaul"
+      ],
+      "alt": [
+        "marine_engine_servie"
+      ]
+    },
+    {
+      "file": "images/products-services/Engineering/motor-repairs-4.jpg",
+      "bytes": 41467,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Engineering/motor-repairs-4.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/motor-repairs"
+      ],
+      "alt": [
+        "motor-repairs-4"
+      ]
+    },
+    {
+      "file": "images/products-services/Engineering/motor-repairs-5.jpg",
+      "bytes": 43193,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Engineering/motor-repairs-5.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/motor-repairs"
+      ],
+      "alt": [
+        "motor-repairs-5"
+      ]
+    },
+    {
+      "file": "images/products-services/Engineering/motor-repairs-6.jpg",
+      "bytes": 55086,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Engineering/motor-repairs-6.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/motor-repairs"
+      ],
+      "alt": [
+        "motor-repairs-6"
+      ]
+    },
+    {
+      "file": "images/products-services/Engineering/motor-repairs-7.jpg",
+      "bytes": 49773,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Engineering/motor-repairs-7.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/motor-repairs"
+      ],
+      "alt": [
+        "motor-repairs-7"
+      ]
+    },
+    {
+      "file": "images/products-services/Engineering/motor-repairs-8.jpg",
+      "bytes": 36922,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Engineering/motor-repairs-8.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/motor-repairs"
+      ],
+      "alt": [
+        "motor-repairs-8"
+      ]
+    },
+    {
+      "file": "images/products-services/Engineering/motor-repairs-9.jpg",
+      "bytes": 11913,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Engineering/motor-repairs-9.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/motor-repairs"
+      ],
+      "alt": [
+        "motor-repairs-9"
+      ]
+    },
+    {
+      "file": "images/products-services/Engineering/perfomance_testing.jpg",
+      "bytes": 11734,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Engineering/perfomance_testing.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/pump-repairs"
+      ],
+      "alt": [
+        "perfomance_testing"
+      ]
+    },
+    {
+      "file": "images/products-services/Engineering/pump-repairs-7.jpg",
+      "bytes": 20789,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Engineering/pump-repairs-7.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/pump-repairs"
+      ],
+      "alt": [
+        "pump-repairs-7"
+      ]
+    },
+    {
+      "file": "images/products-services/Engineering/pump-testing-service.jpg",
+      "bytes": 98997,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Engineering/pump-testing-service.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/pump-testing"
+      ],
+      "alt": [
+        "pump testing service"
+      ]
+    },
+    {
+      "file": "images/products-services/Engineering/pump_repair.jpg",
+      "bytes": 23633,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Engineering/pump_repair.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/pump-repairs"
+      ],
+      "alt": [
+        "pump_repair"
+      ]
+    },
+    {
+      "file": "images/products-services/Engineering/spray.jpg",
+      "bytes": 17166,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Engineering/spray.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/pump-repairs"
+      ],
+      "alt": [
+        "spray"
+      ]
+    },
+    {
+      "file": "images/products-services/Engineering/valve_actuators_after_repair.png",
+      "bytes": 126515,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Engineering/valve_actuators_after_repair.png"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/valve-actuators-repairs"
+      ],
+      "alt": [
+        "valve_actuators_after_repair"
+      ]
+    },
+    {
+      "file": "images/products-services/Engineering/valve_actuators_before_repair.png",
+      "bytes": 118806,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Engineering/valve_actuators_before_repair.png"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/valve-actuators-repairs"
+      ],
+      "alt": [
+        "valve_actuators_before_repair"
+      ]
+    },
+    {
+      "file": "images/products-services/Engineering/valve_actuators_repairs.jpg",
+      "bytes": 17141,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Engineering/valve_actuators_repairs.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/engineering-and-services/valve-actuators-repairs"
+      ],
+      "alt": [
+        "valve_actuators_repairs"
+      ]
+    },
+    {
+      "file": "images/products-services/Safety_Equipment/Metzo-Rope-ladder.jpg",
+      "bytes": 18526,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Safety_Equipment/Metzo-Rope-ladder.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/safety-products/safety-equipments"
+      ],
+      "alt": [
+        "Metzo-Rope-ladder"
+      ]
+    },
+    {
+      "file": "images/products-services/Safety_Equipment/Rawbolts-and-Spacers.jpg",
+      "bytes": 5999,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Safety_Equipment/Rawbolts-and-Spacers.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/safety-products/safety-equipments"
+      ],
+      "alt": [
+        "Rawbolts-and-Spacers"
+      ]
+    },
+    {
+      "file": "images/products-services/Safety_Equipment/Safeguard.jpg",
+      "bytes": 18829,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Safety_Equipment/Safeguard.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/safety-products/safety-equipments"
+      ],
+      "alt": [
+        "Safeguard"
+      ]
+    },
+    {
+      "file": "images/products-services/Safety_Equipment/Shackles-Hooks-1.jpg",
+      "bytes": 54083,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Safety_Equipment/Shackles-Hooks-1.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/safety-products/safety-equipments"
+      ],
+      "alt": [
+        "Shackles-Hooks-1"
+      ]
+    },
+    {
+      "file": "images/products-services/Safety_Equipment/Shackles-Hooks-2.jpg",
+      "bytes": 33670,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Safety_Equipment/Shackles-Hooks-2.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/safety-products/safety-equipments"
+      ],
+      "alt": [
+        "Shackles-Hooks-2"
+      ]
+    },
+    {
+      "file": "images/products-services/Safety_Equipment/ladders-1.jpg",
+      "bytes": 13138,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Safety_Equipment/ladders-1.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/safety-products/safety-equipments"
+      ],
+      "alt": [
+        "ladders-1"
+      ]
+    },
+    {
+      "file": "images/products-services/Safety_Personal/Body-harness-1.jpg",
+      "bytes": 26683,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Safety_Personal/Body-harness-1.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/safety-products/personal-safety"
+      ],
+      "alt": [
+        "Body-harness-1"
+      ]
+    },
+    {
+      "file": "images/products-services/Safety_Personal/Body-harness-2.jpg",
+      "bytes": 32017,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Safety_Personal/Body-harness-2.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/safety-products/personal-safety"
+      ],
+      "alt": [
+        "Body-harness-2"
+      ]
+    },
+    {
+      "file": "images/products-services/Safety_Personal/Eye-wash-station.jpg",
+      "bytes": 33709,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Safety_Personal/Eye-wash-station.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/safety-products/personal-safety"
+      ],
+      "alt": [
+        "Eye-wash-station"
+      ]
+    },
+    {
+      "file": "images/products-services/Safety_Personal/Pocket-Mask.jpg",
+      "bytes": 27631,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Safety_Personal/Pocket-Mask.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/safety-products/personal-safety"
+      ],
+      "alt": [
+        "Pocket-Mask"
+      ]
+    },
+    {
+      "file": "images/products-services/Safety_Personal/Tools-against-fall-2.jpg",
+      "bytes": 6074,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Safety_Personal/Tools-against-fall-2.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/safety-products/personal-safety"
+      ],
+      "alt": [
+        "Tools-against-fall-2"
+      ]
+    },
+    {
+      "file": "images/products-services/Safety_Personal/Tools-against-fall.jpg",
+      "bytes": 8781,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Safety_Personal/Tools-against-fall.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/safety-products/personal-safety"
+      ],
+      "alt": [
+        "Tools-against-fall"
+      ]
+    },
+    {
+      "file": "images/products-services/Safety_Personal/Tools-fall-lanyard-1.jpg",
+      "bytes": 3803,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Safety_Personal/Tools-fall-lanyard-1.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/safety-products/personal-safety"
+      ],
+      "alt": [
+        "Tools-fall-lanyard-1"
+      ]
+    },
+    {
+      "file": "images/products-services/Safety_Personal/Tools-fall-lanyard-2.jpg",
+      "bytes": 2695,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Safety_Personal/Tools-fall-lanyard-2.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/safety-products/personal-safety"
+      ],
+      "alt": [
+        "Tools-fall-lanyard-2"
+      ]
+    },
+    {
+      "file": "images/products-services/Valves/1-Checkvalves.jpg",
+      "bytes": 12107,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Valves/1-Checkvalves.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/control-and-instrument-valves"
+      ],
+      "alt": [
+        "1-Checkvalves"
+      ]
+    },
+    {
+      "file": "images/products-services/Valves/10-Actuators.jpg",
+      "bytes": 8474,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Valves/10-Actuators.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/control-and-instrument-valves"
+      ],
+      "alt": [
+        "10-Actuators"
+      ]
+    },
+    {
+      "file": "images/products-services/Valves/11-Hydraulic-Press.jpg",
+      "bytes": 10828,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Valves/11-Hydraulic-Press.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/control-and-instrument-valves"
+      ],
+      "alt": [
+        "11-Hydraulic-Press"
+      ]
+    },
+    {
+      "file": "images/products-services/Valves/12-Drifter-Set.png",
+      "bytes": 4073,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Valves/12-Drifter-Set.png"
+      ],
+      "usedOn": [
+        "/products-and-services/control-and-instrument-valves"
+      ],
+      "alt": [
+        "12-Drifter-Set"
+      ]
+    },
+    {
+      "file": "images/products-services/Valves/13-Seals-cams.jpg",
+      "bytes": 9032,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Valves/13-Seals-cams.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/control-and-instrument-valves"
+      ],
+      "alt": [
+        "13-Seals-cams"
+      ]
+    },
+    {
+      "file": "images/products-services/Valves/14-Sales-Services-Cert.jpg",
+      "bytes": 5912,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Valves/14-Sales-Services-Cert.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/control-and-instrument-valves"
+      ],
+      "alt": [
+        "14-Sales-Services-Cert"
+      ]
+    },
+    {
+      "file": "images/products-services/Valves/2-DBB-Valves.jpg",
+      "bytes": 12131,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Valves/2-DBB-Valves.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/control-and-instrument-valves"
+      ],
+      "alt": [
+        "2-DBB-Valves"
+      ]
+    },
+    {
+      "file": "images/products-services/Valves/3-GateValves.jpg",
+      "bytes": 11507,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Valves/3-GateValves.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/control-and-instrument-valves"
+      ],
+      "alt": [
+        "3-GateValves"
+      ]
+    },
+    {
+      "file": "images/products-services/Valves/4-Globe-Valves.jpg",
+      "bytes": 17210,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Valves/4-Globe-Valves.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/control-and-instrument-valves"
+      ],
+      "alt": [
+        "4-Globe-Valves"
+      ]
+    },
+    {
+      "file": "images/products-services/Valves/5-Valves-and-Fittings.jpg",
+      "bytes": 28420,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Valves/5-Valves-and-Fittings.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/control-and-instrument-valves"
+      ],
+      "alt": [
+        "5-Valves-and-Fittings"
+      ]
+    },
+    {
+      "file": "images/products-services/Valves/6-valves.jpg",
+      "bytes": 21661,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Valves/6-valves.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/control-and-instrument-valves"
+      ],
+      "alt": [
+        "6-valves"
+      ]
+    },
+    {
+      "file": "images/products-services/Valves/7-valves.jpg",
+      "bytes": 6852,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Valves/7-valves.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/control-and-instrument-valves"
+      ],
+      "alt": [
+        "7-valves"
+      ]
+    },
+    {
+      "file": "images/products-services/Valves/8-valves.jpg",
+      "bytes": 12760,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Valves/8-valves.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/control-and-instrument-valves"
+      ],
+      "alt": [
+        "8-valves"
+      ]
+    },
+    {
+      "file": "images/products-services/Valves/9-Check-Valves.jpg",
+      "bytes": 9997,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/products-services/Valves/9-Check-Valves.jpg"
+      ],
+      "usedOn": [
+        "/products-and-services/control-and-instrument-valves"
+      ],
+      "alt": [
+        "9-Check-Valves"
+      ]
+    },
+    {
+      "file": "images/services/services1.jpg",
+      "bytes": 144654,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/services/services1.jpg"
+      ],
+      "usedOn": [
+        "/",
+        "/products-and-services"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/services/services2.jpg",
+      "bytes": 85300,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/services/services2.jpg"
+      ],
+      "usedOn": [
+        "/",
+        "/products-and-services"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/services/services3.jpg",
+      "bytes": 127609,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/services/services3.jpg"
+      ],
+      "usedOn": [
+        "/",
+        "/products-and-services"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/services/services4.jpg",
+      "bytes": 175702,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/services/services4.jpg"
+      ],
+      "usedOn": [
+        "/",
+        "/products-and-services"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/services/services5.jpg",
+      "bytes": 153299,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/services/services5.jpg"
+      ],
+      "usedOn": [
+        "/",
+        "/products-and-services"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/services/services6.jpg",
+      "bytes": 180050,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/services/services6.jpg"
+      ],
+      "usedOn": [
+        "/",
+        "/products-and-services"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/slideshow/slider1.jpg",
+      "bytes": 254455,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/slideshow/slider1.jpg"
+      ],
+      "usedOn": [
+        "/"
+      ],
+      "alt": [
+        "slider1"
+      ]
+    },
+    {
+      "file": "images/slideshow/slider2.jpg",
+      "bytes": 212560,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/slideshow/slider2.jpg"
+      ],
+      "usedOn": [
+        "/"
+      ],
+      "alt": [
+        "slider2"
+      ]
+    },
+    {
+      "file": "images/slideshow/slider3.jpg",
+      "bytes": 161841,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/images/aab/slideshow/slider3.jpg"
+      ],
+      "usedOn": [
+        "/"
+      ],
+      "alt": [
+        "slider3"
+      ]
+    },
+    {
+      "file": "images/theme/bg-footer.jpg",
+      "bytes": 212152,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/templates/too_fac3heat/images/bg-footer.jpg"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/theme/bg-navhelper.jpg",
+      "bytes": 22153,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/templates/too_fac3heat/images/bg-navhelper.jpg"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/theme/fac3heat/bg/bg_1.png",
+      "bytes": 3337,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/templates/too_fac3heat/images/fac3heat/bg/bg_1.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/theme/fac3heat/bg/bg_2.png",
+      "bytes": 5244,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/templates/too_fac3heat/images/fac3heat/bg/bg_2.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/theme/fac3heat/bg/bg_3.png",
+      "bytes": 1791,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/templates/too_fac3heat/images/fac3heat/bg/bg_3.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/theme/fac3heat/bg/bg_4.png",
+      "bytes": 21906,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/templates/too_fac3heat/images/fac3heat/bg/bg_4.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/theme/fac3heat/bg/bg_5.png",
+      "bytes": 3738,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/templates/too_fac3heat/images/fac3heat/bg/bg_5.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/theme/fac3heat/bg/bg_6.png",
+      "bytes": 8802,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/templates/too_fac3heat/images/fac3heat/bg/bg_6.png"
+      ],
+      "usedOn": [
+        "/ (css)"
+      ],
+      "alt": []
+    },
+    {
+      "file": "images/theme/favicon.ico",
+      "bytes": 15406,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/templates/too_fac3heat/favicon.ico"
+      ],
+      "usedOn": [
+        "/",
+        "/about-us",
+        "/clients",
+        "/contact",
+        "/news-n-events",
+        "/news-n-events/item/11-first-purchase-order",
+        "/news-n-events/item/12-advance-automation-officially-launch",
+        "/news-n-events/item/13-gerbaru-jaya-distributorship",
+        "/news-n-events/item/14-multiple-distributorships-awards",
+        "/news-n-events/item/16-north-java-sea-group-distributorship",
+        "/news-n-events/item/23-mou-with-ramacon-corporation",
+        "/news-n-events/item/24-mou-with-mewah-raya-sdn-bhd",
+        "/news-n-events/item/25-awarded-aiti-license",
+        "/products-and-services",
+        "/products-and-services/calibration-certification-services",
+        "/products-and-services/calibration-certification-services/itemlist/category/7-services",
+        "/products-and-services/capabilities",
+        "/products-and-services/capabilities/dimension-measurement",
+        "/products-and-services/capabilities/electrical-and-instruments",
+        "/products-and-services/capabilities/temperatures-devices",
+        "/products-and-services/control-and-instrument-valves",
+        "/products-and-services/control-and-instrument-valves/itemlist/category/7-services",
+        "/products-and-services/custom-made",
+        "/products-and-services/custom-made/gaskets-and-washers",
+        "/products-and-services/custom-made/polymer-taggings",
+        "/products-and-services/custom-made/rope-and-sling",
+        "/products-and-services/custom-made/stud-bolts",
+        "/products-and-services/engineering-and-services",
+        "/products-and-services/engineering-and-services/engines-overhaul",
+        "/products-and-services/engineering-and-services/heat-exchangers",
+        "/products-and-services/engineering-and-services/lab-equipment-repairs",
+        "/products-and-services/engineering-and-services/motor-repairs",
+        "/products-and-services/engineering-and-services/pump-repairs",
+        "/products-and-services/engineering-and-services/pump-testing",
+        "/products-and-services/engineering-and-services/valve-actuators-repairs",
+        "/products-and-services/engineering-and-services/valve-repairs",
+        "/products-and-services/safety-products",
+        "/products-and-services/safety-products/personal-safety",
+        "/products-and-services/safety-products/safety-equipments"
+      ],
+      "alt": [
+        "icon"
+      ]
+    },
+    {
+      "file": "images/theme/system/arrow.png",
+      "bytes": 970,
+      "sourceUrls": [
+        "https://advanceautomationbrunei.com/templates/too_fac3heat/images/system/arrow.png"
+      ],
+      "usedOn": [
+        "/news-n-events/item/11-first-purchase-order",
+        "/news-n-events/item/12-advance-automation-officially-launch",
+        "/news-n-events/item/13-gerbaru-jaya-distributorship",
+        "/news-n-events/item/14-multiple-distributorships-awards",
+        "/news-n-events/item/16-north-java-sea-group-distributorship",
+        "/news-n-events/item/23-mou-with-ramacon-corporation",
+        "/news-n-events/item/24-mou-with-mewah-raya-sdn-bhd",
+        "/news-n-events/item/25-awarded-aiti-license",
+        "/products-and-services/calibration-certification-services",
+        "/products-and-services/calibration-certification-services/itemlist/category/7-services",
+        "/products-and-services/capabilities",
+        "/products-and-services/capabilities/dimension-measurement",
+        "/products-and-services/capabilities/electrical-and-instruments",
+        "/products-and-services/capabilities/temperatures-devices",
+        "/products-and-services/control-and-instrument-valves",
+        "/products-and-services/control-and-instrument-valves/itemlist/category/7-services",
+        "/products-and-services/custom-made",
+        "/products-and-services/custom-made/gaskets-and-washers",
+        "/products-and-services/custom-made/polymer-taggings",
+        "/products-and-services/custom-made/rope-and-sling",
+        "/products-and-services/custom-made/stud-bolts",
+        "/products-and-services/engineering-and-services",
+        "/products-and-services/engineering-and-services/engines-overhaul",
+        "/products-and-services/engineering-and-services/heat-exchangers",
+        "/products-and-services/engineering-and-services/lab-equipment-repairs",
+        "/products-and-services/engineering-and-services/motor-repairs",
+        "/products-and-services/engineering-and-services/pump-repairs",
+        "/products-and-services/engineering-and-services/pump-testing",
+        "/products-and-services/engineering-and-services/valve-actuators-repairs",
+        "/products-and-services/engineering-and-services/valve-repairs",
+        "/products-and-services/safety-products",
+        "/products-and-services/safety-products/personal-safety",
+        "/products-and-services/safety-products/safety-equipments"
+      ],
+      "alt": []
+    }
+  ],
+  "missingOnLiveSite": [
+    {
+      "url": "https://advanceautomationbrunei.com/download/pdf/AAD-Quality-Policy.pdf",
+      "status": 404,
+      "linkedFrom": [
+        "/"
+      ]
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/download/pdf/AAB-Service-Quality-ADT.pdf",
+      "status": 404,
+      "linkedFrom": [
+        "/"
+      ]
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/templates/too_fac3heat/images/system/refresh.png",
+      "status": 404,
+      "linkedFrom": [
+        "/ (css)"
+      ]
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/templates/too_fac3heat/images/system/feed.png",
+      "status": 404,
+      "linkedFrom": [
+        "/ (css)"
+      ]
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/templates/too_fac3heat/images/system/font_decrease.gif",
+      "status": 404,
+      "linkedFrom": [
+        "/ (css)"
+      ]
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/templates/too_fac3heat/images/system/featuredItem.png",
+      "status": 404,
+      "linkedFrom": [
+        "/ (css)"
+      ]
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/templates/too_fac3heat/images/ico/checklist.png",
+      "status": 404,
+      "linkedFrom": [
+        "/ (css)"
+      ]
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/templates/too_fac3heat/images/system/transparent_star.png",
+      "status": 404,
+      "linkedFrom": [
+        "/ (css)"
+      ]
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/templates/too_fac3heat/images/system/font_increase.gif",
+      "status": 404,
+      "linkedFrom": [
+        "/ (css)"
+      ]
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/templates/too_fac3heat/images/system/loading.gif",
+      "status": 404,
+      "linkedFrom": [
+        "/ (css)"
+      ]
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/templates/too_fac3heat/images/system/videoplayer-bg.gif",
+      "status": 404,
+      "linkedFrom": [
+        "/ (css)"
+      ]
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/templates/too_fac3heat/images/system/searchLoader.gif",
+      "status": 404,
+      "linkedFrom": [
+        "/ (css)"
+      ]
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/templates/too_fac3heat/images/K2_Logo.png",
+      "status": 404,
+      "linkedFrom": [
+        "/ (css)"
+      ]
+    },
+    {
+      "url": "https://advanceautomationbrunei.com/templates/too_fac3heat/images/system/k2CalendarLoader.gif",
+      "status": 404,
+      "linkedFrom": [
+        "/ (css)"
+      ]
+    },
+    {
+      "url": "http://advanceautomationbrunei.com/images/stories/products/Capabilities/Temperatures-Devices.jpg",
+      "status": 404,
+      "linkedFrom": [
+        "/products-and-services/capabilities/temperatures-devices"
+      ]
+    },
+    {
+      "url": "http://advanceautomationbrunei.com/images/stories/products/Capabilities/Length-Dimension-Measuremen.jpg",
+      "status": 404,
+      "linkedFrom": [
+        "/products-and-services/capabilities/dimension-measurement"
+      ]
+    },
+    {
+      "url": "http://advanceautomationbrunei.com/images/stories/products/Calibration/pars_and_spare_valves.png",
+      "status": 404,
+      "linkedFrom": [
+        "/products-and-services/engineering-and-services/valve-repairs"
+      ]
+    },
+    {
+      "url": "http://advanceautomationbrunei.com/images/stories/products/Calibration/repair.jpg",
+      "status": 404,
+      "linkedFrom": [
+        "/products-and-services/engineering-and-services/valve-repairs"
+      ]
+    },
+    {
+      "url": "http://advanceautomationbrunei.com/images/stories/Dist/gerbaru-jaya.jpg",
+      "status": 404,
+      "linkedFrom": [
+        "/news-n-events/item/13-gerbaru-jaya-distributorship"
+      ]
+    }
+  ],
+  "skippedLinks": [
+    "/clients/itemlist [query]",
+    "/component/mailto/",
+    "/index.php",
+    "/index.php/blue",
+    "/index.php/bright-red",
+    "/index.php/bronze-green",
+    "/index.php/cobalt-blue",
+    "/index.php/dark-yellow",
+    "/index.php/green",
+    "/index.php/orange",
+    "/index.php/yellow",
+    "/news-n-events/itemlist [query]",
+    "/products-and-services/calibration-certification-services [query]",
+    "/products-and-services/capabilities/dimension-measurement [query]",
+    "/products-and-services/capabilities/electrical-and-instruments [query]",
+    "/products-and-services/capabilities/temperatures-devices [query]",
+    "/products-and-services/control-and-instrument-valves [query]",
+    "/products-and-services/custom-made/gaskets-and-washers [query]",
+    "/products-and-services/custom-made/polymer-taggings [query]",
+    "/products-and-services/custom-made/rope-and-sling [query]",
+    "/products-and-services/custom-made/stud-bolts [query]",
+    "/products-and-services/engineering-and-services/engines-overhaul [query]",
+    "/products-and-services/engineering-and-services/heat-exchangers [query]",
+    "/products-and-services/engineering-and-services/lab-equipment-repairs [query]",
+    "/products-and-services/engineering-and-services/motor-repairs [query]",
+    "/products-and-services/engineering-and-services/pump-repairs [query]",
+    "/products-and-services/engineering-and-services/pump-testing [query]",
+    "/products-and-services/engineering-and-services/valve-actuators-repairs [query]",
+    "/products-and-services/engineering-and-services/valve-repairs [query]",
+    "/products-and-services/safety-products/personal-safety [query]",
+    "/products-and-services/safety-products/safety-equipments [query]"
+  ]
+}

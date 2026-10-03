@@ -1,0 +1,637 @@
+/*
+ * Advance Automation Sdn Bhd overrides for the Veltom template.
+ * Loaded after the template stylesheet on every page; keep AAB-specific styling here.
+ */
+
+/* Logo: the AAB logo is full colour on white, so it sits on a white chip to stay readable on the dark nav and footer. */
+.fda-brand {
+  max-width: none;
+}
+
+.fda-nav-logo.aab-logo {
+  display: block;
+  width: auto;
+  height: 36px;
+  padding: 6px 12px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-sizing: content-box;
+}
+
+.aab-footer-logo {
+  display: block;
+  width: 330px;
+  max-width: 100%;
+  height: auto;
+  padding: 8px 14px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 991px) {
+  .fda-nav-logo.aab-logo {
+    height: 32px;
+  }
+}
+
+/* Navigation bar: the live site's menu labels are longer than the template's sample labels.  They stay on one line;
+   between the tablet breakpoint and 1366px the bar gives up a little air (smaller logo chip, tighter gaps) and, where
+   even that is not enough (992-1099px), it drops the "Get in touch" button (the Contact link sits right beside it). */
+.fda-brand {
+  flex: none;
+}
+
+.fda-navbar .fda-menu-text,
+.fda-navbar .fda-button-text {
+  white-space: nowrap;
+}
+
+/* "Products and Services" menu: the category names are longer than the template's sample entries; one line each. */
+.fda-nav-dropdown-singel-list .fda-nav-mega-menu-list-box-wrapper {
+  max-width: none;
+}
+
+.fda-nav-dropdown-singel-list .fda-nav-dropdown-link {
+  white-space: nowrap;
+}
+
+@media screen and (min-width: 992px) {
+  .fda-nav-dropdown-singel-list {
+    min-width: 17rem;
+  }
+}
+
+/* Mobile menu: with seven entries under "Products and Services" the open panel can be taller than a small screen,
+   so it scrolls inside the screen instead of being cut off. */
+@media screen and (max-width: 991px) {
+  .fda-navbar .w-nav-overlay [data-nav-menu-open] {
+    max-height: calc(100vh - 5rem);
+    max-height: calc(100dvh - 5rem);
+    overflow-y: auto;
+    overscroll-behavior: contain;
+  }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1365px) {
+  .fda-navigation-top {
+    grid-column-gap: 0.5rem;
+  }
+
+  .fda-nav-logo.aab-logo {
+    height: 30px;
+    padding: 6px 10px;
+  }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+  .fda-navbar .fda-menu-wrap {
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+  }
+
+  .fda-nav-logo.aab-logo {
+    height: 26px;
+    padding: 5px 9px;
+  }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1099px) {
+  .fda-navbar .fda-nav-button {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .fda-nav-logo.aab-logo {
+    height: 26px;
+    padding: 5px 10px;
+  }
+
+  .aab-footer-logo {
+    width: 280px;
+  }
+}
+
+/* Hero card: the small picture inside the card heading is a CSS background in the template.
+   It must be a capsule-shaped image with transparent corners (114x40 shape), or it shows as a half-rounded box. */
+.fda-home-two-left {
+  background-image: url("../images/aab/services4-pill.webp");
+}
+
+/* Hero, bottom left: the accreditation badge and the phone number of the live welcome block take the place of the
+   template's review faces.  The badge needs more room than the faces to stay legible. */
+.fda-hero-v2-left-buttom.fda-all-appearance.fda-change.aab-hero-bottom {
+  max-width: 26rem;
+  grid-column-gap: 1.5rem;
+}
+
+.fda-hero-v2-left-image.aab-hero-badge {
+  flex: none;
+  width: 12.5rem;
+  max-width: none;
+}
+
+.aab-hero-badge > div {
+  width: 100%;
+}
+
+.aab-hero-badge img {
+  height: auto;
+}
+
+.fda-hero-v2-star.aab-hero-call {
+  align-items: flex-start;
+  text-align: left;
+  grid-row-gap: 0.25rem;
+}
+
+@media screen and (max-width: 991px) {
+  .fda-hero-v2-left-buttom.fda-all-appearance.fda-change.aab-hero-bottom {
+    max-width: 22rem;
+    grid-column-gap: 1rem;
+  }
+
+  .fda-hero-v2-left-image.aab-hero-badge {
+    width: 9.5rem;
+  }
+}
+
+/* ---------------------------------------------------------------------------------------------------------
+   Section rhythm.  Each template section carries the paddings it needs beside its neighbours on its own template page.
+   Where a page here joins two sections that never meet in the template, the template's own gap variable is added or
+   dropped so that exactly one gap separates them (see gap() in _build/pages.py).
+   --------------------------------------------------------------------------------------------------------- */
+.aab-pt {
+  padding-top: var(--section-text-gap);
+}
+
+.aab-pb {
+  padding-bottom: var(--section-text-gap);
+}
+
+.aab-pt-0 {
+  padding-top: 0;
+}
+
+.aab-pb-0 {
+  padding-bottom: 0;
+}
+
+/* ---------------------------------------------------------------------------------------------------------
+   Articles (products, services, news): the template's rich text block filled with the live site's copy.
+   Type, colours and gaps come from the template's own variables; only what long technical pages need is added.
+   --------------------------------------------------------------------------------------------------------- */
+.aab-richtext h3 {
+  margin-top: 3.75rem;
+}
+
+.aab-richtext h4 {
+  margin-top: 2.5rem;
+}
+
+.aab-richtext h2 + h3,
+.aab-richtext h2 + h4,
+.aab-richtext h3 + h4,
+.aab-richtext h3 + h3,
+.aab-richtext h4 + h4 {
+  margin-top: 1.25rem;
+}
+
+.aab-richtext ul,
+.aab-richtext ol {
+  margin-top: 1.25rem;
+  margin-bottom: 1.5rem;
+}
+
+.aab-richtext ol {
+  padding-left: 20px;
+}
+
+.aab-richtext li > ul,
+.aab-richtext li > ol {
+  margin-top: 0.6rem;
+  margin-bottom: 0;
+}
+
+/* Lists made of sentences read as body copy; the template's own list style (short upper-case labels) stays for short entries. */
+.aab-richtext .aab-list-text li {
+  color: var(--_colors---dim-gray);
+  font-size: var(--_typography---font-size--body-font);
+  line-height: var(--_typography---line-hight--body-font);
+  font-weight: var(--_typography---font-weight--weight-medium);
+  letter-spacing: normal;
+  text-transform: none;
+  padding-bottom: 0.5rem;
+}
+
+/* Lists that are laid out in columns on the live site keep their columns. */
+.aab-richtext .aab-cols-2,
+.aab-richtext .aab-cols-3 {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  column-gap: 3rem;
+}
+
+.aab-richtext .aab-cols-3 {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+/* Pictures keep the size they have on the live site (they are small originals and must not be stretched). */
+.aab-richtext figure,
+.aab-richtext figure.w-richtext-figure-type-image {
+  display: block;
+  margin: 2.5rem auto;
+}
+
+.aab-richtext figure > div,
+.aab-richtext figure.w-richtext-figure-type-image > div {
+  display: block;
+}
+
+.aab-richtext figure img {
+  height: auto;
+  border-radius: 0.625rem;
+}
+
+.aab-richtext figure > figcaption,
+.aab-richtext figure.w-richtext-figure-type-image > figcaption {
+  display: block;
+  margin-top: 0.75rem;
+}
+
+.aab-figure-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 1.75rem;
+  margin: 2.5rem 0;
+}
+
+.aab-richtext .aab-figure-row figure {
+  margin: 0;
+}
+
+.aab-richtext a {
+  color: var(--_colors---near-black);
+  text-decoration: underline;
+}
+
+/* Small line under the title of the card beside an article ("Products and Services", "News & Events"): a link that looks like the line it replaces. */
+.aab-plain-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* The template pulls the article up so that its first heading lines up with the picture on the left;
+   articles that start with a paragraph do not need that. */
+.fda-blog-information-right-mg.aab-no-lead-heading {
+  margin-top: 0;
+}
+
+/* Articles hold pictures with a fixed natural width; the text column must still be allowed to get narrower than them. */
+.fda-blog-information-right-box {
+  min-width: 0;
+}
+
+@media screen and (max-width: 767px) {
+  .fda-blog-information-right-box,
+  .fda-blog-information-right-mg {
+    width: 100%;
+  }
+}
+
+/* The gap under an article belongs to the section, not to whatever element happens to end the article. */
+.aab-richtext > :last-child,
+.aab-richtext > .aab-figure-row:last-child,
+.aab-richtext > figure.w-richtext-figure-type-image:last-child {
+  margin-bottom: 0;
+}
+
+/* An article that ends the page: the extra space the template keeps for the "New blog posts" block is not needed. */
+.fda-blog-information.aab-last .fda-blog-information-right-mg {
+  padding-bottom: 0;
+}
+
+@media screen and (max-width: 767px) {
+  .aab-richtext .aab-cols-3 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .aab-richtext h3 {
+    margin-top: 2.5rem;
+  }
+
+  .aab-richtext h4 {
+    margin-top: 1.75rem;
+  }
+
+  .aab-richtext figure,
+  .aab-figure-row {
+    margin-top: 1.75rem;
+    margin-bottom: 1.75rem;
+  }
+
+  .aab-figure-row {
+    gap: 1rem;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .aab-richtext .aab-cols-2,
+  .aab-richtext .aab-cols-3 {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+/* News cards: a picture that is a logo on white is shown whole on white instead of being cropped like a photograph. */
+img.aab-contain {
+  object-fit: contain;
+  background-color: var(--_colors---white);
+}
+
+/* Footer credit link */
+.aab-credit-link {
+  text-decoration: underline;
+}
+
+/* Footer on small screens: the live e-mail address and address lines are longer than the template's samples and do not
+   fit beside the link column, so below 640px the two columns stack (the links then run in two columns to keep the
+   footer short).  Above that the template's layout is unchanged. */
+.fda-footer-col-3,
+.footer-col-two-wrapper {
+  min-width: 0;
+}
+
+.fda-footer-form-link a.fda-footer-link .fda-text-style-h6 {
+  overflow-wrap: anywhere;
+}
+
+.fda-footer-form-link a[href^="tel:"] .fda-text-style-h6,
+.fda-footer-form-link .fda-form-left-card-heading > .fda-text-style-h6 {
+  white-space: nowrap;
+}
+
+/* A label and its value share a line where they fit and wrap as whole items where they do not. */
+.fda-footer-form-link .fda-form-left-card-heading {
+  flex-wrap: wrap;
+  max-width: 100%;
+}
+
+/* Tablet: the contact column must hold the long e-mail address and the link column the longer menu labels, so the
+   three columns are re-balanced and the two divider lines follow the column edges. */
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  .aab-footer-logo {
+    width: 210px;
+  }
+
+  .fda-footer-one-top-wrap {
+    --aab-contact-col: max(21.5rem, 100% / 2.6);
+    grid-template-columns: 1fr 0.75fr var(--aab-contact-col);
+  }
+
+  .fda-footer-top-center-left {
+    padding-right: 1.25rem;
+  }
+
+  .footer-col-two-wrapper {
+    align-items: flex-start;
+    padding-left: 1.25rem;
+    padding-right: 0.75rem;
+  }
+
+  .fda-footer-col-3 {
+    padding-left: 1.25rem;
+  }
+
+  .fda-footer-grey-linear-border {
+    left: calc((100% - var(--aab-contact-col)) / 1.75);
+  }
+
+  .fda-footer-grey-linear-border.fda-footer-border-two {
+    left: calc(100% - var(--aab-contact-col));
+  }
+}
+
+@media screen and (max-width: 639px) {
+  .fda-footer-one-top-wrap.fda-position-relative {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  #w-node-_3191693e-c342-d593-cee5-8c81ff641214-7d35a8ee {
+    grid-area: auto;
+  }
+
+  .footer-col-two-wrapper {
+    border-right-style: none;
+    align-items: stretch;
+  }
+
+  .fda-footer-top-content-link {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 1rem;
+  }
+}
+
+/* Footer, left column: logo, motto and button stay together at the top as in the template.  (The template spreads them
+   over the column height, which only works while its three-line tagline fills that height; the motto is one line.) */
+.fda-footer-top-center-left {
+  justify-content: flex-start;
+}
+
+/* ---------------------------------------------------------------------------------------------------------
+   Template sections that carry a different number of items than in the template
+   --------------------------------------------------------------------------------------------------------- */
+
+/* Home, "Our services": six cards, so three per row (the template grid has four columns for its four cards). */
+@media screen and (min-width: 992px) {
+  .fda-solutions-v4-content.aab-cols-3 {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+/* Products and Services: six cards in two rows of three; the small picture of a card keeps the shape it has in the template. */
+.fda-support-v1-main.aab-wrap .fda-support-v1-item-image {
+  aspect-ratio: 122 / 126;
+}
+
+.fda-support-v1-main.aab-wrap {
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.fda-support-v1-main.aab-wrap > .fda-support-v1-item {
+  flex: 0 1 calc((100% - 2.8rem) / 3);
+  max-width: none;
+}
+
+@media screen and (min-width: 1440px) {
+  .fda-support-v1-main.aab-wrap > .fda-support-v1-item {
+    flex-basis: calc((100% - 2.5rem) / 3);
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .fda-support-v1-main.aab-wrap > .fda-support-v1-item {
+    flex-basis: calc((100% - 1.4rem) / 2);
+  }
+}
+
+/* About us, motto block: the large picture is a different template picture than the one the block was drawn with,
+   so the box keeps the proportions of the original (1570 x 1164) and the picture fills it. */
+.fda-about-v3-left.aab-cover {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1570 / 1164;
+}
+
+.fda-about-v3-left.aab-cover img {
+  position: absolute;
+  inset: 0;
+}
+
+/* About us: the six product and service cards run over two rows, and their texts differ in length:
+   the cards of a row share one height and start their content at the top. */
+.fda-expertise-v2-wrap {
+  align-items: stretch;
+}
+
+.fda-expertise-v2-item {
+  justify-content: flex-start;
+}
+
+.fda-expertise-v2-wrap + .fda-expertise-v2-wrap {
+  margin-top: 1.875rem;
+}
+
+@media screen and (min-width: 1440px) {
+  .fda-expertise-v2-wrap + .fda-expertise-v2-wrap {
+    margin-top: 2.5rem;
+  }
+}
+
+/* Client logos are small raster files of very different shapes on their own white background.
+   Each one gets a display size of similar visual weight (--aab-w / --aab-h, set per logo) and is multiplied onto the strip
+   so that the white of the file takes the colour of the page.  The strip moves with a transform, so the colour it blends
+   with has to sit on the item itself. */
+.fda-marquee-v1-item.aab-client-item {
+  background-color: var(--_colors---off-white);
+  isolation: isolate;
+}
+
+.fda-marquee-v1-item .aab-client-logo {
+  width: var(--aab-w);
+  max-width: none;
+  height: var(--aab-h);
+  object-fit: contain;
+  mix-blend-mode: multiply;
+}
+
+@media screen and (max-width: 991px) {
+  .fda-marquee-v1-item .aab-client-logo {
+    width: calc(var(--aab-w) * 0.62);
+    height: calc(var(--aab-h) * 0.62);
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .fda-marquee-v1-item .aab-client-logo {
+    width: calc(var(--aab-w) * 0.5);
+    height: calc(var(--aab-h) * 0.5);
+  }
+}
+
+/* Home and About, two highlights under the intro: titles can run over two lines, so the pair lines up at the top. */
+.fda-experts-v3-left-buttom-main {
+  align-items: flex-start;
+}
+
+/* ... and the intro can have more than one paragraph; each keeps the template's text width. */
+.fda-experts-v3-para {
+  max-width: 30.0625rem;
+}
+
+/* Category pages: both pictures in the tile shape of the template (4:3), whatever the shape of the file. */
+.fda-capabilities-v1-right-item.aab-tile {
+  aspect-ratio: 4 / 3;
+}
+
+@media screen and (min-width: 1920px) {
+  .fda-capabilities-v1-right-bottom.aab-two {
+    justify-content: flex-start;
+  }
+}
+
+/* Category pages are short: on a very tall screen there is not enough scrolling for the template's line-by-line reveal
+   of the statement to finish, so there the statement is simply shown. */
+@media screen and (min-height: 1600px) {
+  .fda-capabilities-v1 .fda-text-overlay-box {
+    display: none;
+  }
+}
+
+/* Home, certificates: the three scans share one card shape; the card shows the head of the document and fades out below. */
+.fda-team-item.aab-cert {
+  background-color: var(--_colors---white);
+}
+
+.fda-team-item.aab-cert .fda-team-item-link {
+  display: block;
+  aspect-ratio: 7 / 9;
+}
+
+.fda-team-item.aab-cert .fda-team-item-link img {
+  object-position: 50% 0%;
+}
+
+.fda-team-item.aab-cert .fda-team-item-inner {
+  background-image: linear-gradient(#fff0 52%, #0b0b0bf2 84%);
+}
+
+/* Clients page: one white tile per client logo. */
+.fda-complex-v1-item.aab-client-tile {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 10rem;
+}
+
+.aab-client-tile .aab-client-logo {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  max-height: 5rem;
+  object-fit: contain;
+}
+
+/* Contact: real e-mail address, address and opening hours are longer than the template's sample lines,
+   so the picture beside the card takes the height of the card at every width (as the template does below 1440px). */
+@media screen and (min-width: 1440px) {
+  .fda-contact-v1-content.aab-stretch {
+    align-items: stretch;
+  }
+}
+
+.fda-contact-v1-content-top {
+  max-width: none;
+}
+
+.fda-contact-v1-item-text {
+  min-width: 0;
+}
+
+.fda-contact-v1-item-text a,
+.fda-contact-v1-item-text div {
+  overflow-wrap: anywhere;
+}
+
+.fda-contact-form .aab-span-2 {
+  grid-column: 1 / -1;
+}
+
+/* Icon of the "Working hours" row (the template's calendar icon, turned white like the other three). */
+.fda-contact-v1-item .fda-invert {
+  width: 1.25rem;
+}
