@@ -8,7 +8,7 @@ Every URL of the live site exists here under the same address.
 | Path | What it is |
 | --- | --- |
 | `index.html`, `404.html`, `about-us/`, `clients/`, `contact/`, `news-n-events/`, `products-and-services/` | **The site.** One folder per URL of the live site (`/about-us` is `about-us/index.html`), so the clean URLs work on any static host without rewrite rules. |
-| `css/`, `js/`, `images/`, `fonts/`, `videos/`, `documents/` | Assets. `css/aab.css` holds everything that is specific to this site; `images/aab/` holds Advance Automation's own pictures. |
+| `css/`, `js/`, `images/`, `fonts/`, `videos/`, `documents/` | Assets. `css/aab.css` and `js/aab.js` hold everything that is specific to this site; `images/aab/` holds Advance Automation's own pictures. |
 | `_template/` | The Veltom demo pages. Design reference and the source of every section used on the site. **Not part of the site.** |
 | `source-site/` | The scrape of the live site (pages, pictures, `CONTENT.md`). Source of every text and picture. **Not part of the site.** |
 | `_build/` | The generator that assembles the pages. **Not part of the site.** |
@@ -64,9 +64,10 @@ Navigation bar and footer are the template's, with the live site's menu and cont
 
 ## Changes to the template's own files
 
-- `js/site.schunk.ef3d838b12b5ed87.js` – three changes, described in the comment on its first line (interactions are
+- `js/site.schunk.ef3d838b12b5ed87.js` – four changes, described in the comment on its first line (interactions are
   no longer tied to one page, so a section animates on whichever page uses it; the logo strip keeps its pace with
-  eleven logos).
+  eleven logos; the "Our services" cards on the home page no longer react to hover - `js/aab.js` opens them one by
+  one as the page scrolls, and on desktop they slide in together).
 - `css/veltom.shared.7640c260e.css` – untouched. All additions are in `css/aab.css`.
 
 ## Going live

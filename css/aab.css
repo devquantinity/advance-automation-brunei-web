@@ -119,6 +119,11 @@
   background-image: url("../images/aab/services4-pill.webp");
 }
 
+/* Hero card: there is no "Watch video" row under the text, so the text ends the card and keeps no bottom margin. */
+.fda-hero-v2-right-para {
+  margin-bottom: 0;
+}
+
 /* Hero, bottom left: the accreditation badge and the phone number of the live welcome block take the place of the
    template's review faces.  The badge needs more room than the faces to stay legible. */
 .fda-hero-v2-left-buttom.fda-all-appearance.fda-change.aab-hero-bottom {
@@ -543,9 +548,60 @@ img.aab-contain {
   }
 }
 
-/* Home and About, two highlights under the intro: titles can run over two lines, so the pair lines up at the top. */
+/* Home, "Our services": js/aab.js opens the cards one by one as the page scrolls (.aab-open); the picture fades out and
+   the plus turns into a minus, as the template's hover did. */
+.fda-solutions-v4-item .fda-solutions-v4-item-over {
+  transition: opacity 0.5s ease;
+}
+
+.fda-solutions-v4-item.aab-open .fda-solutions-v4-item-over {
+  opacity: 0 !important;
+}
+
+.fda-solutions-v4-item .fda-faq-plus.fda-home-v1 {
+  transition: transform 0.5s ease;
+}
+
+.fda-solutions-v4-item.aab-open .fda-faq-plus.fda-home-v1 {
+  transform: rotate(90deg) !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fda-solutions-v4-item .fda-solutions-v4-item-over,
+  .fda-solutions-v4-item .fda-faq-plus.fda-home-v1 {
+    transition: none;
+  }
+}
+
+/* Home and About, two highlights under the intro: a title can run over two lines and the two icons differ in height,
+   so icon, title and text each share one row across the pair and both texts start on the same line. */
 .fda-experts-v3-left-buttom-main {
   align-items: flex-start;
+}
+
+@supports (grid-template-rows: subgrid) {
+  .fda-experts-v3-left-buttom-main {
+    grid-row-gap: 0;
+    grid-template-rows: repeat(3, auto);
+    grid-auto-flow: row;
+    display: grid;
+  }
+
+  .fda-experts-v3-left-buttom-main > .fda-hero-v2-left-buttom {
+    grid-row: span 3;
+    grid-template-rows: subgrid;
+    justify-content: start;
+    justify-items: start;
+    display: grid;
+  }
+
+  /* side by side at the template's widths for the two items (23.6rem and 18rem) */
+  @media screen and (min-width: 992px) {
+    .fda-experts-v3-left-buttom-main {
+      grid-template-columns: minmax(0, 23.6rem) minmax(0, 18rem);
+      justify-content: start;
+    }
+  }
 }
 
 /* ... and the intro can have more than one paragraph; each keeps the template's text width. */

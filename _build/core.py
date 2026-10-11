@@ -215,10 +215,11 @@ def clean_desc(s, limit=158):
 
 
 def write_page(url, title, desc, body_nodes, wf_page, chunk='base', og_image=None, og_type='website', main_class=None, main=True, nav=None, footer=None, raw_doc_title=None,
-               body_class=None, before_nav=None):
+               body_class=None, before_nav=None, scripts=None):
     """url = path as on the live site ('/' or '/about-us').  Pages are written as <url>/index.html so that the
     clean URLs work on any static host without rewrite rules.
-    main_class / body_class / before_nav: what the template page has around its sections (only the home page has any)."""
+    main_class / body_class / before_nav: what the template page has around its sections (only the home page has any).
+    scripts: this site's own scripts in js/, loaded after the template's."""
     rel = 'index.html' if url == '/' else url.strip('/') + '/index.html'
     depth = 0 if url == '/' else len(url.strip('/').split('/'))
     full_title = raw_doc_title or (f'{title} - {SITE_NAME}')
@@ -234,7 +235,9 @@ def write_page(url, title, desc, body_nodes, wf_page, chunk='base', og_image=Non
     if main:
         parts.append('</main>')
     if footer is not None: parts.append(str(footer))
-    parts.append(FOOT.format(chunk=CHUNKS[chunk]))
+    foot = FOOT.format(chunk=CHUNKS[chunk])
+    own = ''.join(f'<script src="@@/js/{name}" type="text/javascript"></script>\n' for name in (scripts or []))
+    parts.append(foot.replace('</body>', own + '</body>', 1))
     doc = '\n'.join(parts)
     doc = re.sub(r'\s+aria-label="[^"]*\{Name\}[^"]*"', '', doc)       # unfilled CMS placeholder labels of the template
     doc = norm_assets(doc)

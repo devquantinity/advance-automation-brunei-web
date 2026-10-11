@@ -369,6 +369,13 @@ def home_hero(slides, sub):
     head.append(span)
     head.append(NavigableString(' ' + ' '.join(words[cut + 1:])))
     set_text(card.select_one('p'), sub['card_para'])
+    # no "Watch video" control in the card: the background video simply plays.  The template's no-script fallback
+    # picture for that video sat next to the control; it goes back next to the video itself, where Webflow puts it.
+    play = card.select_one('.fda-hero-v2-right-bottom')
+    fallback = play.select_one('noscript')
+    if fallback is not None:
+        h.select_one('.fda-hero-v2.w-background-video > video').insert_after(fallback.extract())
+    play.decompose()
     return h
 
 
@@ -463,8 +470,13 @@ def solutions_section(label, title, cards, button_label, three_cols=False):
     # the template shows exactly one card opened (its second); further cards repeat the closed ones
     opened = [k for k, p in enumerate(protos) if 'opacity: 0' in (p.select_one('.fda-solutions-v4-item-over').get('style') or '')]
     closed = [k for k in range(len(protos)) if k not in opened]
+    # every card starts on its picture; js/aab.js opens them one by one as the page scrolls (the template's hover is
+    # removed, patch 4 in build.py), so the template's opened card starts closed like the others
+    shut_plus = protos[closed[0]].select_one('.fda-faq-plus.fda-home-v1')['style']
     for i, c in enumerate(cards):
         it = clone(protos[i] if i < len(protos) else protos[closed[(i - len(protos)) % len(closed)]])
+        it.select_one('.fda-solutions-v4-item-over')['style'] = 'opacity: 1'
+        it.select_one('.fda-faq-plus.fda-home-v1')['style'] = shut_plus
         set_text(it.select_one('.fda-text-style-h5'), c['title'])
         set_text(it.select_one('.fda-solutions-v4-item-top > .fda-text-color-black'), c['text'])
         set_button(it.select_one('a.fda-button-main'), button_label, c['href'])
@@ -590,7 +602,8 @@ def build_home():
     # the home page of the template has faint vertical guide lines behind its sections
     lines = sec('home-one.html', 'body > div.fda-home-one-body-line-wrap')
     write_page('/', 'Home', w['paras'][0], body, WF['home'], nav=S.nav('home', 'home-one.html'), footer=S.footer('home'),
-               body_class='fda-position-relative', before_nav=[lines], main_class='fda-position-relative fda-z-4')
+               body_class='fda-position-relative', before_nav=[lines], main_class='fda-position-relative fda-z-4',
+               scripts=['aab.js'])
 
 
 # ------------------------------------------------------------------ ABOUT US

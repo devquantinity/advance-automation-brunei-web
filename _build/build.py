@@ -17,12 +17,17 @@ JS_NOTE = ('/* AAB: (1) the home-two hero lives on the home page, so its 10 scro
            '(2) Element interactions are no longer tied to the template page they were designed on (the page-id check in the interaction engine\'s element lookup is switched off), '
            'so a template section keeps its animations on whichever page uses it. Page-level events are unchanged. '
            '(3) The logo strip on the home page carries 11 client logos instead of 5 sample logos; it scrolls one group width per loop, so its trigger (e-1582) '
-           'uses a copy of the "Marquee v2" action list (a-203-aab) whose loop time is longer in the same proportion - the strip moves at the template\'s pace. */')
+           'uses a copy of the "Marquee v2" action list (a-203-aab) whose loop time is longer in the same proportion - the strip moves at the template\'s pace. '
+           '(4) The "Our services" cards on the home page have no hover interaction any more (its four triggers e-1124/1126/1128/1130 are removed): '
+           'js/aab.js opens them one by one as the page scrolls.  On desktop the cards slide in together (e-1672/1674/1676/1678 start after 100 ms '
+           'instead of 100-1400 ms), so all pictures are there before the first card opens. */')
+SERVICE_CARD_HOVER = ['e-1124', 'e-1126', 'e-1128', 'e-1130']      # "Solution v4" hover triggers of the four card ids
+SERVICE_CARD_SLIDE_IN = ['e-1672', 'e-1674', 'e-1676', 'e-1678']   # their desktop slide-in triggers
 MARQUEE_TEMPLATE_GROUP = 5 * (140 + 160)          # five 140px logos with 5rem side paddings, moved in 30 s
 
 
 def patch_js(marquee_width):
-    """The three changes to the template's interaction script described in JS_NOTE.  Safe to run again."""
+    """The four changes to the template's interaction script described in JS_NOTE.  Safe to run again."""
     p = f'{OUT}/{JS_MAIN}'
     s = open(p, encoding='utf-8').read()
     before = s
@@ -48,11 +53,53 @@ def patch_js(marquee_width):
     if 'actionListId:"a-203-aab"' not in seg:
         assert seg.count('actionListId:"a-203"') == 1
         s = s[:k] + seg.replace('actionListId:"a-203"', 'actionListId:"a-203-aab"') + s[k + 400:]
+    # (4) home "Our services" cards: no hover interaction (js/aab.js opens them while scrolling), all slide in together
+    for key in SERVICE_CARD_HOVER + [e + '-aab' for e in SERVICE_CARD_HOVER] + re.findall(r'"(a-144-aab-\d+)":\{', s):
+        s = _drop(s, key)                     # (the -aab keys are left over from an earlier version of this change)
+    for e in SERVICE_CARD_SLIDE_IN:
+        k = s.index(f'"{e}":{{') + len(f'"{e}":')
+        ev = _literal(s, k)
+        new_ev, n = re.subn(r'delay:[\de.]+,direction:"LEFT"', 'delay:100,direction:"LEFT"', ev, count=1)   # minified: 1e3
+        assert n == 1
+        s = s[:k] + new_ev + s[k + len(ev):]
     s, n = re.subn(r'^/\* AAB:.*?\*/', lambda m: JS_NOTE, s, count=1, flags=re.S)
     assert n == 1 and s.startswith(JS_NOTE)
     if s != before:
         open(p, 'w', encoding='utf-8').write(s)
     return s != before
+
+
+def _literal(s, i):
+    """The balanced {...} literal that starts at s[i]."""
+    depth, j, quote = 0, i, None
+    while True:
+        c = s[j]
+        if quote:
+            if c == '\\':
+                j += 1
+            elif c == quote:
+                quote = None
+        elif c in '"\'':
+            quote = c
+        elif c == '{':
+            depth += 1
+        elif c == '}':
+            depth -= 1
+            if depth == 0:
+                return s[i:j + 1]
+        j += 1
+
+
+def _drop(s, key):
+    """Remove the entry "key":{...} (and one neighbouring comma) from the interaction data, if it is there."""
+    k = s.find(f'"{key}":{{')
+    if k < 0:
+        return s
+    end = k + len(f'"{key}":') + len(_literal(s, k + len(f'"{key}":')))
+    if s[end] == ',':
+        return s[:k] + s[end + 1:]
+    assert s[k - 1] == ','
+    return s[:k - 1] + s[end:]
 
 
 def main():
