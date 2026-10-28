@@ -819,7 +819,11 @@ def build_contact():
     items = right.select('.fda-contact-v1-item')
     # e-mail
     set_text(items[0].select_one('.fda-text-style-h6'), 'Send mail @')
-    a = items[0].select_one('a'); a['href'] = 'mailto:' + S.EMAIL; set_text(a, S.EMAIL)
+    a = items[0].select_one('a'); proto = a; holder = a.parent
+    a.extract()
+    for addr in S.EMAILS:
+        b = clone(proto); b['href'] = 'mailto:' + addr; set_text(b, addr)
+        holder.append(b)
     # phone
     set_text(items[1].select_one('.fda-text-style-h6'), 'Call us')
     a = items[1].select_one('a'); proto = a; holder = a.parent

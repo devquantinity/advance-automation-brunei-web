@@ -39,7 +39,8 @@ The pages are generated files: a manual edit is overwritten by the next build. C
 
 | To change | Edit |
 | --- | --- |
-| Menu, footer, phone numbers, address, opening hours | `_build/shared.py` |
+| Menu, footer, phone numbers, e-mail addresses, address, opening hours | `_build/shared.py` |
+| Text the client asked to change on top of the live site's text | `_build/client_changes.py` |
 | Which sections a page uses and what goes into them | `_build/pages.py` |
 | Page list, certificate captions, banner pictures | `_build/site_data.py`, `BANNERS` in `_build/shared.py` |
 | Spacing or styling of something specific to this site | `css/aab.css` |

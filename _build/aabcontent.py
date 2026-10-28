@@ -10,6 +10,7 @@ Block model (list of dicts)
 import os, re, html, glob, copy
 from bs4 import BeautifulSoup, NavigableString, Tag, Comment
 from PIL import Image
+import client_changes as CC
 
 SRC = (os.environ.get('AAB_ROOT') or os.path.dirname(os.path.dirname(os.path.abspath(__file__)))) + '/source-site'
 MISSING_IMAGES = []          # (page, src) of images that are 404 on the live site
@@ -20,12 +21,13 @@ def soup(rel):
     """rel = path below source-site/pages without .html, e.g. 'about-us'."""
     if rel not in _soups:
         p = f'{SRC}/pages/{rel}.html'
-        _soups[rel] = BeautifulSoup(open(p, encoding='utf-8').read(), 'html5lib')
+        _soups[rel] = BeautifulSoup(raw(rel), 'html5lib')
     return _soups[rel]
 
 
 def raw(rel):
-    return open(f'{SRC}/pages/{rel}.html', encoding='utf-8').read()
+    """The scraped page with the changes the client asked for applied (client_changes.py)."""
+    return CC.apply(rel, open(f'{SRC}/pages/{rel}.html', encoding='utf-8').read())
 
 
 # ---------------------------------------------------------------- text helpers

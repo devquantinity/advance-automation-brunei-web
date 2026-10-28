@@ -2,11 +2,13 @@
 from core import *
 
 COMPANY = 'Advance Automation Sdn Bhd'
-PHONES = [('+673-8278-288', '+6738278288'), ('+673-8271-332', '+6738271332'), ('+673-3201-332', '+6733201332')]
+# +673-8278-288 replaced by +673-3211-332 at the client's request (23 Oct 2026)
+PHONES = [('+673-3211-332', '+6733211332'), ('+673-8271-332', '+6738271332'), ('+673-3201-332', '+6733201332')]
 FAX = '+673-8271-332'
-EMAIL = 'sales@advanceautomationbrunei.com'
+EMAIL = 'sales@advanceautomationbrunei.com'                      # also where the contact form sends to
+EMAILS = [EMAIL, 'technical@kemajuanautomasi.com']               # shown in the footer and on the contact page (2nd added 23 Oct 2026)
 ADDRESS = ['Unit B1, Block 3,', 'Komplex Perindustrian Pekan Belait.', 'Spg 114, KA3131, Kuala Belait', 'P.O.Box. 168, KB1133, Seria', 'Negara Brunei Darussaalam']
-ISO_LINE = 'ISO 9001:2015 - ISO 14001:2015 Certified'
+ISO_LINE = 'ISO 9001:2015 - ISO 14001:2015 - ISO 45001:2018 Certified'   # 45001 added at the client's request (23 Oct 2026)
 MOTTO = 'Service with an Honest faith'
 HOURS = [('Monday to Thursday', ['8:00am - 5:00pm']), ('Friday', ['8:00am - 12:00pm', '2:00pm - 5:00pm']), ('Saturday and Sunday, PH', ['Closed'])]
 COPYRIGHT = 'Copyright © 2011 - 2025 Advance Automation Sdn Bhd. All Rights Reserved.'
@@ -120,7 +122,10 @@ def footer(active=None):
     set_text(heads[0].select_one('.fda-text-style-h6'), 'Get in touch')
     # e-mail row
     set_text(heads[1].select_one(':scope > .fda-text-style-h6'), 'Mail us @ :')
-    a = heads[1].select_one('a'); a['href'] = 'mailto:' + EMAIL; set_text(a.select_one('.fda-text-style-h6'), EMAIL)
+    ea = heads[1].select_one('a'); ea.extract()
+    for addr in EMAILS:
+        b = clone(ea); b['href'] = 'mailto:' + addr; set_text(b.select_one('.fda-text-style-h6'), addr)
+        heads[1].append(b)
     # phone row -> three numbers
     set_text(heads[2].select_one(':scope > .fda-text-style-h6'), 'Call us :')
     pa = heads[2].select_one('a'); pa.extract()
