@@ -12,8 +12,8 @@
 .fda-nav-logo.aab-logo {
   display: block;
   width: auto;
-  height: 56px;
-  padding: 8px 14px;
+  height: 48px;
+  padding: 7px 12px;
   background-color: #fff;
   border-radius: 10px;
   box-sizing: content-box;
@@ -32,8 +32,8 @@
 
 @media screen and (max-width: 991px) {
   .fda-nav-logo.aab-logo {
-    height: 46px;
-    padding: 6px 12px;
+    height: 40px;
+    padding: 6px 10px;
   }
 }
 
@@ -89,8 +89,8 @@
   }
 
   .fda-nav-logo.aab-logo {
-    height: 48px;
-    padding: 7px 12px;
+    height: 42px;
+    padding: 6px 11px;
   }
 }
 
@@ -101,8 +101,8 @@
   }
 
   .fda-nav-logo.aab-logo {
-    height: 40px;
-    padding: 6px 10px;
+    height: 36px;
+    padding: 5px 9px;
   }
 }
 
@@ -114,8 +114,8 @@
 
 @media screen and (max-width: 479px) {
   .fda-nav-logo.aab-logo {
-    height: 38px;
-    padding: 5px 9px;
+    height: 34px;
+    padding: 5px 8px;
   }
 
   .aab-footer-logo {
