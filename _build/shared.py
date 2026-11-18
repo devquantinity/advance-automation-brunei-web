@@ -4,13 +4,18 @@ from core import *
 COMPANY = 'Advance Automation Sdn Bhd'
 # +673-8278-288 replaced by +673-3211-332 at the client's request (23 Oct 2026)
 PHONES = [('+673-3211-332', '+6733211332'), ('+673-8271-332', '+6738271332'), ('+673-3201-332', '+6733201332')]
-FAX = '+673-8271-332'
+FAX = '+673-3201-332'                                            # was +673-8271-332, changed at the client's request (18 Nov 2026)
 EMAIL = 'sales@advanceautomationbrunei.com'                      # also where the contact form sends to
 EMAILS = [EMAIL, 'technical@kemajuanautomasi.com']               # shown in the footer and on the contact page (2nd added 23 Oct 2026)
-ADDRESS = ['Unit B1, Block 3,', 'Komplex Perindustrian Pekan Belait.', 'Spg 114, KA3131, Kuala Belait', 'P.O.Box. 168, KB1133, Seria', 'Negara Brunei Darussaalam']
+ADDRESS = ['Unit B1, B8, Block 3,', 'Komplex Perindustrian Pekan Belait.', 'Spg 114, KA3131, Kuala Belait', 'P.O.Box. 168, KB1133, Seria', 'Negara Brunei Darussaalam']
 ISO_LINE = 'ISO 9001:2015 - ISO 14001:2015 - ISO 45001:2018 Certified'   # 45001 added at the client's request (23 Oct 2026)
 MOTTO = 'Service with an Honest faith'
-HOURS = [('Monday to Thursday', ['8:00am - 5:00pm']), ('Friday', ['8:00am - 12:00pm', '2:00pm - 5:00pm']), ('Saturday and Sunday, PH', ['Closed'])]
+# the client's full logo (mark with the Jawi, Malay and English names), redrawn from the card they sent (18 Nov 2026):
+# the wide arrangement in the navigation bar, the stacked one (as on the card) in the footer.  (file, width, height)
+LOGO_WIDE = ('images/aab/aab-logo-wide.svg', 2008, 369)
+LOGO_FULL = ('images/aab/aab-logo.svg', 1391, 679)
+HOURS = [('Monday to Thursday', ['8:00am - 4:00pm']), ('Friday', ['8:00am - 12:00pm', '2:00pm - 4:00pm']), ('Saturday and Sunday, PH', ['Closed'])]
+# address unit B8 added and closing time 4pm (was 5pm) at the client's request (18 Nov 2026)
 COPYRIGHT = 'Copyright © 2011 - 2025 Advance Automation Sdn Bhd. All Rights Reserved.'
 CREDIT = ('Site developed &amp; maintained by ', 'Gotka Technologies', 'https://gotka.com/clients/aff.php?aff=18', 'Gotka Technologies - We Bring your business online')
 
@@ -90,6 +95,7 @@ def nav(active, variant_page='contact.html'):
     # logo
     brand = n.select_one('a.fda-brand')
     brand['href'] = '/'
+    img_set(brand.select_one('img'), LOGO_WIDE[0], alt=COMPANY, width=LOGO_WIDE[1], height=LOGO_WIDE[2])
     if active == 'home':
         brand['aria-current'] = 'page'; brand['class'] = brand.get('class', []) + ['w--current']
     else:
@@ -101,6 +107,7 @@ def nav(active, variant_page='contact.html'):
 def footer(active=None):
     f = sec('contact.html', 'section.fda-footer')
     logo = f.select_one('.fda-footer-logo a'); logo['href'] = '/'
+    img_set(logo.select_one('img'), LOGO_FULL[0], alt=COMPANY, width=LOGO_FULL[1], height=LOGO_FULL[2])
     set_text(f.select_one('.fda-discernibale-text div'), COMPANY)
     set_text(f.select_one('.fda-footer-top-center-left > .fda-text-style-h3'), MOTTO)
     set_button(f.select_one('.fda-footer-top-center-left > a.fda-button-main'), CTA_LABEL, '/contact')

@@ -40,6 +40,7 @@ The pages are generated files: a manual edit is overwritten by the next build. C
 | To change | Edit |
 | --- | --- |
 | Menu, footer, phone numbers, e-mail addresses, address, opening hours | `_build/shared.py` |
+| Logo (navigation bar: `images/aab/aab-logo-wide.svg`, footer: `images/aab/aab-logo.svg`, both redrawn from the client's card) | the files; their names in `_build/shared.py`, their sizes in `css/aab.css` |
 | Text the client asked to change on top of the live site's text | `_build/client_changes.py` |
 | Which sections a page uses and what goes into them | `_build/pages.py` |
 | Page list, certificate captions, banner pictures | `_build/site_data.py`, `BANNERS` in `_build/shared.py` |

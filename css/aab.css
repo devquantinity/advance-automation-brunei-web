@@ -3,7 +3,8 @@
  * Loaded after the template stylesheet on every page; keep AAB-specific styling here.
  */
 
-/* Logo: the AAB logo is full colour on white, so it sits on a white chip to stay readable on the dark nav and footer. */
+/* Logo: the AAB logo is full colour on white, so it sits on a white chip to stay readable on the dark nav and footer.
+   The bar uses the wide arrangement (mark left, Jawi / Malay / English names right), the footer the stacked one. */
 .fda-brand {
   max-width: none;
 }
@@ -11,27 +12,36 @@
 .fda-nav-logo.aab-logo {
   display: block;
   width: auto;
-  height: 36px;
-  padding: 6px 12px;
+  height: 56px;
+  padding: 8px 14px;
   background-color: #fff;
-  border-radius: 8px;
+  border-radius: 10px;
   box-sizing: content-box;
 }
 
 .aab-footer-logo {
   display: block;
-  width: 330px;
+  width: 300px;
   max-width: 100%;
   height: auto;
-  padding: 8px 14px;
+  padding: 16px 20px;
   background-color: #fff;
-  border-radius: 8px;
+  border-radius: 10px;
   box-sizing: border-box;
 }
 
 @media screen and (max-width: 991px) {
   .fda-nav-logo.aab-logo {
-    height: 32px;
+    height: 46px;
+    padding: 6px 12px;
+  }
+}
+
+/* The logo chip is taller than the menu row: keep a little air above and below it in the bar. */
+@media screen and (min-width: 992px) {
+  .fda-nav-logo-content {
+    padding-top: 8px;
+    padding-bottom: 8px;
   }
 }
 
@@ -66,8 +76,8 @@
    so it scrolls inside the screen instead of being cut off. */
 @media screen and (max-width: 991px) {
   .fda-navbar .w-nav-overlay [data-nav-menu-open] {
-    max-height: calc(100vh - 5rem);
-    max-height: calc(100dvh - 5rem);
+    max-height: calc(100vh - 6rem);
+    max-height: calc(100dvh - 6rem);
     overflow-y: auto;
     overscroll-behavior: contain;
   }
@@ -79,8 +89,8 @@
   }
 
   .fda-nav-logo.aab-logo {
-    height: 30px;
-    padding: 6px 10px;
+    height: 48px;
+    padding: 7px 12px;
   }
 }
 
@@ -91,8 +101,8 @@
   }
 
   .fda-nav-logo.aab-logo {
-    height: 26px;
-    padding: 5px 9px;
+    height: 40px;
+    padding: 6px 10px;
   }
 }
 
@@ -104,12 +114,12 @@
 
 @media screen and (max-width: 479px) {
   .fda-nav-logo.aab-logo {
-    height: 26px;
-    padding: 5px 10px;
+    height: 38px;
+    padding: 5px 9px;
   }
 
   .aab-footer-logo {
-    width: 280px;
+    width: 260px;
   }
 }
 
@@ -388,7 +398,8 @@ img.aab-contain {
    three columns are re-balanced and the two divider lines follow the column edges. */
 @media screen and (min-width: 768px) and (max-width: 991px) {
   .aab-footer-logo {
-    width: 210px;
+    width: 220px;
+    padding: 12px 14px;
   }
 
   .fda-footer-one-top-wrap {

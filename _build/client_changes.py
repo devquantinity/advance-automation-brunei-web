@@ -25,6 +25,10 @@ CHANGES = [
     ('products-and-services/calibration-certification-services',
      'Meeting the requirement of Quality Assurance ISO 9001-2008',
      'Meeting the requirement of Quality Assurance ISO 9001:2015, ISO 14001:2015 &amp; ISO 45001:2018'),
+    # 18 Nov 2026: Gas Detector is added to the Safety Equipments page (after the last item and its picture; no picture yet)
+    ('products-and-services/safety-products/safety-equipments',
+     'alt="Safeguard" width="556" height="254" /> </p>',
+     'alt="Safeguard" width="556" height="254" /> </p> <p>Gas Detector</p>'),
 ]
 
 
