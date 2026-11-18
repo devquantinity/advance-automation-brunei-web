@@ -13,6 +13,7 @@ from PIL import Image
 import client_changes as CC
 
 SRC = (os.environ.get('AAB_ROOT') or os.path.dirname(os.path.dirname(os.path.abspath(__file__)))) + '/source-site'
+CLIENT_IMAGES = os.path.dirname(os.path.abspath(__file__)) + '/client_images'   # pictures the client sent that the live site does not have
 MISSING_IMAGES = []          # (page, src) of images that are 404 on the live site
 _soups = {}
 
@@ -70,7 +71,9 @@ def local_image(src):
     sub = m.group(1)
     f = f'{SRC}/images/{sub}'
     if not os.path.isfile(f):
-        return None
+        f = f'{CLIENT_IMAGES}/{sub}'
+        if not os.path.isfile(f):
+            return None
     return 'images/aab/' + sub, f
 
 

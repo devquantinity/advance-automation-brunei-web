@@ -10,10 +10,11 @@ EMAILS = [EMAIL, 'technical@kemajuanautomasi.com']               # shown in the 
 ADDRESS = ['Unit B1, B8, Block 3,', 'Komplex Perindustrian Pekan Belait.', 'Spg 114, KA3131, Kuala Belait', 'P.O.Box. 168, KB1133, Seria', 'Negara Brunei Darussaalam']
 ISO_LINE = 'ISO 9001:2015 - ISO 14001:2015 - ISO 45001:2018 Certified'   # 45001 added at the client's request (23 Oct 2026)
 MOTTO = 'Service with an Honest faith'
-# the client's full logo (mark with the Jawi, Malay and English names), redrawn from the card they sent (18 Nov 2026):
-# the wide arrangement in the navigation bar, the stacked one (as on the card) in the footer.  (file, width, height)
-LOGO_WIDE = ('images/aab/aab-logo-wide.svg', 2008, 369)
-LOGO_FULL = ('images/aab/aab-logo.svg', 1391, 679)
+# the client's full logo (mark with the Jawi, Malay and English names) as on the card they sent (18 Nov 2026), drawn as
+# vectors: mark and Jawi from their original artwork (AASB_Name_and_Logo.jpg), the two name lines set as on the card.
+# The wide arrangement is used in the navigation bar, the stacked one (as on the card) in the footer.  (file, width, height)
+LOGO_WIDE = ('images/aab/aab-logo-wide.svg', 2039, 367)
+LOGO_FULL = ('images/aab/aab-logo.svg', 1391, 678)
 HOURS = [('Monday to Thursday', ['8:00am - 4:00pm']), ('Friday', ['8:00am - 12:00pm', '2:00pm - 4:00pm']), ('Saturday and Sunday, PH', ['Closed'])]
 # address unit B8 added and closing time 4pm (was 5pm) at the client's request (18 Nov 2026)
 COPYRIGHT = 'Copyright © 2011 - 2025 Advance Automation Sdn Bhd. All Rights Reserved.'

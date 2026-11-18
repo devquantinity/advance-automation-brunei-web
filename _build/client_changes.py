@@ -1,8 +1,9 @@
 """Changes the client asked for on top of the live site's text.
 
 They are applied to the scraped pages (source-site/pages) as those are read, so every page built from that text shows
-the new version, while source-site/ stays an untouched copy of the live site.  Contact details that do not come from the
-scrape (footer, contact page) and the ISO line are set in shared.py.
+the new version, while source-site/ stays an untouched copy of the live site.  Pictures the client sent that are not on
+the live site are kept in _build/client_images/ under the path the live site would use.  Contact details that do not
+come from the scrape (footer, contact page) and the ISO line are set in shared.py.
 
 Each entry is (page, old, new): page is the path below source-site/pages without .html, or '*' for every page.  The old
 text is matched with any run of white space between its words, because the scraped HTML is wrapped over several lines."""
@@ -25,10 +26,13 @@ CHANGES = [
     ('products-and-services/calibration-certification-services',
      'Meeting the requirement of Quality Assurance ISO 9001-2008',
      'Meeting the requirement of Quality Assurance ISO 9001:2015, ISO 14001:2015 &amp; ISO 45001:2018'),
-    # 18 Nov 2026: Gas Detector is added to the Safety Equipments page (after the last item and its picture; no picture yet)
+    # 18 Nov 2026: Gas Detector is added to the Safety Equipments page, after the last item, with the client's picture
+    # (_build/client_images/, as it is not on the live site)
     ('products-and-services/safety-products/safety-equipments',
      'alt="Safeguard" width="556" height="254" /> </p>',
-     'alt="Safeguard" width="556" height="254" /> </p> <p>Gas Detector</p>'),
+     'alt="Safeguard" width="556" height="254" /> </p> <p>Gas Detector</p> '
+     '<p style="text-align: center"><img src="/images/aab/products-services/Safety_Equipment/Portable-Gas-Detector.jpg" '
+     'alt="Portable Gas Detector" width="400" height="400" /></p>'),
 ]
 
 
